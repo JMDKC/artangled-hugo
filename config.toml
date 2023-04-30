@@ -1,0 +1,15 @@
+googleAnalytics = 'G-W1VYJ3RD4H'
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Artangled'
+theme = 'hugo-theme-nostyleplease'
+author = 'Joseph Clift'
+
+
+[params]
+  [params.theme_config]
+    appearance = "auto"
+    back_home_text = "Home"
+    date_format = "2006-01-02"
+    show_description = true
+    title = "Home"
