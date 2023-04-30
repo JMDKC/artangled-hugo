@@ -8,7 +8,7 @@ tags:
   - London
 ---
 
-Richard Tuttle’s art has consistently been defined - and derided - by the modesty of its means. Over an artistic career of almost 50 years, his wood reliefs, his single wires, his pencil marks on the wall have remained provocatively small-scale. But, taken together, I think there’s a hypnotic pull to his works. You can see for yourself with his latest collection, [on show right now at Modern Art in Mayfair](https://modernart.net/exhibitions/richard-tuttle-18-x-24).
+Richard Tuttle’s art has consistently been defined - and derided - by the modesty of its means. Over an artistic career of almost 50 years, his wood reliefs, his single wires, his pencil marks on the wall have remained provocatively small-scale. But, taken together, I think there’s a hypnotic pull to his works. You can see for yourself with his latest collection, [on show right now at Modern Art](https://modernart.net/exhibitions/richard-tuttle-18-x-24).
 
 These new works are arrayed at eye level around the walls of the gallery. Each was made in the same way: Tuttle drew something or other onto 18x24 inch paper, hence the name of the show, cut it out, layered one or more pieces of polystyrene-like foam on top, and painted another design on the foam with bright acrylics.
 
