@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenneth Noland on Artangled</title>
+    <link>http://example.org/tags/kenneth-noland/</link>
+    <description>Recent content in Kenneth Noland on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/kenneth-noland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kenneth Noland: Stripes/Plaids/Shapes | PACE</title>
+      <link>http://example.org/posts/noland-pace/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/noland-pace/</guid>
+      <description>Kenneth Noland put himself under a lot of pressure to achieve such chilled-out art. He’s been called a “minimalist” or “colour field” painter, with his large canvases banded with simple patterns - or just stripes. In fact, Stripes/ Plaids/ Shapes, the title of this show, Noland’s first monograph exhibition in the UK for over 20 years, pretty much sums up what’s on display.
+So, where’s the pressure from? In the technique.</description>
+    </item>
+    
+  </channel>
+</rss>

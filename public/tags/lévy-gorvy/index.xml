@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lévy Gorvy on Artangled</title>
+    <link>http://example.org/tags/l%C3%A9vy-gorvy/</link>
+    <description>Recent content in Lévy Gorvy on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/l%C3%A9vy-gorvy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Source and Stimulus | Lévy Gorvy</title>
+      <link>http://example.org/posts/laing-levy-gorvy/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/laing-levy-gorvy/</guid>
+      <description>This pocket blockbuster of an exhibition is devoted to the &amp;lsquo;Ben-day dot&amp;rsquo;: those little dots on printed paper that make up images, if you look closely enough. Visible printed dots making up images on low-grade paper are, of course, a relic of the 20th century.
+The advent of Pop Art in the 1960s was all about artists getting into commercial culture, and its mass-produced physical relics. This meant, for Sigmar Polke, Roy Lichtenstein and Gerald Laing, painstakingly painting reproductions of Ben-day dots to render iconic reproductions of pictures they saw in magazines, ads and pulp fiction books.</description>
+    </item>
+    
+  </channel>
+</rss>

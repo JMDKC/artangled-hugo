@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anthony Caro on Artangled</title>
+    <link>http://example.org/tags/anthony-caro/</link>
+    <description>Recent content in Anthony Caro on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/anthony-caro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthony Caro - Seven Decades | Annely Juda Fine Art</title>
+      <link>http://example.org/posts/stoner-modern/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/stoner-modern/</guid>
+      <description>Despite the epic title, this one is a small, lovingly-curated show over two floors in a quiet upstairs gallery off Oxford Street. I particularly loved the bigger machine-like works on the upper floor.
+They’re collectively a study in contrasts: the forms balanced between the rectilinear and the curvy; the material combining both reused parts and the purpose-built; the surfaces vary between the smooth and the pitted.
+What about Sky Passage (T0179), a very recent, three metre high work from 2015.</description>
+    </item>
+    
+  </channel>
+</rss>

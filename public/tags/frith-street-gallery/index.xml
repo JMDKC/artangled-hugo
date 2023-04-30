@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frith Street Gallery on Artangled</title>
+    <link>http://example.org/tags/frith-street-gallery/</link>
+    <description>Recent content in Frith Street Gallery on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/frith-street-gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Massimo Bartolini - Credits | Frith Street Gallery</title>
+      <link>http://example.org/posts/bartolini-frith/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bartolini-frith/</guid>
+      <description>It seems like a long time ago, now: a world where taking a trip to Italy was an indulgence, rather than an impossibility. I used some of my two days in Turin, back in late 2017, to visit the Fondazione Merz, a converted Lancia factory in a pretty suburb. Sitting on its concrete floor as the September sun slanted through its high windows, the space rebounded with metallic clanks, whizzes and hisses.</description>
+    </item>
+    
+    <item>
+      <title>Elmgreen &amp; Dragset - This Is How We Bite Our Tongue | Whitechapel Gallery</title>
+      <link>http://example.org/posts/elmgreen-dragset-whitechapel/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/elmgreen-dragset-whitechapel/</guid>
+      <description>Whitechapel Gallery has been transformed into a derelict swimming pool with an imaginary backstory. Built by a Victorian philanthropist (the story goes), the Whitechapel Pool played host to Tesco founder Jack Cohen and David Hockney over its decades as a public utility. Then it got shut down in the privatisation-happy Thatcher era, before being renovated as part of a “design hotel” opening in 2019. Unfortunately for future Cohens and Hockneys, it’ll be accessible only through membership.</description>
+    </item>
+    
+  </channel>
+</rss>

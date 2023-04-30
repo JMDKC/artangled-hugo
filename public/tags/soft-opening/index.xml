@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soft Opening on Artangled</title>
+    <link>http://example.org/tags/soft-opening/</link>
+    <description>Recent content in Soft Opening on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/soft-opening/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cynthia Talmadge - Four Courtroom Outfits of Anna Delvey | Soft Opening</title>
+      <link>http://example.org/posts/talmadge-soft/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/talmadge-soft/</guid>
+      <description>I read the original New York Magazine exposé of Anna Delvey, the mysteriously-accented genius grifter, in bed one Saturday morning, phone a couple of inches from my riveted eyes, too fascinated to even reach over to my bedside table for my glasses.
+While that was fun for a morning read, plus a few days of Twitter hilarity, I have to say I’m surprised that Delvey’s impact on the culture means she’s now the subject of a London exhibition viewed by thousands of people a day.</description>
+    </item>
+    
+    <item>
+      <title>Débora Delmar - Corporate Facades | Soft Opening</title>
+      <link>http://example.org/posts/delmar-soft/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/delmar-soft/</guid>
+      <description>I&amp;rsquo;m a Londoner who writes regularly about exhibitions at commercial galleries. This means I spend a lot of my time, in lunch hours and at weekends, walking around the tangle of streets behind the Royal Academy, where designer clothes and jewellery shops and white cubes jostle for space.
+Mexican artist Débora Delmar is also familiar with these Mayfair streets, as they&amp;rsquo;re the subject of this mini show in the mini gallery at Picadilly Circus underground station.</description>
+    </item>
+    
+  </channel>
+</rss>

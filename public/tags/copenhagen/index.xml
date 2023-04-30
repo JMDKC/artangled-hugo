@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Copenhagen on Artangled</title>
+    <link>http://example.org/tags/copenhagen/</link>
+    <description>Recent content in Copenhagen on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/copenhagen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ed Ruscha - Very | Louisiana</title>
+      <link>http://example.org/posts/ruscha-louisiana/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/ruscha-louisiana/</guid>
+      <description>I can&amp;rsquo;t shake the sneaking suspicion that Ed Ruscha&amp;rsquo;s partly to blame for the inspirational quote pictures that are a solid building block of so many Instagram accounts these days. Which is maybe a bit unfair, but at least pays tribute to the range of his influence.
+It&amp;rsquo;s his works on paper, including sketches and a variety of books he&amp;rsquo;s published over the decades, that are the focus of this show.</description>
+    </item>
+    
+  </channel>
+</rss>

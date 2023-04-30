@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avilés on Artangled</title>
+    <link>http://example.org/tags/avil%C3%A9s/</link>
+    <description>Recent content in Avilés on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/avil%C3%A9s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pedro Masaveu - Pasión por Sorolla  | Centro Niemeyer</title>
+      <link>http://example.org/posts/sorolla-niemeyer/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/sorolla-niemeyer/</guid>
+      <description>This large(ish) show is made up of work&amp;rsquo;s from the entirety of Joaquín Sorolla&amp;rsquo;s career, amassed by the titular collector. There are 45 paintings in all on show, presented in strict chronological order in transparent frames, as though they are floating in the middle of the domed gallery. (There&amp;rsquo;s a whole separate post I could have written about the utter weirdness of this empty and echoing Jetsons-style, Oscar Niemeyer designed, cultural centre, stranded in an estury, next to a train track and a main road, in a sleepy Asturian coastal town.</description>
+    </item>
+    
+  </channel>
+</rss>

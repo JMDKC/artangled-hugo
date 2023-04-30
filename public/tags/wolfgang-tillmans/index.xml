@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wolfgang Tillmans on Artangled</title>
+    <link>http://example.org/tags/wolfgang-tillmans/</link>
+    <description>Recent content in Wolfgang Tillmans on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/wolfgang-tillmans/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summer Exhibition 2020 | Royal Academy</title>
+      <link>http://example.org/posts/summer-academy/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/summer-academy/</guid>
+      <description>The Royal Academy has been pretty conservative with its COVID response, tightening capacity by 80% and making pre-booking compulsory for everyone, members included. It seems tighter than Tate (whose Bruce Nauman show, which I also visited this week, was pretty full). Or maybe it’s the nature of its Summer Exhibition, delayed by lockdown, with over 1,000 works crowding the walls of the main galleries, that makes the relative paucity of the crowds stand out still more.</description>
+    </item>
+    
+  </channel>
+</rss>

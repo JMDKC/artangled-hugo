@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grove Square Galleries on Artangled</title>
+    <link>http://example.org/tags/grove-square-galleries/</link>
+    <description>Recent content in Grove Square Galleries on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/grove-square-galleries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Orlanda Broom: Shapeshifters | Grove Square Galleries</title>
+      <link>http://example.org/posts/broom-grove/</link>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/broom-grove/</guid>
+      <description>Producing this collection of abstract works, made with colourful resin on canvas, must have taken a toll on the artist. Orlanda Broom can only work on works using resin for a couple of months each year - otherwise the ambient temperature isn’t right. The perfectionist artist also doesn’t allow any resin works with trapped hairs and dust out of the studio.
+“I’m interested in the interpretation of abstract works,” she says.</description>
+    </item>
+    
+  </channel>
+</rss>

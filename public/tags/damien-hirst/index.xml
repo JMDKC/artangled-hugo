@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Damien Hirst on Artangled</title>
+    <link>http://example.org/tags/damien-hirst/</link>
+    <description>Recent content in Damien Hirst on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/damien-hirst/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rachel Howard: You Have a New Memory | Simon Lee</title>
+      <link>http://example.org/posts/howard-lee/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/howard-lee/</guid>
+      <description>I first featured the British painter Rachel Howard on this site in 2018, when I saw a stately and sombre show of hers in Damien Hirst’s cavernous Newport Street Gallery. Back then, she showed works based around the stations of the cross. This new exhibition, Howard’s first at Simon Lee, is a more intimate affair, both spatially, in that the Mayfair gallery’s a bit pokier, and in the subject matter.</description>
+    </item>
+    
+    <item>
+      <title>Damien Hirst: Relics and Fly Paintings | Gagosian</title>
+      <link>http://example.org/posts/hirst-gagosian/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/hirst-gagosian/</guid>
+      <description>Again and again, on this site I’ve returned to exhibitions from the YBAs of the 90s. Damien Hirst, the most famous of them all probably, relies more on spectacle these days than the mature style of his contemporaries Gillian Wearing, Tracey Emin and Gary Hume, for example.
+Gagosian, with its black clad security guards and show-off cavernous spaces, is a perfect venue for Hirst, who’s come up with a variety of spectacular installations to be on display there for the next few months.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gustave Doré on Artangled</title>
+    <link>http://example.org/tags/gustave-dor%C3%A9/</link>
+    <description>Recent content in Gustave Doré on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/gustave-dor%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Forest | Parafin</title>
+      <link>http://example.org/posts/forest-parafin/</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/forest-parafin/</guid>
+      <description>I’ve always liked a good thematic group show, and this one at Parafin didn’t disappoint. The theme is &amp;rsquo;the forest&amp;rsquo;, which are part of our shared consciousness, even for those of us who live in the middle of large cities. Across different cultures and times, the forest represents a quiet place to retreat to and hide. But it&amp;rsquo;s also a lonely place, where monsters may lurk.
+The exhibition begins with an engraving from the mystical French artist Gustave Doré to set the scene.</description>
+    </item>
+    
+  </channel>
+</rss>

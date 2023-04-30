@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ordovas on Artangled</title>
+    <link>http://example.org/tags/ordovas/</link>
+    <description>Recent content in Ordovas on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/ordovas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Always Drawing - José Antonio Suárez Londoño | Ordovas</title>
+      <link>http://example.org/posts/londono-ordovas/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/londono-ordovas/</guid>
+      <description>This Colombian artist must be a gallerist’s dream: his tiny, ornate pen and ink drawings, arranged in this exhibition in attractive rows, are deeply pretty, crafty and uplifting. Each features a tiny stamp proving ownership, just for that little extra bit of covetability; the artist, cultivating the brand, likes to be known just as “JASL”.
+There are 100 drawings in all, along with 50 etchings, covering most of the smallish gallery.</description>
+    </item>
+    
+  </channel>
+</rss>

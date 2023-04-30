@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Cézanne on Artangled</title>
+    <link>http://example.org/tags/paul-c%C3%A9zanne/</link>
+    <description>Recent content in Paul Cézanne on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/paul-c%C3%A9zanne/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 5 of 2020</title>
+      <link>http://example.org/posts/top-5-2020/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/top-5-2020/</guid>
+      <description>This is my third year of the Artangled project, and my third end-of-year roundup. I&amp;rsquo;ll stick to the 2018 and 2019 format, listing the five art exhibitions I enjoyed most this year. Previously, I&amp;rsquo;ve also called out a couple of shows I didn&amp;rsquo;t enjoy. But for 2020, there’s only one candidate for my festive lump of coal: the global pandemic itself, one of whose side effects was to shutter London&amp;rsquo;s art galleries for months on end.</description>
+    </item>
+    
+    <item>
+      <title>Paul Cézanne - Drawings - Tess Jaray - Roundels | Karsten Schubert</title>
+      <link>http://example.org/posts/cezanne-jaray-schubert/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cezanne-jaray-schubert/</guid>
+      <description>I spent a magical half hour here, in the weakening early autumn sunlight. The viewing room at Karsten Schubert, looking out onto Lexington Street in Soho from an upper floor of an 18th century former townhouse, hosts two utterly different sets of works: Jaray’s mathematical, precise, abstracted pairs of painted roundels, and intimate preparatory sketches and doodles from Cézanne.
+It’s more interesting to me how each work relates to the space, rather than how the artists relate to each other.</description>
+    </item>
+    
+  </channel>
+</rss>

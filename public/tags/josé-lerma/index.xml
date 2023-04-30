@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>José Lerma on Artangled</title>
+    <link>http://example.org/tags/jos%C3%A9-lerma/</link>
+    <description>Recent content in José Lerma on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/jos%C3%A9-lerma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>José Lerma: Guerras Tibias | Almine Rech</title>
+      <link>http://example.org/posts/lerma-rech/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/lerma-rech/</guid>
+      <description>José Lerma’s striking recent paintings, several of which are on show downstairs at Almine Rech at the moment, are both austere and abundant. Austere in their extreme economy of huge brushstrokes, but abundant in the sheer quantity of paint used to make them. The artist achieves this effect by using a commercial broom to apply acrylic paint directly to a rough burlap canvas.
+The head of each subject, most of which are captured in profile, fills each frame almost exactly.</description>
+    </item>
+    
+  </channel>
+</rss>

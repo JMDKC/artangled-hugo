@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Catherine Opie on Artangled</title>
+    <link>http://example.org/tags/catherine-opie/</link>
+    <description>Recent content in Catherine Opie on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/catherine-opie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Catherine Opie: To What We Think We Remember | Thomas Dane Gallery</title>
+      <link>http://example.org/posts/opie-dane/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/opie-dane/</guid>
+      <description>Catherine Opie is a globally-famous photographer who’s broadened her artistic topics of interest over recent years. She hit the big time in the 90s through her confrontational self-portraits, carving words and pictures into her flesh. They’re still her best-known photos. But a set of her work from the last decade, currently on show at Thomas Dane Gallery, reveals an artist in a lyrical mood.
+These are photos of calm lakes, sunlit windows and dappled light, revealed in lush pigment prints.</description>
+    </item>
+    
+  </channel>
+</rss>

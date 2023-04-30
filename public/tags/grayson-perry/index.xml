@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grayson Perry on Artangled</title>
+    <link>http://example.org/tags/grayson-perry/</link>
+    <description>Recent content in Grayson Perry on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/grayson-perry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grayson Perry: Posh Cloths | Victoria Miro</title>
+      <link>http://example.org/posts/perry-miro/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/perry-miro/</guid>
+      <description>Grayson Perry’s been making a multi-media attack on the idea of Englishness over recent years. In 2019, Perry had an exhibition of pots on this theme at Victoria Miro’s Mayfair space in 2019. Most recently, there&amp;rsquo;s this exhibition of textile works, and a TV show called Grayson Perry’s Full English. In both, Perry pokes at, and sometimes celebrates, English people&amp;rsquo;s sense of themselves.
+I said the exhibition had &amp;ldquo;textile works&amp;rdquo;, but these particular posh cloths are actually tapestries.</description>
+    </item>
+    
+    <item>
+      <title>Summer Exhibition 2020 | Royal Academy</title>
+      <link>http://example.org/posts/summer-academy/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/summer-academy/</guid>
+      <description>The Royal Academy has been pretty conservative with its COVID response, tightening capacity by 80% and making pre-booking compulsory for everyone, members included. It seems tighter than Tate (whose Bruce Nauman show, which I also visited this week, was pretty full). Or maybe it’s the nature of its Summer Exhibition, delayed by lockdown, with over 1,000 works crowding the walls of the main galleries, that makes the relative paucity of the crowds stand out still more.</description>
+    </item>
+    
+  </channel>
+</rss>

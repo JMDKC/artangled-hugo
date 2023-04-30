@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>October Gallery on Artangled</title>
+    <link>http://example.org/tags/october-gallery/</link>
+    <description>Recent content in October Gallery on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/october-gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Romauld Hazoumè: Carnaval | October Gallery</title>
+      <link>http://example.org/posts/hazoume-october/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/hazoume-october/</guid>
+      <description>Like Antoni Tàpies, featured on here last week, Romauld Hazoumè uses found objects in his work. But the two artists could hardly be more different. As this show highlights, Hazoumè is droll, down to earth and humanist where Tàpies is sober, grand and ethereal.
+This artist, who lives and works in Benin, uses discarded oilcans, bottles, feathers and other throwaway objects to produce what he calls masques bidons (repurposed masks). The title of the exhibition’s a clue to the kind of atmosphere Hazoumè wants to create: just like at a carnival parade, the masks shouldn’t just look good, they also provide a kind of subversive social commentary.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hughie O’Donoghue on Artangled</title>
+    <link>http://example.org/tags/hughie-odonoghue/</link>
+    <description>Recent content in Hughie O’Donoghue on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/hughie-odonoghue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hughie O’Donoghue: Deep Water and the Architecture of Memory | Marlborough Fine Art</title>
+      <link>http://example.org/posts/odonoghue-marlborough/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/odonoghue-marlborough/</guid>
+      <description>Hughie O’Donoghue is a Manchester-born painter who now lives in Ireland. I say painter, but the works on show in this exhibition are complex, layered collages that include painting, but are also built up through photographs and resin. Especially unusual are the bases: O’Donoghue paints and prints on shiny tarpaulins, sackcloths, sandbags, which must make his craft very technically difficult to pull off.
+Taken as a whole, the images are haunting.</description>
+    </item>
+    
+  </channel>
+</rss>

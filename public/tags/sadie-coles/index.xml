@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sadie Coles on Artangled</title>
+    <link>http://example.org/tags/sadie-coles/</link>
+    <description>Recent content in Sadie Coles on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/sadie-coles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paloma Varga Weisz - Wild Bunch | Sadie Coles HQ</title>
+      <link>http://example.org/posts/weisz-sadie-coles/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/weisz-sadie-coles/</guid>
+      <description>Being a woodcarver in Bavaria seems an unlikely apprenticeship for a fine artist, but looking around this show, currently on at Sadie Coles, it all sort of makes sense. Paloma Varga Weisz started woodcarving in a tiny town in the mountains after being rejected from art school the first time round. After getting in at the second try, she began a more formal education in Düsseldorf, home of a crop of sober, straightforwardly honest artists and photographers of the late 20th century.</description>
+    </item>
+    
+  </channel>
+</rss>

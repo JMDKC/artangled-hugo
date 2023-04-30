@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rijksmuseum on Artangled</title>
+    <link>http://example.org/tags/rijksmuseum/</link>
+    <description>Recent content in Rijksmuseum on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/rijksmuseum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interlude - Pieter Saenraedam at the Rijksmuseum</title>
+      <link>http://example.org/posts/saenraedam-rijksmuseum/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/saenraedam-rijksmuseum/</guid>
+      <description>Pieter Saenraedam was famous in his lifetime - as he is now - for his paintings of church interiors, which was a whole genre by itself in the Dutch Golden Age. His work stands out for its serenity and calm, and his great skill in dealing with endless shades of white.
+White stands for spiritual purity. His bare, unadorned spaces are the results of violent social upheaval: Saenraedam painted Romanesque and Gothic churches, built centuries before for the then-all-powerful Catholic church.</description>
+    </item>
+    
+    <item>
+      <title>Rembrandt-Velázquez - Dutch &amp; Spanish Masters | Rijksmuseum</title>
+      <link>http://example.org/posts/rembrandt-rijksmuseum/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/rembrandt-rijksmuseum/</guid>
+      <description>Talk about star power! Not since Etre moderne, a “best of MoMA” show that took over the Fondation Louis Vuitton in late 2017 while the iconic New York museum was being renovated, have I experienced such concentrated artistic fame in a standalone exhibition.
+The concept is simple: a pair of Spanish and Dutch 17th century masterworks, thematically linked, are placed side by side on each wall, in a kind of Godzilla vs Mothra of Baroque mastery.</description>
+    </item>
+    
+  </channel>
+</rss>

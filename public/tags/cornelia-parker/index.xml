@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cornelia Parker on Artangled</title>
+    <link>http://example.org/tags/cornelia-parker/</link>
+    <description>Recent content in Cornelia Parker on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cornelia-parker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alex Margo Arden: All Clear | Ginny on Frederick</title>
+      <link>http://example.org/posts/arden-frederick/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/arden-frederick/</guid>
+      <description>Inside a small, tiled room opposite Smithfield meat market, surrounded by an unplacable odour, lies a charismatic pile of wooden furniture. It’s the work of Alex Margo Arden, a performance artist with her roots in the theatre. It’s on show in a gallery that used to be an old fashioned sandwich shop, the kind made practically extinct by the rise of Pret and its bougier competitors, especially in the city centre.</description>
+    </item>
+    
+  </channel>
+</rss>

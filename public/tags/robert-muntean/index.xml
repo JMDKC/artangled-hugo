@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Muntean on Artangled</title>
+    <link>http://example.org/tags/robert-muntean/</link>
+    <description>Recent content in Robert Muntean on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/robert-muntean/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clare Woods - Doublethink | Simon Lee</title>
+      <link>http://example.org/posts/stoner-modern/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/stoner-modern/</guid>
+      <description>This artist’s practice has similar roots to other artists I’ve featured on this site before. Like Robert Muntean, Clare Woods takes found images from newspapers and magazines and makes something new with them.
+Like her compatriot Gary Hume, she paints on aluminium, giving the final works an ultra-clean, shiny, textured look. Like Rachel Howard , she paints from above, letting the drips fall down the edges of the works.
+But Woods’ overall effects are unique.</description>
+    </item>
+    
+    <item>
+      <title>Robert Muntean - Just Like Honey | Rosenfeld Porcini</title>
+      <link>http://example.org/posts/muntean-rosenfeld/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/muntean-rosenfeld/</guid>
+      <description>Austria-born, Berlin-based painter Robert Muntean says he’s inspired by Richard Gerstl, and there’s definitely something of the Secession-era artist’s taste for the obliterative in his new paintings, which often depicts figures only in outline, slashed by colours, large stretches of canvas left raw. They’re on show at Rosenfeld Porcini in Fitzrovia at the moment.
+I’m thinking of Gerstl’s portrait of the family of Arnold Schoenberg, painted while having an affair with the mother of the house, just before discovery, and the painter’s descent into madness and suicide.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Rauschenberg on Artangled</title>
+    <link>http://example.org/tags/robert-rauschenberg/</link>
+    <description>Recent content in Robert Rauschenberg on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/robert-rauschenberg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carolee Schneemann: Body Politics | Barbican</title>
+      <link>http://example.org/posts/schneemann-barbican/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/schneemann-barbican/</guid>
+      <description>I first heard about the Queen’s death just after seeing this exhibition, a full career retrospective of the US painter and performance artist Carolee Schneemann. On getting the notification on my phone, sat in a comfy chair on the ground floor of the Barbican Centre, I took off my headphones - maybe expecting that the large, crowded, concrete-clad room would fall into reverent monarchist silence, and that I should experience that momentous hush.</description>
+    </item>
+    
+    <item>
+      <title>Takis | Tate Modern</title>
+      <link>http://example.org/posts/takis-tate/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/takis-tate/</guid>
+      <description>Despite the multi-decade career - he died just after this Tate Modern show opened - the “kinetic” artist Takis is bound into the 1960s, specifically the decade’s go-ahead technological positivity. His art, kindled by the possibilities of electromagnetism and machinery, shows an excitement and wonder similar to that of the IBM pavilion at the 1965 World’s Fair, or Vasarely’s strobing patterns.
+That’s not to suggest this exhibition is any fun though.</description>
+    </item>
+    
+    <item>
+      <title>Edward Burne-Jones | Tate Britain</title>
+      <link>http://example.org/posts/burne-jones-tate/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/burne-jones-tate/</guid>
+      <description>I went into this large exhibition ready to write off Edward Burne-Jones as total kitsch. But he resists being dismissed. The show is full of annoying reminders of the artist&amp;rsquo;s great popularity - from the start - and the fact that he was an epic do-gooder. Rising to world fame from humble origins, unlike some of his fellow pre-Raphaelites, Burne-Jones went into business with Socialist paragon of virtue William Morris to produce mass-market wall-hangings, to go along with his paintings for rich patrons and collectors; he saw no distinction between fine and decorative art.</description>
+    </item>
+    
+  </channel>
+</rss>

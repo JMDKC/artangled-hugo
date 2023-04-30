@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goodman Gallery on Artangled</title>
+    <link>http://example.org/tags/goodman-gallery/</link>
+    <description>Recent content in Goodman Gallery on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/goodman-gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alfredo Jaar: 25 Years Later | Goodman Gallery</title>
+      <link>http://example.org/posts/jaar-goodman/</link>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/jaar-goodman/</guid>
+      <description>An example, for this viewer at least, of unintended consequences between an artwork’s intention and its effect. Alfredo Jaar’s exhibition is a sober document of one of the most horrific events of the last century: the sectarian violence that swept Rwanda in 1994, leaving over a million dead. Thes events unfolded, he argues, without the blanket coverage from an outraged global media they warranted.
+To illustrate his point, he’s lined up a row of front covers for Newsweek, which 25 years ago was one of the most-read news weeklies in the world.</description>
+    </item>
+    
+  </channel>
+</rss>

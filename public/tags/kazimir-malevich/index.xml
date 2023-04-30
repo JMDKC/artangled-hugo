@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kazimir Malevich on Artangled</title>
+    <link>http://example.org/tags/kazimir-malevich/</link>
+    <description>Recent content in Kazimir Malevich on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/kazimir-malevich/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Damien Hirst: Relics and Fly Paintings | Gagosian</title>
+      <link>http://example.org/posts/hirst-gagosian/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/hirst-gagosian/</guid>
+      <description>Again and again, on this site I’ve returned to exhibitions from the YBAs of the 90s. Damien Hirst, the most famous of them all probably, relies more on spectacle these days than the mature style of his contemporaries Gillian Wearing, Tracey Emin and Gary Hume, for example.
+Gagosian, with its black clad security guards and show-off cavernous spaces, is a perfect venue for Hirst, who’s come up with a variety of spectacular installations to be on display there for the next few months.</description>
+    </item>
+    
+  </channel>
+</rss>

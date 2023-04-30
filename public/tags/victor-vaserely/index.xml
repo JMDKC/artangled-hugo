@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor Vaserely on Artangled</title>
+    <link>http://example.org/tags/victor-vaserely/</link>
+    <description>Recent content in Victor Vaserely on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/victor-vaserely/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Protean: Art &amp; Architecture in Post-War France | Hanina Fine Arts</title>
+      <link>http://example.org/posts/pichette-hanina/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/pichette-hanina/</guid>
+      <description>Everything sounds better in French. Their version of massive, heavy, dour post-war Abstract Expressionism is the lither, prettier Abstraction lyrique. While Pollock and Rothko painted with the weight of the world on their shoulders, their counterparts across the pond seemed to share a brighter, lighter outlook.
+Perhaps their happiness came from the large amount of government support on offer. This exhibition focuses on paintings from artists who benefitted from the “1% policy” - promoted by the novelist André Malraux, who became France’s first cultural affairs minister in the post-war years.</description>
+    </item>
+    
+  </channel>
+</rss>

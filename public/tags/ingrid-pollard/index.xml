@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ingrid Pollard on Artangled</title>
+    <link>http://example.org/tags/ingrid-pollard/</link>
+    <description>Recent content in Ingrid Pollard on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/ingrid-pollard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ingrid Pollard: Carbon Slowly Turning | MK Gallery</title>
+      <link>http://example.org/posts/pollard-mk/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/pollard-mk/</guid>
+      <description>“It was quite busy today, we had a queue!” said the gallerist to her colleague, as I was leaving this retrospective show of Guyana-born, London-based photographer Ingrid Pollard. I guess she meant either that this exhibition in particular isn’t drawing in massive crowds, or that this large, beautiful gallery doesn’t tend to attract crowds in general. I suspect the latter, given the uncanny, uber quiet atmosphere of Milton Keynes in general.</description>
+    </item>
+    
+  </channel>
+</rss>

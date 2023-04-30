@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dale Chihuly on Artangled</title>
+    <link>http://example.org/tags/dale-chihuly/</link>
+    <description>Recent content in Dale Chihuly on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/dale-chihuly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Museum of the Moon | Durham Cathedral</title>
+      <link>http://example.org/posts/moon-durham/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/moon-durham/</guid>
+      <description>This work’s simple and impressive: it’s a big blow-up model of the moon. Stencilled with detailed topographical photographs from NASA, this incredible inflatable has been touring for a couple of years, everywhere from downtown Kolkata to the Natural History Museum in London.
+I saw it in one of the most awesome rooms in the world, Durham Cathedral. With its pointed arch vault gesturing towards the Gothic, and its fat columns and piers grounded in the Romanesque, this thousand-year-old space is huge and dim.</description>
+    </item>
+    
+    <item>
+      <title>Chihuly - Reflections on nature | Kew Gardens</title>
+      <link>http://example.org/posts/chihuly-kew/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/chihuly-kew/</guid>
+      <description>There’s nothing wrong with being a people pleaser. And Dale Chihuly’s one of them. Final proof, if proof were needed, of this view is provided by In the Light of Jerusalem, a film playing in the confines of the Shirley Sherwood gallery: the small indoor section of a big outdoor show devoted to Chihuly that spreads over a good portion of Kew’s 300 acres.
+The film shows the artist, famous for his fantastical glassworks, in the throes of building one of his most famous outdoor sculptures: a wall of big ice blocks, stacked in front of the Citadel Tower, and under the hot Jerusalem sun, marking the turn of the millennium in 2000.</description>
+    </item>
+    
+  </channel>
+</rss>

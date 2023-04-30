@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Grassie on Artangled</title>
+    <link>http://example.org/tags/andrew-grassie/</link>
+    <description>Recent content in Andrew Grassie on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/andrew-grassie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Andrew Grassie: Looking for something that doesn’t exist | Maureen Paley</title>
+      <link>http://example.org/posts/grassie-paley/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/grassie-paley/</guid>
+      <description>This exhibition is seasonally appropriate. I viewed Andrew Grassie’s monochrome paintings on the kind of dark January day where which the sun seems barely to lift from the horizon. The gallery, in an old school building, was viciously strongly lit, as if to compensate for the gloominess outside. The hard electric light made these small, grey, wintry paintings even harder to make out.
+This all suits the show&amp;rsquo;s mysterious subject matter.</description>
+    </item>
+    
+  </channel>
+</rss>

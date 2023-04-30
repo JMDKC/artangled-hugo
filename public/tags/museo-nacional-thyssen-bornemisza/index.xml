@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Museo Nacional Thyssen-Bornemisza on Artangled</title>
+    <link>http://example.org/tags/museo-nacional-thyssen-bornemisza/</link>
+    <description>Recent content in Museo Nacional Thyssen-Bornemisza on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/museo-nacional-thyssen-bornemisza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interlude - Egon Schiele at the Museo Nacional Thyssen-Bornemisza</title>
+      <link>http://example.org/posts/schiele-thyssen/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/schiele-thyssen/</guid>
+      <description>Maybe it’s bad taste, maybe it’s cliché to use this artist for a pandemic-inspired post. Egon Schiele is one of the most famous victims of the 1919 Spanish Flu outbreak, dying aged 28, three days after his pregnant wife. While he’s best-known for his tormented, electrically-hued, sinewy nudes, Schiele left a considerable legacy in landscape painting, too.
+How many new town scenes would he have painted, had the flu not cut him down?</description>
+    </item>
+    
+  </channel>
+</rss>

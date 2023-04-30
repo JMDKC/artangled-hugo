@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claude Lorrain on Artangled</title>
+    <link>http://example.org/tags/claude-lorrain/</link>
+    <description>Recent content in Claude Lorrain on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/claude-lorrain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Late Constable | Royal Academy</title>
+      <link>http://example.org/posts/constable-royal-academy/</link>
+      <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/constable-royal-academy/</guid>
+      <description>A few years back, I bought a print of one of my favourite works in the National Gallery, which as a native Londoner I’ve passed countless times over the years. Cenotaph to the Memory of Sir Joshua Reynolds was completed by John Constable in 1836, a year before the painter’s death. The romantic, autumnal scene, the deep browns of the mostly-bare trees melding into the vanilla-yellow, darkening sky, a ghostly stag gazing straight back at the viewer, is still on my wall.</description>
+    </item>
+    
+  </channel>
+</rss>

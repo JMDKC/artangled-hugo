@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Débora Delmar on Artangled</title>
+    <link>http://example.org/tags/d%C3%A9bora-delmar/</link>
+    <description>Recent content in Débora Delmar on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/d%C3%A9bora-delmar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Débora Delmar - Corporate Facades | Soft Opening</title>
+      <link>http://example.org/posts/delmar-soft/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/delmar-soft/</guid>
+      <description>I&amp;rsquo;m a Londoner who writes regularly about exhibitions at commercial galleries. This means I spend a lot of my time, in lunch hours and at weekends, walking around the tangle of streets behind the Royal Academy, where designer clothes and jewellery shops and white cubes jostle for space.
+Mexican artist Débora Delmar is also familiar with these Mayfair streets, as they&amp;rsquo;re the subject of this mini show in the mini gallery at Picadilly Circus underground station.</description>
+    </item>
+    
+  </channel>
+</rss>

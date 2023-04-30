@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Petit Palais on Artangled</title>
+    <link>http://example.org/tags/petit-palais/</link>
+    <description>Recent content in Petit Palais on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/petit-palais/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ilya Repin: Painting the soul of Russia | Petit Palais</title>
+      <link>http://example.org/posts/repin-petit-palais/</link>
+      <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/repin-petit-palais/</guid>
+      <description>It’s a fleeting moment in time, captured in oil paints some time in 1876. Ilya Repin, fresh out of art school and on a sponsored stay in Paris, spotted a moody young man, leaning on a wall in a back street of Montmartre. The painting ended up in a public collection in Saratov, labelled, simply, этюд (‘Study’). And now it’s back to its city of origin, in a vast retrospective of its painter, in the Petit Palais.</description>
+    </item>
+    
+  </channel>
+</rss>

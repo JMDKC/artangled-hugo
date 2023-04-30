@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newport Street Gallery on Artangled</title>
+    <link>http://example.org/tags/newport-street-gallery/</link>
+    <description>Recent content in Newport Street Gallery on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/newport-street-gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keith Cunningham: The Cloud of Witness | Newport Street Gallery</title>
+      <link>http://example.org/posts/cunningham-newport/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cunningham-newport/</guid>
+      <description>This is a deeply gloomy exhibition of densely-worked oil paintings with a repeating roster of macabre subjects. Dogs, fighting each other; animal carcasses and slabs of meat and fish; portraits surrounded by foul, foggy miasmas, in semi-silhouette. The grandeur of the paintings’ surroundings - every time I come to this Damien Hirst-owned gallery, I’m struck by its lofty luxuriousness - sets them off wonderfully.
+The story behind the exhibition is unusual: the works were created over half a century ago, but have been barely seen since.</description>
+    </item>
+    
+    <item>
+      <title>Rachel Howard: You Have a New Memory | Simon Lee</title>
+      <link>http://example.org/posts/howard-lee/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/howard-lee/</guid>
+      <description>I first featured the British painter Rachel Howard on this site in 2018, when I saw a stately and sombre show of hers in Damien Hirst’s cavernous Newport Street Gallery. Back then, she showed works based around the stations of the cross. This new exhibition, Howard’s first at Simon Lee, is a more intimate affair, both spatially, in that the Mayfair gallery’s a bit pokier, and in the subject matter.</description>
+    </item>
+    
+    <item>
+      <title>Rachel Howard, Repetition is Truth - Via Dolorosa | Newport Street Gallery</title>
+      <link>http://example.org/posts/howard-newport/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/howard-newport/</guid>
+      <description>When making this series of works, based on the 14 stations of the cross, the artist first allowed gloss paint to separate. Then, she poured the pigment onto large canvases from above. Then, she added the laminate to the canvas. This has led to the works&amp;rsquo; shiny surface of vertical stripes and drips. Their reflectiveness make them hard to photograph, if not to look at. The series is on show currently at the Newport Street Gallery.</description>
+    </item>
+    
+  </channel>
+</rss>

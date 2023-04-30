@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victoria Crowe on Artangled</title>
+    <link>http://example.org/tags/victoria-crowe/</link>
+    <description>Recent content in Victoria Crowe on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/victoria-crowe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Victoria Crowe: Resonance of Time | Flowers</title>
+      <link>http://example.org/posts/crowe-flowers/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/crowe-flowers/</guid>
+      <description>A pair of unseasonal exhibitions this week, in galleries on opposite sides of Cork Street. Unseasonal in that both of the featured artists use bare, skeletal tree branches as consistent visual motifs; look around you though, and trees are bursting into leaf everywhere, as summer begins to stir.
+Victoria Crowe, on show at Flowers, studied under Prunella Clough, who’s shown up more than once on this site before; unlike her teacher though, Crowe’s work escapes from the city.</description>
+    </item>
+    
+  </channel>
+</rss>

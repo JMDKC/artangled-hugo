@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAPC on Artangled</title>
+    <link>http://example.org/tags/capc/</link>
+    <description>Recent content in CAPC on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/capc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Danh Vo | CAPC</title>
+      <link>http://example.org/posts/vo-capc/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/vo-capc/</guid>
+      <description>Sometimes an artist meets a space and both sides lift their game a little. That was the case, for me at least, when looking at Viethamese-born, German-trained artist Danh Vo&amp;rsquo;s takeover of the main hall of CAPC in Bordeaux. This former storage warehouse, in previous decades filled with the spoils of empire, now hosts a site-specific installation from the descendents of an imperial subject.
+The huge space is dominated by big blocks of Ferrara marble: the very raw material beloved by Pope-impressing Renaissance sculptors (can you think of one in particular?</description>
+    </item>
+    
+  </channel>
+</rss>

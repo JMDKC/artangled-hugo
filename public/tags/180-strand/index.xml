@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>180 Strand on Artangled</title>
+    <link>http://example.org/tags/180-strand/</link>
+    <description>Recent content in 180 Strand on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/180-strand/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Other Spaces | 180 Strand</title>
+      <link>http://example.org/posts/stoner-modern/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/stoner-modern/</guid>
+      <description>The last exhibition I went to in this place, a Brutalist former office building next to King’s College, featured an ankle-aching 20+ video artists in a programme curated by the New Museum.
+This time, the edit is a lot tighter, helped as ever by 180 Strand’s creative partners The Vinyl Factory, with assistance from Paris’ Fondation Cartier. Just three immersive works are on show.
+My favourite was Vanishing Point, pictured above.</description>
+    </item>
+    
+  </channel>
+</rss>

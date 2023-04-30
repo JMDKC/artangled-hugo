@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery 46 on Artangled</title>
+    <link>http://example.org/tags/gallery-46/</link>
+    <description>Recent content in Gallery 46 on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/gallery-46/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Queer as Folklore | Gallery 46</title>
+      <link>http://example.org/posts/queer-46/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/queer-46/</guid>
+      <description>As the trendy Carhartt-clad east London dad put it to his iPhone-toting child: “This is all old folky art, sort of British traditionalist.” We were all walking round the new show at Gallery 46, a deliberately ramshackle space, carved out of a couple of Georgian terraced houses, under the shadow of the big blue modern Royal London hospital in Whitechapel.
+The exhibition enveloped us in a deliberately fey world of mummers and satyrs, woodlands and flowers.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Stoner on Artangled</title>
+    <link>http://example.org/tags/tim-stoner/</link>
+    <description>Recent content in Tim Stoner on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/tim-stoner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tim Stoner - Al-Andalus | Modern Art</title>
+      <link>http://example.org/posts/stoner-modern/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/stoner-modern/</guid>
+      <description>At last, at last, many of London’s commercial galleries have reopened. As the country emerges from its lockdown, for better or worse, things aren’t quite back to normal. A spontaneous tour through open galleries isn’t going to be possible for a while: all of my visits have been by appointment. This extra element of necessary planning isn’t a bad thing though - it makes you more considered about what you want to see.</description>
+    </item>
+    
+  </channel>
+</rss>

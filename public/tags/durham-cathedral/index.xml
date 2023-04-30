@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Durham Cathedral on Artangled</title>
+    <link>http://example.org/tags/durham-cathedral/</link>
+    <description>Recent content in Durham Cathedral on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/durham-cathedral/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Museum of the Moon | Durham Cathedral</title>
+      <link>http://example.org/posts/moon-durham/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/moon-durham/</guid>
+      <description>This work’s simple and impressive: it’s a big blow-up model of the moon. Stencilled with detailed topographical photographs from NASA, this incredible inflatable has been touring for a couple of years, everywhere from downtown Kolkata to the Natural History Museum in London.
+I saw it in one of the most awesome rooms in the world, Durham Cathedral. With its pointed arch vault gesturing towards the Gothic, and its fat columns and piers grounded in the Romanesque, this thousand-year-old space is huge and dim.</description>
+    </item>
+    
+  </channel>
+</rss>

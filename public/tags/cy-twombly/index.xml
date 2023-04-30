@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cy Twombly on Artangled</title>
+    <link>http://example.org/tags/cy-twombly/</link>
+    <description>Recent content in Cy Twombly on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cy-twombly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cy Twombly - Natural History | Bastian</title>
+      <link>http://example.org/posts/twombly-bastian/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/twombly-bastian/</guid>
+      <description>I just can’t with him. I’ve tried. Cy Twombly on a large scale hasn’t worked. I’ve trudged through a (huge) retrospective at the Pompidou, trying to find something, anything, in his mannered scribbles, his big messy flowers, his enormous, aggressive, pompous drips. I’ve wheeled around the Lepanto series in its purpose-built room at the top of the Brandhorst Museum in Munich: appreciating the lovely colours and ultra-luxe surroundings, but just, somehow, failing to connect with what was on the wall.</description>
+    </item>
+    
+    <item>
+      <title>Phantastisch! Alfred Kubin und der Blaue Reiter | Lenbachhaus</title>
+      <link>http://example.org/posts/kubin-lenbachhaus/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/kubin-lenbachhaus/</guid>
+      <description>Alfred Kubin had a pretty standard upbringing, when you consider his predilection for the grotesque. Bouncing between mental health problems, a sexual encounter with a pregnant woman when he was 11, and a (failed) suicide-by-shotgun attempt on his mother’s grave, he found lasting fame just after graduating with sickly macabre little pen-and-ink drawings, depicting torture, devils, and death. There’s a great selection on show at Phantastisch! Alfred Kubin und Der Blaue Reiter, an exhibition currently running at the Lenbachhaus in Munich.</description>
+    </item>
+    
+  </channel>
+</rss>

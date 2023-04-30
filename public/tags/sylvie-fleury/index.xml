@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sylvie Fleury on Artangled</title>
+    <link>http://example.org/tags/sylvie-fleury/</link>
+    <description>Recent content in Sylvie Fleury on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/sylvie-fleury/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carolee Schneemann: Body Politics | Barbican</title>
+      <link>http://example.org/posts/schneemann-barbican/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/schneemann-barbican/</guid>
+      <description>I first heard about the Queen’s death just after seeing this exhibition, a full career retrospective of the US painter and performance artist Carolee Schneemann. On getting the notification on my phone, sat in a comfy chair on the ground floor of the Barbican Centre, I took off my headphones - maybe expecting that the large, crowded, concrete-clad room would fall into reverent monarchist silence, and that I should experience that momentous hush.</description>
+    </item>
+    
+  </channel>
+</rss>

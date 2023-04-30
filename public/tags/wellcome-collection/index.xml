@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wellcome Collection on Artangled</title>
+    <link>http://example.org/tags/wellcome-collection/</link>
+    <description>Recent content in Wellcome Collection on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/wellcome-collection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In Plain Sight | Wellcome Collection</title>
+      <link>http://example.org/posts/rafman-wellcome/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/rafman-wellcome/</guid>
+      <description>I love the Wellcome Collection! Not only does it host the best museum shop in London hands down, its exhibitions are so entertaining - imaginative grab bags of interesting things, based loosely around a single theme. I also feel a bit defensive of it as an institution, given the silly &amp;ldquo;anti-woke&amp;rdquo; media fracas it faced recently when it announced plans to update its permanent collection display.
+Anyway, following recent shows on themes like electricity, games and (my favourite) teeth, it’s the turn of sight.</description>
+    </item>
+    
+    <item>
+      <title>Living with Buildings - Health &amp; Architecture | Wellcome Collection</title>
+      <link>http://example.org/posts/buildings-wellcome/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/buildings-wellcome/</guid>
+      <description>What an interesting series of free exhibitions at this totally unique institution on the Euston Road. This latest one is probably my favourite so far - even beating the show last year about teeth. It’s a rag-bag of architectural plans, paintings, maquettes, pages from books - all organised around the theme of buildings that promote health.
+To give a couple of examples that stood out to me: a beautiful 70s plan of Milton Keynes (that was the future, once), a Pissarro landscape of Bedford Park in Chiswick - the first garden suburb of all, where the artist lived for a time - and Andreas Gursky’s Montparnasse tower block photo, that I first encountered at the Hayward last year.</description>
+    </item>
+    
+  </channel>
+</rss>

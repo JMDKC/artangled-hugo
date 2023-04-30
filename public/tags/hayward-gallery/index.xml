@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hayward Gallery on Artangled</title>
+    <link>http://example.org/tags/hayward-gallery/</link>
+    <description>Recent content in Hayward Gallery on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/hayward-gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diane Arbus - In the beginning | Hayward Gallery</title>
+      <link>http://example.org/posts/arbus-hayward/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/arbus-hayward/</guid>
+      <description>After the weirdly-curated Lee Bul show here last year, I was wondering what funny treatment the renovated Hayward Gallery would give this iconic photographer. But it’s very well put together, with the small black and white work arranged, seemingly randomly, against white posts in strict grid formation; based, apparently, on the New York streets on which Diane Arbus found some of her most memorable scenes.
+The exhibition concentrates on the early career, being mainly made up of photos shot on 35mm between 1956 and 1962.</description>
+    </item>
+    
+    <item>
+      <title>Lee Bul - Crashing | Hayward Gallery</title>
+      <link>http://example.org/posts/bul-hayward/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bul-hayward/</guid>
+      <description>What a weird show this is! Following their stellar Gursky retrospective earlier in the year, and some bad juju prior to opening when one of the works caught fire, what remains is a majorly varied grab-bag of paintings, installations, costume, architectural maquettes, a light show and a big-ass zeppelin. It&amp;rsquo;s less of a sensory assault than a really expensive jumble sale.
+The show definitely highlights that Lee Bul is epically productive.</description>
+    </item>
+    
+    <item>
+      <title>Andreas Gursky | Hayward Gallery</title>
+      <link>http://example.org/posts/gursky-hayward/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/gursky-hayward/</guid>
+      <description>An early high point in Andreas Gursky&amp;rsquo;s wonderful show, currently on at the Hayward Gallery, is a photo called &amp;lsquo;Schiphol&amp;rsquo;.
+This early-ish (1994) work, looking out onto the runways of the titular airport, was taken at a time of transition for the artist. Gursky was increasingly turning to digital photography, and to the &amp;ldquo;aggregate states&amp;rdquo; for which he&amp;rsquo;s most famous today: complex, heavily retouched depictions of late capitalist workplaces, landscapes and cityscapes.</description>
+    </item>
+    
+  </channel>
+</rss>

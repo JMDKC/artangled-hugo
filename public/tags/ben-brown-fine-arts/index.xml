@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Brown Fine Arts on Artangled</title>
+    <link>http://example.org/tags/ben-brown-fine-arts/</link>
+    <description>Recent content in Ben Brown Fine Arts on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/ben-brown-fine-arts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Candida Höfer - Showing and Seeing | Ben Brown Fine Arts</title>
+      <link>http://example.org/posts/hofer-brown/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/hofer-brown/</guid>
+      <description>Like her Düsseldorf school colleague Andreas Gursky, who I’ve written about on here before, Candida Höfer specialises in large-format photographs of big, man-made spaces. But Höfer’s subject matter has a tighter focus: very fancy, richly-coloured, and almost entirely depopulated, interiors.
+The nine photographs on show right now at Ben Brown Fine Arts stick rigidly to her precisely-defined parameters (Höfer has been photographing interiors since 1979). Her empty spaces are built to host crowds of strangers: libraries, in Austria, France and Mexico; and theatres, in Russia and Italy.</description>
+    </item>
+    
+  </channel>
+</rss>

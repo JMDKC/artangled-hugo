@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Günther Förg on Artangled</title>
+    <link>http://example.org/tags/g%C3%BCnther-f%C3%B6rg/</link>
+    <description>Recent content in Günther Förg on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/g%C3%BCnther-f%C3%B6rg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Günther Förg | Max Hetzler and Luxembourg &amp; Dayan</title>
+      <link>http://example.org/posts/forg-hetzler/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/forg-hetzler/</guid>
+      <description>Günther Förg was a German painter with quite a forbidding aesthetic - grainy architectural photographs, often of buildings built for a Fascist government - and monochrome acrylic paintings on a lead backing. He’s also selling well, if the three commercial gallery shows of his work in London alone over the past few months are any guide.
+Two of them are running at the moment, one at Max Hetzler and one at Luxembourg &amp;amp; Dayan, and offer a good guide to both types.</description>
+    </item>
+    
+  </channel>
+</rss>

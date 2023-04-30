@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maggie Lee on Artangled</title>
+    <link>http://example.org/tags/maggie-lee/</link>
+    <description>Recent content in Maggie Lee on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/maggie-lee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gavin Turk - White Van Man | Paul Stolper</title>
+      <link>http://example.org/posts/turk-stolper/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/turk-stolper/</guid>
+      <description>I saw this exhibition, subtitled &amp;lsquo;A Brexit portfolio and other Transit Disasters&amp;rsquo; at a time when the thoroughly depressing Brexit negotiations were reaching something of a climax.
+The central motif of the various silkscreen prints is a burnt out Ford Transit. Any British observer would recognise the cultural signifier of a white van - home to &amp;ldquo;White Van Man&amp;rdquo;, a highly Brexity demographic.
+The prints themselves owe an obvious debt to Warhol&amp;rsquo;s gloomy 60s prints of car crashes.</description>
+    </item>
+    
+  </channel>
+</rss>

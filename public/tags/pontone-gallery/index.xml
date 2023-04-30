@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pontone Gallery on Artangled</title>
+    <link>http://example.org/tags/pontone-gallery/</link>
+    <description>Recent content in Pontone Gallery on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/pontone-gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hwang Seontae: The Power of Light | Pontone Gallery</title>
+      <link>http://example.org/posts/hwang-pontone/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/hwang-pontone/</guid>
+      <description>This exhibition shows scenes of well-appointed, but empty modernist interiors from Korean artist Hwang Seontae. They’re light boxes, with sandblasted glass fronts and cold LED lights, the cable powering each scene discreetly boxed in.
+In these imaginary rooms, the light comes from the windows: all of the works on show have the same title, The Space with Sunshine. It’s sunny outside, meaning that strong shadows are cast on the wooden floorboards.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jim Pilston on Artangled</title>
+    <link>http://example.org/tags/jim-pilston/</link>
+    <description>Recent content in Jim Pilston on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/jim-pilston/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Andrew Salgado: A Never-Setting Sun | BEERS London</title>
+      <link>http://example.org/posts/salgado-beers/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/salgado-beers/</guid>
+      <description>Andrew Salgado draws inspiration from heavy folk traditions and literary sources, but his light touch renders his paintings pretty, lyrical. The collection of oil-and-pastel portraits on show at BEERS London also benefitted greatly from being viewed on a sunny day.
+His subjects - mainly male - are surrounded by flowers and greenery, occasionally printed words. The palette is vibrant and zingy. Some of the artistic signifiers are a bit on the nose - did his portrait of Virginia Woolf really need to be titled River Ouse?</description>
+    </item>
+    
+    <item>
+      <title>Queer as Folklore | Gallery 46</title>
+      <link>http://example.org/posts/queer-46/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/queer-46/</guid>
+      <description>As the trendy Carhartt-clad east London dad put it to his iPhone-toting child: “This is all old folky art, sort of British traditionalist.” We were all walking round the new show at Gallery 46, a deliberately ramshackle space, carved out of a couple of Georgian terraced houses, under the shadow of the big blue modern Royal London hospital in Whitechapel.
+The exhibition enveloped us in a deliberately fey world of mummers and satyrs, woodlands and flowers.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phyllida Barlow on Artangled</title>
+    <link>http://example.org/tags/phyllida-barlow/</link>
+    <description>Recent content in Phyllida Barlow on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/phyllida-barlow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phyllida Barlow | Hauser &amp; Wirth</title>
+      <link>http://example.org/posts/barlow-hauser-wirth/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/barlow-hauser-wirth/</guid>
+      <description>Why am I looking at and writing about concrete so much this summer? First there was Prunella Clough’s desolate little paintings of midcentury urban corners, that caught my eye at Annely Juda Fine Art. Then there was Yu Ji’s dripping, detritus-filled installation at Chisenhale Gallery.
+Now, rather grander than both, is Phyllida Barlow’s ring of a hundred or so three-metre-high cement sentinels, that squeeze to the edges of Hauser &amp;amp; Wirth’s main gallery at the moment.</description>
+    </item>
+    
+  </channel>
+</rss>

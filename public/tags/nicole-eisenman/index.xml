@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicole Eisenman on Artangled</title>
+    <link>http://example.org/tags/nicole-eisenman/</link>
+    <description>Recent content in Nicole Eisenman on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/nicole-eisenman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interlude - Nicole Eisenman at Secession</title>
+      <link>http://example.org/posts/eisenman-secession/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/eisenman-secession/</guid>
+      <description>My abiding feeling on the US presidential election results is totally unoriginal: relief. As messy as the withdrawal will be, it’s likely Trump is on his way - for now. With London on lockdown and the galleries closed, I’ve been thinking today about the various anti-Trump art I’ve seen over the past four years. (I don’t recall seeing any pro-Trump art, outside of my favourite meme-based Twitter account.)
+Early on in his first - only!</description>
+    </item>
+    
+  </channel>
+</rss>

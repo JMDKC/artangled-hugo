@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edward Burra on Artangled</title>
+    <link>http://example.org/tags/edward-burra/</link>
+    <description>Recent content in Edward Burra on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/edward-burra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interlude - Edward Burra at Pallant House Gallery</title>
+      <link>http://example.org/posts/burra-pallant/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/burra-pallant/</guid>
+      <description>I’ve only ever seen one Edward Burra painting in real life. In Tate Britain, there’s 1930’s Snack Bar - a funny, slightly grotesque scene of a cloche-wearing, fur-clad woman shoving a ham sandwich in her mouth, while on the other side of the bar her server slices one of the least-appealing-looking joints of meat ever committed to canvas. It’s as disturbing as the Bacon triptych in the next room.
+A genuine eccentric, who gave a total of one interview during his long lifetime, Burra has oscillated between total obscurity and intermittent revivals of interest, since he first hit the big time a century ago.</description>
+    </item>
+    
+  </channel>
+</rss>

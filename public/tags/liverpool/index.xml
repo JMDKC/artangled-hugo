@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liverpool on Artangled</title>
+    <link>http://example.org/tags/liverpool/</link>
+    <description>Recent content in Liverpool on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/liverpool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Charles Rennie Mackintosh - Making the Glasgow Style | Walker Art Gallery</title>
+      <link>http://example.org/posts/mackintosh-walker/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mackintosh-walker/</guid>
+      <description>I’m somebody whose only prior knowledge of Charles Rennie Mackintosh was a font and a fire, prior to attending this show. So, wandering the galleries, I found it all simply revelatory.
+While the notes claim the Scottish polymath as the “father of Modernism”, which seems steep, the works on show at the Walker Art Gallery do a great job at lining Mackintosh up in a heritage extending across the continent to Symbolism and the Secession.</description>
+    </item>
+    
+    <item>
+      <title>George Osodi - Nigerian Monarchs | Open Eye Gallery</title>
+      <link>http://example.org/posts/osodi-openeye/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/osodi-openeye/</guid>
+      <description>Long before the first British colonist set foot on the land, Nigeria was a country of Kingdoms. Kings (and Queens) managed diplomacy between their small fiefdoms. They were stripped of their diplomatic function by colonial rule: a function that was not reinstated post-independence in the 1960s. But many local monarchs still survive, with not much more than fine clothes, accoutrements and a handful of subjects to show for their rank.</description>
+    </item>
+    
+    <item>
+      <title>Life in Motion - Egon Schiele/Francesca Woodman | Tate Liverpool</title>
+      <link>http://example.org/posts/woodman-tate/</link>
+      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/woodman-tate/</guid>
+      <description>During her short and very prolific working life, Francesca Woodman left an indelible impression. As an art photographer, she made around 10,000 negatives and 800 prints, and defined an entire aesthetic as she found posthumous fame during the 1980s. She favoured black and white, long exposures which distorted and elongated her body; dishevelled, empty rooms with bare floorboards; props that emphasised her usually naked body.
+She&amp;rsquo;s paired with Egon Schiele in this exhibition at Tate Liverpool.</description>
+    </item>
+    
+  </channel>
+</rss>

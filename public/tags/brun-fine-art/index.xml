@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brun Fine Art on Artangled</title>
+    <link>http://example.org/tags/brun-fine-art/</link>
+    <description>Recent content in Brun Fine Art on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/brun-fine-art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mario Sironi - Signs and Colours | Brun Fine Art</title>
+      <link>http://example.org/posts/sironi-brun/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/sironi-brun/</guid>
+      <description>This exhibition begins with a surprising painting, considering its painter: a smiling self-portrait. Surprising, as Mario Sironi’s reputation is based his unremittingly grim work, spanning the early 1920s to the 50s. This general bleakness, coupled with his enthusiastic embrace of the Mussolini regime pre-war, and his post-war withdrawal from the public sphere, has made him a pretty obscure name - especially in the UK, where this is the first Sironi show in memory.</description>
+    </item>
+    
+  </channel>
+</rss>

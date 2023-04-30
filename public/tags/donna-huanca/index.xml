@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donna Huanca on Artangled</title>
+    <link>http://example.org/tags/donna-huanca/</link>
+    <description>Recent content in Donna Huanca on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/donna-huanca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elena Tejada-Herrera - Queen Kong, The Girls Learn to Fight | Frieze London</title>
+      <link>http://example.org/posts/tejada-frieze/</link>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/tejada-frieze/</guid>
+      <description>I might as well hand in my London art reviewer badge by saying so, but this year was my first Frieze. That giant white tent in Regent’s Park was even more huge and overwhelming than I thought it’d be; I staggered out after just under four hours, feet and shoulders aching, tote overloaded with magazines, press releases and lists of works.
+The easiest thing to do in a review with such a variety of potential subjects is to pick out a show that I particularly liked from a non-obvious source.</description>
+    </item>
+    
+  </channel>
+</rss>

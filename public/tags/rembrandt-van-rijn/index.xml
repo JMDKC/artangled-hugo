@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rembrandt van Rijn on Artangled</title>
+    <link>http://example.org/tags/rembrandt-van-rijn/</link>
+    <description>Recent content in Rembrandt van Rijn on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/rembrandt-van-rijn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rembrandt-Velázquez - Dutch &amp; Spanish Masters | Rijksmuseum</title>
+      <link>http://example.org/posts/rembrandt-rijksmuseum/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/rembrandt-rijksmuseum/</guid>
+      <description>Talk about star power! Not since Etre moderne, a “best of MoMA” show that took over the Fondation Louis Vuitton in late 2017 while the iconic New York museum was being renovated, have I experienced such concentrated artistic fame in a standalone exhibition.
+The concept is simple: a pair of Spanish and Dutch 17th century masterworks, thematically linked, are placed side by side on each wall, in a kind of Godzilla vs Mothra of Baroque mastery.</description>
+    </item>
+    
+  </channel>
+</rss>

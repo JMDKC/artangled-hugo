@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Louise Bonnet on Artangled</title>
+    <link>http://example.org/tags/louise-bonnet/</link>
+    <description>Recent content in Louise Bonnet on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/louise-bonnet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Louise Bonnet - New Works | Max Hetzler</title>
+      <link>http://example.org/posts/bonnet-hetzler/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bonnet-hetzler/</guid>
+      <description>This exhibition, the debut UK show from Louise Bonnet, packs quite a punch. Large canvases show swollen female figures, wildly disproportionate. With their pointy boobs, big fat bums, tiny heads and odd-sized feet, they’re all uncomfortable, striking contorted poses, often constrained by ropes, shrouds and veils.
+The oil paints are smoothly applied to these women, giving a vaguely inflatable, inorganic sheen to their skin. Not for Bonnet the textures and discolourations of Lucian Freud or Eric Fischl, those modern masters of the epidermis.</description>
+    </item>
+    
+  </channel>
+</rss>

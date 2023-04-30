@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astrid Klein on Artangled</title>
+    <link>http://example.org/tags/astrid-klein/</link>
+    <description>Recent content in Astrid Klein on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/astrid-klein/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Order - Art, Product, Image 1976-1995 | Sprüth Magers</title>
+      <link>http://example.org/posts/wearing-spruth-magers/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wearing-spruth-magers/</guid>
+      <description>The place is quite familiar, rendered strange over the decades. We’re in a shopping centre in Peckham in 1994. Everyone’s dressed in baggy 90s style. If anyone’s carrying a shopping bag, it’s plastic. This being several decades before that multi-story car park down the road got its pink coat of paint and craft beer outlets, the crowd is solidly ungentrified. And nobody has a mobile phone, so nobody’s filming the very unusual scene - except one camera.</description>
+    </item>
+    
+  </channel>
+</rss>

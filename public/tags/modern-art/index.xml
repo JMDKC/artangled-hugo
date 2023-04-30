@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modern Art on Artangled</title>
+    <link>http://example.org/tags/modern-art/</link>
+    <description>Recent content in Modern Art on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/modern-art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mohammed Sami | Modern Art</title>
+      <link>http://example.org/posts/sami-modern/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/sami-modern/</guid>
+      <description>The Execution Room, painted by Mohammed Sami, is one of the most impressively ugly artworks I’ve seen in a while. It’s currently on show at Modern Art, along with a collection of other new, thematically-linked work from this Iraq-born, Sweden-based artist.
+It shows a dining table and chair set in a style that might kindly be termed “dictator chic”. I suspect, but can’t confirm by googling, that it was a room in Saddam Hussein’s palace, captured by allied forces during the disastrous war of 2003.</description>
+    </item>
+    
+    <item>
+      <title>Sanya Kantarovsky &amp; Camille Blatrix: Will-o’-the-wisp | Modern Art</title>
+      <link>http://example.org/posts/kantarovsky-blatrix-modern/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/kantarovsky-blatrix-modern/</guid>
+      <description>I’ve loved Sanya Kantarovsky’s snarky, morbid and scatological paintings since I first encountered them, in his 2018 solo show at Kunsthalle Basel. So I was really excited to see this London show of his woodblock prints, set in frames from French painter/sculptor Camille Blatrix.
+The thing that struck me about Kantarovsky’s work, then and now, is the balance between the serious and the silly. These prints have hideous subject matter - in one, a robed, bloodied figure kneels by the surf; in another, a child and his mother are molested by a bony hand - but are cartoonishly-drawn, in zanily bright colours.</description>
+    </item>
+    
+    <item>
+      <title>Tim Stoner - Al-Andalus | Modern Art</title>
+      <link>http://example.org/posts/stoner-modern/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/stoner-modern/</guid>
+      <description>At last, at last, many of London’s commercial galleries have reopened. As the country emerges from its lockdown, for better or worse, things aren’t quite back to normal. A spontaneous tour through open galleries isn’t going to be possible for a while: all of my visits have been by appointment. This extra element of necessary planning isn’t a bad thing though - it makes you more considered about what you want to see.</description>
+    </item>
+    
+  </channel>
+</rss>

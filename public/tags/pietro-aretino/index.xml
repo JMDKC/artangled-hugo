@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pietro Aretino on Artangled</title>
+    <link>http://example.org/tags/pietro-aretino/</link>
+    <description>Recent content in Pietro Aretino on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/pietro-aretino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pietro Aretino and the Art of the Renaissance | Uffizi</title>
+      <link>http://example.org/posts/aretino-uffizi/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/aretino-uffizi/</guid>
+      <description>This is an unusual visual art exhibition, in that it’s not based on the work of a visual artist. Instead, Pietro Aretino was an epic networker, a friend to the stars who worked himself up from humble beginnings to great power in early 16th century Italy. I’d first heard of him on the Bad Gays podcast - Aretino being a proud self-described “sodomite” - which termed him “the original Regina George of the Italian high Renaissance”.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joseph Cornell on Artangled</title>
+    <link>http://example.org/tags/joseph-cornell/</link>
+    <description>Recent content in Joseph Cornell on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/joseph-cornell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steph Huang: Everything and Nothing | mother’s tankstation limited</title>
+      <link>http://example.org/posts/huang-tankstation/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/huang-tankstation/</guid>
+      <description>Steph Huang, who was born in Taiwan but now lives and works in London, makes sardonic, surprising, and sometimes funny use of everyday objects. A collection of works are on show at mother’s tankstation: several quite modest individual pieces pack a bigger collective punch when imaginatively displayed, together.
+The artist clearly misses home, but finds quirky pleasures in her new surroundings. The ironically named Forest features bamboo leaves, neatly trapped in a gridded metal mesh.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah Lucas on Artangled</title>
+    <link>http://example.org/tags/sarah-lucas/</link>
+    <description>Recent content in Sarah Lucas on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/sarah-lucas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rosie Gibbens: Soft Girls | Zabludowicz Collection</title>
+      <link>http://example.org/posts/gibbens-zabludowicz/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/gibbens-zabludowicz/</guid>
+      <description>Rosie Gibbens’ sculptures are soft, cute and semi-interactive. The artist, clad in a constraining sheath dress and high heels, has activated this room of ‘soft girls’ in performances. Visitors to her show at the Zabludowicz Collection can also unroll a giant plushy tongue, attached to the wall by a mangel-like device, and use a foot pump to inflate one of the girls’ hands (a plastic glove).
+The artist’s made inventive used of a combination of sex toys, clothing, office chairs and exercise equipment, plus a bunch of other found objects, to pull together her cute collection.</description>
+    </item>
+    
+  </channel>
+</rss>

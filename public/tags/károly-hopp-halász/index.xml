@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Károly Hopp-Halász on Artangled</title>
+    <link>http://example.org/tags/k%C3%A1roly-hopp-hal%C3%A1sz/</link>
+    <description>Recent content in Károly Hopp-Halász on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/k%C3%A1roly-hopp-hal%C3%A1sz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pécs Workshop | Mayor Gallery</title>
+      <link>http://example.org/posts/pecs-mayor/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/pecs-mayor/</guid>
+      <description>This exhibition is truly lovely. To a restive, anxious London in summer comes a sweet breeze from the east, redolent of other long-distant distant summers. 50 years ago, behind the Iron Curtain, across an ideological divide, and out in the countryside, the Pécs Workshop met.
+They were an avant-garde group of five artists in communist Hungary, who met each summer between 1969 and 1971 in Pécs, close to the Croatian… well, Yugoslavian, border.</description>
+    </item>
+    
+  </channel>
+</rss>

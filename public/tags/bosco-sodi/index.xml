@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bosco Sodi on Artangled</title>
+    <link>http://example.org/tags/bosco-sodi/</link>
+    <description>Recent content in Bosco Sodi on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/bosco-sodi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bosco Sodi - Heavens and the Earth | Blain Southern</title>
+      <link>http://example.org/posts/sodi-blain/</link>
+      <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/sodi-blain/</guid>
+      <description>There are two parts of this exhibition. First the heavens: big black and white paintings, made of ultra-thick paint, cracked in interesting ways, depicting mysterious swirls and bubbles. It’s as if you’re staring at a mountain range from the sky.
+Then the earth, brick towers in Jenga-style patterns. They look about as stable as Jenga towers, too: the bricks wonky and uneven.
+The bricks and the paint were both formed by chance as well as craft.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammed Sami on Artangled</title>
+    <link>http://example.org/tags/mohammed-sami/</link>
+    <description>Recent content in Mohammed Sami on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/mohammed-sami/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mohammed Sami | Modern Art</title>
+      <link>http://example.org/posts/sami-modern/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/sami-modern/</guid>
+      <description>The Execution Room, painted by Mohammed Sami, is one of the most impressively ugly artworks I’ve seen in a while. It’s currently on show at Modern Art, along with a collection of other new, thematically-linked work from this Iraq-born, Sweden-based artist.
+It shows a dining table and chair set in a style that might kindly be termed “dictator chic”. I suspect, but can’t confirm by googling, that it was a room in Saddam Hussein’s palace, captured by allied forces during the disastrous war of 2003.</description>
+    </item>
+    
+  </channel>
+</rss>

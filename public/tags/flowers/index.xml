@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flowers on Artangled</title>
+    <link>http://example.org/tags/flowers/</link>
+    <description>Recent content in Flowers on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/flowers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Victoria Crowe: Resonance of Time | Flowers</title>
+      <link>http://example.org/posts/crowe-flowers/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/crowe-flowers/</guid>
+      <description>A pair of unseasonal exhibitions this week, in galleries on opposite sides of Cork Street. Unseasonal in that both of the featured artists use bare, skeletal tree branches as consistent visual motifs; look around you though, and trees are bursting into leaf everywhere, as summer begins to stir.
+Victoria Crowe, on show at Flowers, studied under Prunella Clough, who’s shown up more than once on this site before; unlike her teacher though, Crowe’s work escapes from the city.</description>
+    </item>
+    
+    <item>
+      <title>Tom Hammick - Night Animals | Flowers</title>
+      <link>http://example.org/posts/hammick-flowers/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/hammick-flowers/</guid>
+      <description>Spooky as a Sargent Nocturne, Tom Hammick’s oil paintings are here awash with blue, depicting campsites, cabins and ships. He’s deeply influenced by the Romantic movement, with the figure of the solitary striver explains why none of his figures seem to look at or talk to each other.
+That’s not to say they’re entirely rejecting material culture: in Walden Pond, partygoers cluster around a shiny camper van. And there’s something lovely and regular about the sailboat that appears in many of the paintings.</description>
+    </item>
+    
+  </channel>
+</rss>

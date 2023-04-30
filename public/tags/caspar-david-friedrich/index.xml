@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caspar David Friedrich on Artangled</title>
+    <link>http://example.org/tags/caspar-david-friedrich/</link>
+    <description>Recent content in Caspar David Friedrich on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/caspar-david-friedrich/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emil Nolde: Anatomy of Light and Water | Bastian</title>
+      <link>http://example.org/posts/nolde-bastian/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/nolde-bastian/</guid>
+      <description>Emil Nolde was a supremely talented painter who made gorgeous use of colours suggesting light. He also had well-documented Nazi sympathies. That’s surely a big reason why he isn’t much seen: this small show of watercolours was the first Nolde exhibition I can recall in London in my years of gallery-going.
+As an older man, Nolde spent his summers in Seebüll in Northern Germany, a beach-side town. Thomas Mann country - Caspar David Friedrich country - at least in my head.</description>
+    </item>
+    
+    <item>
+      <title>Ged Quinn | Stephen Friedman Gallery</title>
+      <link>http://example.org/posts/quinn-friedman/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/quinn-friedman/</guid>
+      <description>The British pastoral painter Ged Quinn’s style has been described by one critic as “malevolent&amp;hellip; sinister ”. It’s easy to see why, considering his subject matter. Quinn favours dark Romantic forests, silent pine-strewn paths and peaty skies. But in this new exhibition, Quinn showcases a sweeter edge.
+Consider the fluffy linden tree that dominates Bloodstream Sub Tilia (on the right of the picture below). Folk mythology suggests that inhaling its pollen leads to nothing so sinister as… pleasant dreams.</description>
+    </item>
+    
+  </channel>
+</rss>

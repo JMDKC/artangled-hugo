@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alberto Burri on Artangled</title>
+    <link>http://example.org/tags/alberto-burri/</link>
+    <description>Recent content in Alberto Burri on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/alberto-burri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>antoni tàpies: alchemy | Nahmad Projects</title>
+      <link>http://example.org/posts/tapies-nahmad/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/tapies-nahmad/</guid>
+      <description>Nahmad Projects is one of Mayfair’s shiniest white cubes, a deceptively large gallery with a nave, side chapel and benches. This allows the dozen or so large, abstract works that make up most of this exhibition to be presented like relics in a church.
+Antoni Tàpies, the artist on show, made a decisive turn towards abstraction early in his career, and built up a distinctive visual lexicon of signs and symbols, using everyday materials.</description>
+    </item>
+    
+  </channel>
+</rss>

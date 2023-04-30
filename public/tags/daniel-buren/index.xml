@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Buren on Artangled</title>
+    <link>http://example.org/tags/daniel-buren/</link>
+    <description>Recent content in Daniel Buren on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/daniel-buren/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interlude - Daniel Buren at the Centre Pompidou</title>
+      <link>http://example.org/posts/buren-pompidou/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/buren-pompidou/</guid>
+      <description>The art industry must be one of the hardest hit in the current pandemic. The buying and selling of works between dealers and buyers depends on personal contact, though I’m sure a lot of sales for investment can be conducted virtually. More gravely, the showing of museum collections for paying visitors is impossible now. Less importantly, travel lockdowns mean that the peripatetic lives of star artists aren’t really doable either.</description>
+    </item>
+    
+  </channel>
+</rss>

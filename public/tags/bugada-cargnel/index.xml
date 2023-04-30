@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bugada &amp; Cargnel on Artangled</title>
+    <link>http://example.org/tags/bugada-cargnel/</link>
+    <description>Recent content in Bugada &amp; Cargnel on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/bugada-cargnel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interlude - Théo Mercier at Bugada &amp; Cargnel</title>
+      <link>http://example.org/posts/mercier-bugada/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mercier-bugada/</guid>
+      <description>Back in lockdown, nowhere to go. Which is a problem for a website that&amp;rsquo;s updated weekly, with updates based on an exhibition I saw that week. During the spring 2020 lockdown here in London, I wrote a bunch of posts about works in permanent collections that I was thinking of at time of writing. This time, during this hopefully short winter interlude of closed galleries, I’m going to dig into my notes, and write each week about a standout show I saw sometime in the past, that didn’t make the website for whatever reason.</description>
+    </item>
+    
+  </channel>
+</rss>

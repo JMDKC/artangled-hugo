@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>König on Artangled</title>
+    <link>http://example.org/tags/k%C3%B6nig/</link>
+    <description>Recent content in König on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/k%C3%B6nig/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rinus Van de Velde - Ashtrays | König</title>
+      <link>http://example.org/posts/velde-koenig/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/velde-koenig/</guid>
+      <description>Here in the UK, smoking’s been banned in many public places for well over a decade. Which means that smoking-related objects, like the humble ashtray, are passing into obscurity. The kids are vaping these days.
+As a result, I wouldn’t have necessarily recognised Rinus Van de Velde’s cute yet disturbing sculptures as being ashtrays, had it not been for the title of this show. But there they are: round, shallow dishes, with notches around the rim.</description>
+    </item>
+    
+    <item>
+      <title>Norbert Bisky - Anomie | König</title>
+      <link>http://example.org/posts/bisky-konig/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bisky-konig/</guid>
+      <description>Anomie is a social state of disintegration: where the norms imposed by religion and the state fall away, and all we are left with is our own, never-satisfied desires. It&amp;rsquo;s a word born from the turn of the 20th century and the first rumblings of modernism, popularised by French sociologist Émile Durkheim, who detected in his changing world a mismatch between personal ideals and social standards. Which, naturally, led to unfulfilled desires - and depression.</description>
+    </item>
+    
+  </channel>
+</rss>

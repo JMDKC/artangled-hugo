@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mor Charpentier on Artangled</title>
+    <link>http://example.org/tags/mor-charpentier/</link>
+    <description>Recent content in Mor Charpentier on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/mor-charpentier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alexander Apóstol - Venezuelan Pastoral | Mor Charpentier</title>
+      <link>http://example.org/posts/apostol-mor/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/apostol-mor/</guid>
+      <description>What horrible news, with more coming every day, from Venezuela! Alexander Apóstol, Venezuelan-born and Madrid-based, has a take on his country’s descent into madness in Dramatis Personae, a photo work, showing in Paris right now.
+The visitor is confronted with a grid of black and white portraits, each showing a Venezuelan archetype: some timeless, some, very unfortunately, stuck in the here and now. There’s Simon Bolívar, a beauty queen, a rioting student, and a journalist with a shiny black eye.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stuart Davis on Artangled</title>
+    <link>http://example.org/tags/stuart-davis/</link>
+    <description>Recent content in Stuart Davis on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/stuart-davis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cudelice Brazelton IV: Tensors | Cell Project Space</title>
+      <link>http://example.org/posts/brazelton-cell/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/brazelton-cell/</guid>
+      <description>The multimedia artist Cudelice Brazelton IV was born in Dallas and studied in Germany, where he now lives. The notes for this show, Brazelton’s first in London, state he spent some time in between “working in Ohio’s industrial foundries”. That sounds like, but doesn’t quite explicitly state, that he had a job in a factory. Or maybe it was a fancy art residency.
+Either way, the sounds and sights of the factory floor are clearly a major inspiration.</description>
+    </item>
+    
+    <item>
+      <title>America&#39;s Cool Modernism - O&#39;Keeffe to Hopper | Ashmolean</title>
+      <link>http://example.org/posts/ault-ashmolean/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/ault-ashmolean/</guid>
+      <description>I just love Edward Hopper - and I&amp;rsquo;m not sorry about that, sometimes popular things are also really good. More generally, I love the various early 20th century movements of artists reacting to machinery, industry and the burgeoning suburbs (see earlier posts on Sironi and Kupka.) The &amp;lsquo;America after the Fall&amp;rsquo; exhibition at the Royal Academy was hands down my favourite show of last year. So I was gagging to see this exhibition from the moment I first read about it.</description>
+    </item>
+    
+  </channel>
+</rss>

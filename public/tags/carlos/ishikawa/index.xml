@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos/Ishikawa on Artangled</title>
+    <link>http://example.org/tags/carlos/ishikawa/</link>
+    <description>Recent content in Carlos/Ishikawa on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/tags/carlos/ishikawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ed Fornieles: Associations | Carlos/Ishikawa</title>
+      <link>http://example.org/posts/fornieles-carlos/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/fornieles-carlos/</guid>
+      <description>Ed Fornieles brings together a couple of prevailing themes I’ve been covering on Artangled these last few months. First, the technique of using found photographs in a clever way: see here for similar on Wade Guyton and Jan Hendrickse. Second, responding artistically to the weird phase of lockdown the world’s been in this past year or so: as have Gillian Wearing, Alban Laurent, Thomas Demand and likely many more to be featured in future weeks!</description>
+    </item>
+    
+  </channel>
+</rss>

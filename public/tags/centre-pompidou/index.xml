@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Centre Pompidou on Artangled</title>
+    <link>http://example.org/tags/centre-pompidou/</link>
+    <description>Recent content in Centre Pompidou on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/centre-pompidou/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interlude - Daniel Buren at the Centre Pompidou</title>
+      <link>http://example.org/posts/buren-pompidou/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/buren-pompidou/</guid>
+      <description>The art industry must be one of the hardest hit in the current pandemic. The buying and selling of works between dealers and buyers depends on personal contact, though I’m sure a lot of sales for investment can be conducted virtually. More gravely, the showing of museum collections for paying visitors is impossible now. Less importantly, travel lockdowns mean that the peripatetic lives of star artists aren’t really doable either.</description>
+    </item>
+    
+    <item>
+      <title>Hans Hartung - La fabrique du geste | MAM Paris</title>
+      <link>http://example.org/posts/hartung-mam/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/hartung-mam/</guid>
+      <description>This artist hasn’t had a major retrospective in years, but had a career that spanned early 20th-century experiments in Symbolism, via Surrealism. He ended up, wheelchair-bound, firing acrylic paint through a spraygun in an insane burst of productivity, with 360 works in the final year of his life, 1989, alone.
+Hartung found fame in the 50s and 60s, though, with his black-ink-on-paper works. These spikes and swoops found their way onto many book covers and student bedroom walls.</description>
+    </item>
+    
+    <item>
+      <title>Jean-Michel Basquiat | Fondation Louis Vuitton</title>
+      <link>http://example.org/posts/basquiat-flv/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/basquiat-flv/</guid>
+      <description>This enormous exhibition stretches across four floors and umpteen galleries at Fondation Louis Vuitton. I toured them at the end of a long day, feet aching. Oh god, there’s more, I muttered, turning into yet another lavishly appointed room crammed with huge, violently-coloured paintings. Then again, maybe this feeling wasn’t entirely down to my aching feet: I felt similarly overwhelmed in Basquiat’s last retrospective, on at the Barbican earlier this year.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conciergerie on Artangled</title>
+    <link>http://example.org/tags/conciergerie/</link>
+    <description>Recent content in Conciergerie on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/conciergerie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Théo Mercier: The Sleeping Chapter | Conciergerie</title>
+      <link>http://example.org/posts/mercier-conciergerie/</link>
+      <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mercier-conciergerie/</guid>
+      <description>On a rainy November’s morning in the dead centre of Paris, I experienced a show that can only be described as dreamy.
+Théo Mercier is an artist I admire a lot - and have featured on here before. He works in a monumental register, in a humble way. He reflects on the ephemerality of things, the fragility of the present as we lose ourselves, inevitably, to the future.
+In the last show of his I saw - in this city in 2017 - Mércier cast Classical-looking amphoras, busts and pillars in thin plaster, and set them at dangerously teetering angles.</description>
+    </item>
+    
+  </channel>
+</rss>

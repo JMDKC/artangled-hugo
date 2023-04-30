@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brigham Baker on Artangled</title>
+    <link>http://example.org/tags/brigham-baker/</link>
+    <description>Recent content in Brigham Baker on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/brigham-baker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interlude - Brigham Baker at Kunsthaus Baselland</title>
+      <link>http://example.org/posts/baker-baselland/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/baker-baselland/</guid>
+      <description>I can’t find much about the Zurich-based artist Brigham Baker on the internet, beyond a nice Instagram account. But when I emptied my mind and allowed some gallery memories to drift in (aka, the start of composing one of these lockdown posts), I thought about his beehives.
+I saw them at Kunsthaus Baselland, as part of Beehave, a group show celebrating the honeybee - which was a lot less cutesy than it sounds, considering many of the artists used the animal as a symbolic harbinger of climate change, war and so on.</description>
+    </item>
+    
+  </channel>
+</rss>

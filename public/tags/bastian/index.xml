@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bastian on Artangled</title>
+    <link>http://example.org/tags/bastian/</link>
+    <description>Recent content in Bastian on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/bastian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emil Nolde: Anatomy of Light and Water | Bastian</title>
+      <link>http://example.org/posts/nolde-bastian/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/nolde-bastian/</guid>
+      <description>Emil Nolde was a supremely talented painter who made gorgeous use of colours suggesting light. He also had well-documented Nazi sympathies. That’s surely a big reason why he isn’t much seen: this small show of watercolours was the first Nolde exhibition I can recall in London in my years of gallery-going.
+As an older man, Nolde spent his summers in Seebüll in Northern Germany, a beach-side town. Thomas Mann country - Caspar David Friedrich country - at least in my head.</description>
+    </item>
+    
+    <item>
+      <title>Atelier Picasso | Bastian</title>
+      <link>http://example.org/posts/picasso-bastian/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/picasso-bastian/</guid>
+      <description>Pablo Picasso moved to the south of France after the second world war, and pitched up in Cannes in 1955, living in splendour at La Californie, a sumptuous mansion in the hills above town. He remained in the area until his death in 1973. This period is the focus of a new show at Bastian - one of the few open in London at this time of year.
+As productive as ever, Picasso painted, sculpted, drew and cast thousands of ceramics.</description>
+    </item>
+    
+    <item>
+      <title>Cy Twombly - Natural History | Bastian</title>
+      <link>http://example.org/posts/twombly-bastian/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/twombly-bastian/</guid>
+      <description>I just can’t with him. I’ve tried. Cy Twombly on a large scale hasn’t worked. I’ve trudged through a (huge) retrospective at the Pompidou, trying to find something, anything, in his mannered scribbles, his big messy flowers, his enormous, aggressive, pompous drips. I’ve wheeled around the Lepanto series in its purpose-built room at the top of the Brandhorst Museum in Munich: appreciating the lovely colours and ultra-luxe surroundings, but just, somehow, failing to connect with what was on the wall.</description>
+    </item>
+    
+  </channel>
+</rss>

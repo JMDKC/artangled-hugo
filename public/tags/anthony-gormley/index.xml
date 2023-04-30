@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anthony Gormley on Artangled</title>
+    <link>http://example.org/tags/anthony-gormley/</link>
+    <description>Recent content in Anthony Gormley on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/anthony-gormley/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthony Gormley | Royal Academy</title>
+      <link>http://example.org/posts/gormley-royal-academy/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/gormley-royal-academy/</guid>
+      <description>This is a very comprehensive show, featuring lots of Gormley’s notebooks and sketchbooks, and ranging from the early Land Art-inspired work, to new experiments. Such the final room, which I visited at night, feeling the dark chill of the entire gallery space submerged in clay-ey water.
+Elsewhere, there are endless variations on Gormley’s trademark rusty metal and steel. Such as the exhibition’s centrepiece: Matrix III, constructed especially for the show. A couple lay dreamily on the hard wooden floor, gazing up at the grid patterns, densely arranged around a central void.</description>
+    </item>
+    
+  </channel>
+</rss>

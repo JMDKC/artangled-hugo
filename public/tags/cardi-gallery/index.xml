@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cardi Gallery on Artangled</title>
+    <link>http://example.org/tags/cardi-gallery/</link>
+    <description>Recent content in Cardi Gallery on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cardi-gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wolf Vostell: Destruction is Life | Cardi Gallery</title>
+      <link>http://example.org/posts/vostell-cardi/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/vostell-cardi/</guid>
+      <description>There are two impressive mini-retrospectives for members of the post-war Fluxus group - some of the original performance artists - on in London at the moment. Per Kirkeby’s dark landscape paintings are at Michael Werner, while Wolf Vostell, one of the movement’s leading lights, has taken over all three floors of the large Cardi Gallery.
+Vostell specialised in what he called décollages - mixed media collages, built through creating new things and destroying existing ones.</description>
+    </item>
+    
+    <item>
+      <title>Mimmo Rotella Beyond Décollage | Cardi Gallery</title>
+      <link>http://example.org/posts/rotella-cardi/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/rotella-cardi/</guid>
+      <description>While Andy Warhol’s mega-show plays across the river at Tate, a much less-heralded friend from Italy has taken up residence in a quiet street in Mayfair. Just like Warhol, Mimmo Rotella was obsessed by the mechanistic over the manual. But instead of making glitzy silk screen prints of pop icons, Rotella responded to the post-War boom with a grungy alternative: the décollage.
+In the 1950s, Rotella launched his artistic career by roaming the streets of Rome and tearing advertising posters from the walls, which he then distressed further at home.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raphael on Artangled</title>
+    <link>http://example.org/tags/raphael/</link>
+    <description>Recent content in Raphael on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/raphael/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eternalising Art History: From Da Vinci to Modigliani | Unit London</title>
+      <link>http://example.org/posts/nft-unit/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/nft-unit/</guid>
+      <description>Despite their sudden and enormous impact on the art world over recent months, the ins and outs of NFTs have passed me by. This show is the first of its type I’ve been to - in which the artworks are digital files, authenticated on the blockchain. I can’t face attempting to explain what the blockchain is, because I’ve read several Wikipedia pages and I’m still not sure I understand it myself!</description>
+    </item>
+    
+  </channel>
+</rss>

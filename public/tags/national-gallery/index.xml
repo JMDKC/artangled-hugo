@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>National Gallery on Artangled</title>
+    <link>http://example.org/tags/national-gallery/</link>
+    <description>Recent content in National Gallery on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/national-gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lucian Freud: New Perspectives | National Gallery</title>
+      <link>http://example.org/posts/freud-national/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/freud-national/</guid>
+      <description>Kindness isn’t a word that’s really associated with Lucian Freud, whose centenary retrospective is just coming to an end at the National Gallery. As befits such a big artistic beast - Freud has only become more mega-famous since his death in 2011 - the show is epic in scale. It’s loaded with the rather cruel portraits of his lovers and children he’s famous for: the early subjects bug-eyed and on the verge of tears, the later ones nude, uncomfortably contorted and rendered in thick oil paint.</description>
+    </item>
+    
+    <item>
+      <title>Interlude - Thomas Jones at the National Gallery</title>
+      <link>http://example.org/posts/jones-national/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/jones-national/</guid>
+      <description>This fascinating and tiny painting, 16cm across and 10cm high, was usually one of my stops when I dropped in to the National Gallery. I must have visited the gallery hundreds of times over the years, and therefore must have seen this painting dozens of times, back when I had the option of doing so.
+The title is admirably descriptive: Jones paints, in oils on paper, a worn out wall, lit by strong sunshine.</description>
+    </item>
+    
+    <item>
+      <title>Bartolomé Bermejo - Master of the Spanish Renaissance | National Gallery</title>
+      <link>http://example.org/posts/stoner-modern/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/stoner-modern/</guid>
+      <description>Walking around this impressive one-room exhibition , I was reminded of another artist on show in the National Gallery’s permanent collection, down the corridor. Because Bartolomé Bermejo, like the better-known Antonello da Messina, was a painter of the south that was as influenced by the Northern Renaissance as what was going on in Italy at the time.
+There’s an echo of van Eyck and van der Weyden in these artists: their jewel-like clarity; the comparative disinterest in anatomical correctness and the new rules of perspective; the love lavished on different surfaces and materials.</description>
+    </item>
+    
+    <item>
+      <title>Edward Burne-Jones | Tate Britain</title>
+      <link>http://example.org/posts/burne-jones-tate/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/burne-jones-tate/</guid>
+      <description>I went into this large exhibition ready to write off Edward Burne-Jones as total kitsch. But he resists being dismissed. The show is full of annoying reminders of the artist&amp;rsquo;s great popularity - from the start - and the fact that he was an epic do-gooder. Rising to world fame from humble origins, unlike some of his fellow pre-Raphaelites, Burne-Jones went into business with Socialist paragon of virtue William Morris to produce mass-market wall-hangings, to go along with his paintings for rich patrons and collectors; he saw no distinction between fine and decorative art.</description>
+    </item>
+    
+  </channel>
+</rss>

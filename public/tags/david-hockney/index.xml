@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Hockney on Artangled</title>
+    <link>http://example.org/tags/david-hockney/</link>
+    <description>Recent content in David Hockney on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/david-hockney/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>David Hockney: The Arrival of Spring, Normandy, 2020 | Royal Academy</title>
+      <link>http://example.org/posts/hockney-royal-academy/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/hockney-royal-academy/</guid>
+      <description>While the world went into lockdown last Spring, David Hockney, ensconced in his comfortable country house in northern France, took out his iPad and captured the passing of the seasons.
+Through circumstance, this Royal Academy show, containing 116 of these iPad pictures, comes at a time when lockdowns are over, and the Burlington House courtyard and the city beyond is ever more crowded. We’re having a springtime, then, even with the days getting shorter.</description>
+    </item>
+    
+    <item>
+      <title>Swinging London | Hazlitt Holland-Hibbert</title>
+      <link>http://example.org/posts/swinging-hazlitt/</link>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/swinging-hazlitt/</guid>
+      <description>Three linked exhibitions this week, each carrying with them a whiff of patchouli oil and pot. It’s not quite (yet) a Summer of Love in London, but these shows all reach back to the 1960s, a time of Pop and Op&amp;hellip; and some very big floppy collars.
+One of the biggest and floppiest is sported by legendary fashion designer Ossie Clark, sketched at home by the still more legendary (and decade-defining) David Hockney.</description>
+    </item>
+    
+  </channel>
+</rss>

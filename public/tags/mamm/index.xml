@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MAMM on Artangled</title>
+    <link>http://example.org/tags/mamm/</link>
+    <description>Recent content in MAMM on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/mamm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Vuelta | MAMM</title>
+      <link>http://example.org/posts/consuegra-mamm/</link>
+      <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/consuegra-mamm/</guid>
+      <description>Shining out from this group show in Medellín’s very impressive modern art museum was Nicolás Consuegra’s series of square-format found photos. They depict a show of their own: ordinary families proudly displaying their Renault 4 or R4, the most popular Colombian car of the 70s and 80s.
+What do I see, as a foreigner, in these photos? Certainly something different to the typical Colombian, who’d be deeply familiar with the shape of this low-cost family hatchback, which became as ubiquitous as the Volkswagen Beetle over in Mexico.</description>
+    </item>
+    
+  </channel>
+</rss>

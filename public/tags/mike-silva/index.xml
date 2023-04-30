@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mike Silva on Artangled</title>
+    <link>http://example.org/tags/mike-silva/</link>
+    <description>Recent content in Mike Silva on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/mike-silva/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marwan Bassiouni: New British Views | Workplace</title>
+      <link>http://example.org/posts/bassiouni-workplace/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bassiouni-workplace/</guid>
+      <description>There’s something about the low light of my homeland, depicted in a painting or a photograph, that pushes me to write about it: see previous examples from George Shaw, Mike Silva and Jock McFadyen. This time, it’s an exhibition from Marwan Bassiouni, whose impressively cosmopolitan background (Italian-Swiss-Egyptian-American) hasn’t stopped him depicting the most humdrum, low-lit British landscapes with notable sensitivity and skill.
+Bassiouni’s conceit is simple: he shoots landscapes, seen through the windows of mosques and Islamic prayer rooms.</description>
+    </item>
+    
+    <item>
+      <title>Brothers in Art: Walter &amp; Harold Steggles and the East London Group | Beecroft Art Gallery</title>
+      <link>http://example.org/posts/steggles-beecroft/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/steggles-beecroft/</guid>
+      <description>I’ve been really interested in The East London Group’s paintings for a while - ever since I moved to Bow, slap bang in the middle of the neighbourhood depicted by these painters. This large exhibition puts over 100 paintings on show: that&amp;rsquo;s a hefty proportion of the total known surviving works from the Group. With the big majority of these in private collections, this exhibition represents a rare opportunity for an interested viewer.</description>
+    </item>
+    
+    <item>
+      <title>Mike Silva: London Portraits, Interiors and Still Lives | The Approach</title>
+      <link>http://example.org/posts/silva-approach/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/silva-approach/</guid>
+      <description>Something about Mike Silva’s paintings make me feel - “that’s London”. I promise I would have said the same even if this show had been called anything else. I’ll try to explain why.
+Kitchen Window, pictured below, is representative of Silva’s scenes, which are worked up from photos he has taken over the years, many from his old flatsharing days. There’s something about the brownish light, filtering in from the impractical curtain covering, wanly suspended from a plastic tube across the window, giving a little privacy from the neighbours across the way, that makes me think: we&amp;rsquo;re in London.</description>
+    </item>
+    
+  </channel>
+</rss>

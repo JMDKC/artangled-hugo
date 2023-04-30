@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruce Conner on Artangled</title>
+    <link>http://example.org/tags/bruce-conner/</link>
+    <description>Recent content in Bruce Conner on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/bruce-conner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bruce Conner - BREAKAWAY | Thomas Dane Gallery</title>
+      <link>http://example.org/posts/conner-dane/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/conner-dane/</guid>
+      <description>This is a pretty rare opportunity to view work by the American polymath Bruce Conner in London. Conner, who died in 2008, was a painter, sculptor and video artist who worked over a massive range of media.
+This time, the focus is on his mid-60s video art: on show at Thomas Dane is Breakaway, from 1966, which he shot with popstar and choreographer Toni Basil, whose similarly long career improbably peaked a decade and a half later with the stone cold novelty classic Hey Mickey!</description>
+    </item>
+    
+  </channel>
+</rss>

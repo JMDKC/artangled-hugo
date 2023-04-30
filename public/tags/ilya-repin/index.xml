@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ilya Repin on Artangled</title>
+    <link>http://example.org/tags/ilya-repin/</link>
+    <description>Recent content in Ilya Repin on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/ilya-repin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 5 of 2021</title>
+      <link>http://example.org/posts/top-5-2021/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/top-5-2021/</guid>
+      <description>I’ve surprised myself with sticking to the Artangled project for another year. Ever since lockdown eased in April, and many London galleries reopened, I’ve posted weekly. Just as I have each week since the beginning of 2018. This site, and its thousands of words, remain a personal project: I doubt I could ‘grow the brand’ even if I tried! But I should admit, it’s remained a personal pleasure to sit down each week and put together a post, and I’ll continue doing it as long as the pleasure remains.</description>
+    </item>
+    
+    <item>
+      <title>Ilya Repin: Painting the soul of Russia | Petit Palais</title>
+      <link>http://example.org/posts/repin-petit-palais/</link>
+      <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/repin-petit-palais/</guid>
+      <description>It’s a fleeting moment in time, captured in oil paints some time in 1876. Ilya Repin, fresh out of art school and on a sponsored stay in Paris, spotted a moody young man, leaning on a wall in a back street of Montmartre. The painting ended up in a public collection in Saratov, labelled, simply, этюд (‘Study’). And now it’s back to its city of origin, in a vast retrospective of its painter, in the Petit Palais.</description>
+    </item>
+    
+  </channel>
+</rss>

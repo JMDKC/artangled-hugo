@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Whitechapel Gallery on Artangled</title>
+    <link>http://example.org/tags/whitechapel-gallery/</link>
+    <description>Recent content in Whitechapel Gallery on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/whitechapel-gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moving Bodies, Moving Images | Whitechapel Gallery</title>
+      <link>http://example.org/posts/farid-whitechapel/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/farid-whitechapel/</guid>
+      <description>This show of video art seems like an appropriate one to feature for the last post of the year. Firstly, because it&amp;rsquo;s the festive season, and the artwork I’m going to write about features a festival. Secondly, because it means that posts on the Whitechapel Gallery, my local public art collection, will bookend this year.
+Alia Farid’s 15 minute movie At the Time of the Ebb could hardly be more different to the Theaster Gates ceramics I featured back in January, though.</description>
+    </item>
+    
+    <item>
+      <title>Theaster Gates: A Clay Sermon | Whitechapel Gallery</title>
+      <link>http://example.org/posts/gates-whitechapel/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/gates-whitechapel/</guid>
+      <description>I caught Theaster Gates’ show at Whitechapel Gallery on its last weekend. I’d cycled there without checking the (rainy) weather forecast. Along with blurry glasses and a wet bum, I’d brought along a raft of preconceptions about Gates’ work. The main one being that his activist ceramic works were compelling due to their artistic influences and political meaning, rather than being beautiful objects in themselves.
+I was disabused of this dumb opinion in the final room of the show, pictured below, a spectacular collection of large pots, earthenware and stoneware, shining with different glazes, shaped with different forms, some amphora-shaped, some more organic and mysterious.</description>
+    </item>
+    
+    <item>
+      <title>Carlos Bunga - Something Necessary and Useful | Whitechapel Gallery</title>
+      <link>http://example.org/posts/bunga-whitechapel/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bunga-whitechapel/</guid>
+      <description>For a small sect that has never had a global membership higher than a few thousand souls, the Shakers have had an outsize cultural impact. With their dedication to beautifully modest and minimal design, their aesthetic influence has echoed down the centuries, from Modernist cereal-box architecture, to wood-n-whitewash worshipping magazines like Kinfolk.
+Shakerism influences the work of Carlos Bunga, a Portuguese-born, US-based artist. He’s taken inspiration not just in Shaker aesthetics in this one-room show, currently on at Whitechapel Gallery.</description>
+    </item>
+    
+    <item>
+      <title>Elmgreen &amp; Dragset - This Is How We Bite Our Tongue | Whitechapel Gallery</title>
+      <link>http://example.org/posts/elmgreen-dragset-whitechapel/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/elmgreen-dragset-whitechapel/</guid>
+      <description>Whitechapel Gallery has been transformed into a derelict swimming pool with an imaginary backstory. Built by a Victorian philanthropist (the story goes), the Whitechapel Pool played host to Tesco founder Jack Cohen and David Hockney over its decades as a public utility. Then it got shut down in the privatisation-happy Thatcher era, before being renovated as part of a “design hotel” opening in 2019. Unfortunately for future Cohens and Hockneys, it’ll be accessible only through membership.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takis on Artangled</title>
+    <link>http://example.org/tags/takis/</link>
+    <description>Recent content in Takis on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/takis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Takis | Tate Modern</title>
+      <link>http://example.org/posts/takis-tate/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/takis-tate/</guid>
+      <description>Despite the multi-decade career - he died just after this Tate Modern show opened - the “kinetic” artist Takis is bound into the 1960s, specifically the decade’s go-ahead technological positivity. His art, kindled by the possibilities of electromagnetism and machinery, shows an excitement and wonder similar to that of the IBM pavilion at the 1965 World’s Fair, or Vasarely’s strobing patterns.
+That’s not to suggest this exhibition is any fun though.</description>
+    </item>
+    
+  </channel>
+</rss>

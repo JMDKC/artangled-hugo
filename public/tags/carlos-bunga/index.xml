@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos Bunga on Artangled</title>
+    <link>http://example.org/tags/carlos-bunga/</link>
+    <description>Recent content in Carlos Bunga on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/carlos-bunga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carlos Bunga - Something Necessary and Useful | Whitechapel Gallery</title>
+      <link>http://example.org/posts/bunga-whitechapel/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bunga-whitechapel/</guid>
+      <description>For a small sect that has never had a global membership higher than a few thousand souls, the Shakers have had an outsize cultural impact. With their dedication to beautifully modest and minimal design, their aesthetic influence has echoed down the centuries, from Modernist cereal-box architecture, to wood-n-whitewash worshipping magazines like Kinfolk.
+Shakerism influences the work of Carlos Bunga, a Portuguese-born, US-based artist. He’s taken inspiration not just in Shaker aesthetics in this one-room show, currently on at Whitechapel Gallery.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emil Nolde on Artangled</title>
+    <link>http://example.org/tags/emil-nolde/</link>
+    <description>Recent content in Emil Nolde on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/emil-nolde/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Balthus: Under the Surface | Luxembourg &#43; Co</title>
+      <link>http://example.org/posts/balthus-luxembourg/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/balthus-luxembourg/</guid>
+      <description>The notes for this show, apparently the first Balthus exhibition in the UK since 1968, contain the following Oscar Wilde quote: “All art is at once surface and symbol. Those who go beneath the surface do so at their peril. Those who read the symbol do so at their peril.”
+This plea not to look too closely is appropriate for this artist, considering the fact he was a snob, a vile anti-semite despite his Jewish heritage, and is most famous these days for his unabashedly erotic pictures of little girls.</description>
+    </item>
+    
+    <item>
+      <title>Emil Nolde: Anatomy of Light and Water | Bastian</title>
+      <link>http://example.org/posts/nolde-bastian/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/nolde-bastian/</guid>
+      <description>Emil Nolde was a supremely talented painter who made gorgeous use of colours suggesting light. He also had well-documented Nazi sympathies. That’s surely a big reason why he isn’t much seen: this small show of watercolours was the first Nolde exhibition I can recall in London in my years of gallery-going.
+As an older man, Nolde spent his summers in Seebüll in Northern Germany, a beach-side town. Thomas Mann country - Caspar David Friedrich country - at least in my head.</description>
+    </item>
+    
+    <item>
+      <title>Phantastisch! Alfred Kubin und der Blaue Reiter | Lenbachhaus</title>
+      <link>http://example.org/posts/kubin-lenbachhaus/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/kubin-lenbachhaus/</guid>
+      <description>Alfred Kubin had a pretty standard upbringing, when you consider his predilection for the grotesque. Bouncing between mental health problems, a sexual encounter with a pregnant woman when he was 11, and a (failed) suicide-by-shotgun attempt on his mother’s grave, he found lasting fame just after graduating with sickly macabre little pen-and-ink drawings, depicting torture, devils, and death. There’s a great selection on show at Phantastisch! Alfred Kubin und Der Blaue Reiter, an exhibition currently running at the Lenbachhaus in Munich.</description>
+    </item>
+    
+  </channel>
+</rss>

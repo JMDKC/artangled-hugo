@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coco Capitán on Artangled</title>
+    <link>http://example.org/tags/coco-capit%C3%A1n/</link>
+    <description>Recent content in Coco Capitán on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/coco-capit%C3%A1n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 5 of 2020</title>
+      <link>http://example.org/posts/top-5-2020/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/top-5-2020/</guid>
+      <description>This is my third year of the Artangled project, and my third end-of-year roundup. I&amp;rsquo;ll stick to the 2018 and 2019 format, listing the five art exhibitions I enjoyed most this year. Previously, I&amp;rsquo;ve also called out a couple of shows I didn&amp;rsquo;t enjoy. But for 2020, there’s only one candidate for my festive lump of coal: the global pandemic itself, one of whose side effects was to shutter London&amp;rsquo;s art galleries for months on end.</description>
+    </item>
+    
+    <item>
+      <title>Coco Capitán: Naïvy | Maximillian William</title>
+      <link>http://example.org/posts/capitan-william/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/capitan-william/</guid>
+      <description>This young artist, who also pays the bills as a fashion photographer, is very obviously going places. Still a couple of years shy of 30, she has a rock-solid aesthetic across photos, paintings, (hand) writing and found objects, which are all on show at Maximillian William right now.
+The exhibition is based around a garment that could be militaristic, cute or camp: a sailor suit. The actual suit is draped over a schoolroom-style wooden chair, its hood carefully appliquéd with white-stitched daisies.</description>
+    </item>
+    
+  </channel>
+</rss>

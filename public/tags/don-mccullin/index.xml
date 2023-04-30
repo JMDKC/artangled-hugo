@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Don McCullin on Artangled</title>
+    <link>http://example.org/tags/don-mccullin/</link>
+    <description>Recent content in Don McCullin on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/don-mccullin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Don McCullin | Tate &amp; Hamiltons</title>
+      <link>http://example.org/posts/mccullin-tate/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mccullin-tate/</guid>
+      <description>It’s those little flecks of light, reflected in the shiny metal of minecart tracks, criss-crossing the ground in front of a mine in County Durham, and depicted in sumptuous black and white, that drew me in. Standing astride these tracks is a well-dressed couple, looking back at their photographer with a mixture of wariness and pride.
+Their (very famous) photographer, Don McCullin, is best known for his images of war - from Vietnam to Biafra.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+[[entries]]
+title = "Latest Posts"
+
+  [entries.post_list]
+  limit = 10
+  show_more = true
+  show_more_text = "All posts"
+  show_more_url = "posts"
+
+[[entries]]
+title = "About"
+
+  [[entries.entries]]
+  title = "Artangled is a bare-bones blog about art shows that lead to connections. It's written by <a href='https://josephclift.com'>Joseph Clift</a> and is updated weekly, circumstances permitting."
+  [[entries.entries]]
+  title = "This site is built with <a href='https://gohugo.io'>Hugo</a>, using the theme <a href='https://themes.gohugo.io/themes/hugo-theme-nostyleplease/''>nostyleplease</a>. You can look at its code here."
+
+[[entries]]
+title = "Tags"
+url = "tags"
+
+[[entries]]
+title = "RSS"
+url = "index.xml"
+
+[[entries]]
+title = "Copyright Joseph Clift (2018-2023)"

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felipe Rezende on Artangled</title>
+    <link>http://example.org/tags/felipe-rezende/</link>
+    <description>Recent content in Felipe Rezende on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/felipe-rezende/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 5 of 2022</title>
+      <link>http://example.org/posts/top-5-2022/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/top-5-2022/</guid>
+      <description>Another year, another 50 or so new posts about some art show I&amp;rsquo;d seen that week. Following the pandemic, which put a major dampener on the Artangled project, things are pretty much back to normal on here.
+That’s reflected by the numbers. I saw 220 exhibitions in total this past year, practically the same as 2019 (221) and well up from last year’s 141 - a drop almost entirely attributable to lockdowns.</description>
+    </item>
+    
+    <item>
+      <title>Felipe Rezende: Long is the Road | Jack Bell Gallery</title>
+      <link>http://example.org/posts/rezende-bell/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/rezende-bell/</guid>
+      <description>Taking a midweek day off always makes me feel a bit delinquent. At leisure to do fun stuff - in my case, that usually means going to galleries - while most of the people around me are at work. As it happens, the world of work is the guiding subject of this impressive exhibition, though the world of its paintings is far distant from the Mayfair gallery that hosts them.</description>
+    </item>
+    
+  </channel>
+</rss>

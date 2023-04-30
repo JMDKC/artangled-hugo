@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeff Wall on Artangled</title>
+    <link>http://example.org/tags/jeff-wall/</link>
+    <description>Recent content in Jeff Wall on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/jeff-wall/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jeff Wall | White Cube</title>
+      <link>http://example.org/posts/wall-white-cube/</link>
+      <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wall-white-cube/</guid>
+      <description>Jeff Wall’s best known for large, lush, elaborately staged photographs set in light boxes. This absorbing exhibition puts on show several of his unstaged and landscape works - all of which are blown up to a grand scale. The show’s at the large White Cube gallery in Mayfair was eerily deserted when I visited, with most other commercial galleries closed due to the Jubilee weekend.
+Quite appropriately, the standout exhibit depicts a party - though not one you’d want to be at.</description>
+    </item>
+    
+  </channel>
+</rss>

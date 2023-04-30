@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Hammick on Artangled</title>
+    <link>http://example.org/tags/tom-hammick/</link>
+    <description>Recent content in Tom Hammick on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/tom-hammick/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Martin Aagaard Hansen: Autumn skullcap | Union Pacific</title>
+      <link>http://example.org/posts/aagaard-pacific/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/aagaard-pacific/</guid>
+      <description>The weather in London this week has been grey, cold and still. Though the first daffodils are out in the parks, and there’s that extra few minutes of light in the afternoon to let us know that better times are on their way. This wintry feeling meant that Martin Aagaard Hansen’s paintings, scratchy and cold, struck a chord with me this week.
+Copenhagen-based Hansen clearly enjoys escaping to the countryside: the paintings on show at Union Pacific are closely thematically linked, all some variation on a forest scene with solitary wanderers.</description>
+    </item>
+    
+    <item>
+      <title>Tom Hammick - Night Animals | Flowers</title>
+      <link>http://example.org/posts/hammick-flowers/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/hammick-flowers/</guid>
+      <description>Spooky as a Sargent Nocturne, Tom Hammick’s oil paintings are here awash with blue, depicting campsites, cabins and ships. He’s deeply influenced by the Romantic movement, with the figure of the solitary striver explains why none of his figures seem to look at or talk to each other.
+That’s not to say they’re entirely rejecting material culture: in Walden Pond, partygoers cluster around a shiny camper van. And there’s something lovely and regular about the sailboat that appears in many of the paintings.</description>
+    </item>
+    
+  </channel>
+</rss>

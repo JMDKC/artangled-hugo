@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rogier van der Weyden on Artangled</title>
+    <link>http://example.org/tags/rogier-van-der-weyden/</link>
+    <description>Recent content in Rogier van der Weyden on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/rogier-van-der-weyden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interlude - Rogier van der Weyden at the Alte Pinakothek</title>
+      <link>http://example.org/posts/weyden-alte/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/weyden-alte/</guid>
+      <description>The purpose of this site is for me to write about an art show I&amp;rsquo;ve seen each week. Obviously, that&amp;rsquo;s a purpose that can’t be fulfilled at the moment, with galleries - and gallery-goers - in lockdown. Time for something different then: from home, I’m going to focus each post on a work in a permanent collection, shuttered somewhere in an empty museum, that I’ve been thinking about for some reason.</description>
+    </item>
+    
+  </channel>
+</rss>

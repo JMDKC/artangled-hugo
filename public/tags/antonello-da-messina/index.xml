@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonello da Messina on Artangled</title>
+    <link>http://example.org/tags/antonello-da-messina/</link>
+    <description>Recent content in Antonello da Messina on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/antonello-da-messina/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bartolomé Bermejo - Master of the Spanish Renaissance | National Gallery</title>
+      <link>http://example.org/posts/stoner-modern/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/stoner-modern/</guid>
+      <description>Walking around this impressive one-room exhibition , I was reminded of another artist on show in the National Gallery’s permanent collection, down the corridor. Because Bartolomé Bermejo, like the better-known Antonello da Messina, was a painter of the south that was as influenced by the Northern Renaissance as what was going on in Italy at the time.
+There’s an echo of van Eyck and van der Weyden in these artists: their jewel-like clarity; the comparative disinterest in anatomical correctness and the new rules of perspective; the love lavished on different surfaces and materials.</description>
+    </item>
+    
+  </channel>
+</rss>

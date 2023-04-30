@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Walker Art Gallery on Artangled</title>
+    <link>http://example.org/tags/walker-art-gallery/</link>
+    <description>Recent content in Walker Art Gallery on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/walker-art-gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Charles Rennie Mackintosh - Making the Glasgow Style | Walker Art Gallery</title>
+      <link>http://example.org/posts/mackintosh-walker/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mackintosh-walker/</guid>
+      <description>I’m somebody whose only prior knowledge of Charles Rennie Mackintosh was a font and a fire, prior to attending this show. So, wandering the galleries, I found it all simply revelatory.
+While the notes claim the Scottish polymath as the “father of Modernism”, which seems steep, the works on show at the Walker Art Gallery do a great job at lining Mackintosh up in a heritage extending across the continent to Symbolism and the Secession.</description>
+    </item>
+    
+  </channel>
+</rss>

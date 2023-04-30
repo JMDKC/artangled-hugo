@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos Cruz-Diez on Artangled</title>
+    <link>http://example.org/tags/carlos-cruz-diez/</link>
+    <description>Recent content in Carlos Cruz-Diez on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/carlos-cruz-diez/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frieze Sculpture | The Regent’s Park</title>
+      <link>http://example.org/posts/frieze-regents-park/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/frieze-regents-park/</guid>
+      <description>My last trip to the Frieze tent, in 2019, ended up as a bit of a disaster, not that I admitted it on here at the time. After three hours of walking, looking intently, elbowing aside crowds and becoming increasingly unbalanced by loading more and more free merchandise into my straining tote, I ended up having a quiet panic attack in Benugo, vowing never again. If you’re not important enough to buy any of the work on show, then you’re effectively paying quite a lot to be overstimulated to the point of exhaustion - not really the best frame of mind to look at art.</description>
+    </item>
+    
+  </channel>
+</rss>

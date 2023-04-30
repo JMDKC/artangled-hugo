@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hermann Nitsch on Artangled</title>
+    <link>http://example.org/tags/hermann-nitsch/</link>
+    <description>Recent content in Hermann Nitsch on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/hermann-nitsch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hermann Nitsch - Das Orgien Mysterien Theater | Massimo de Carlo</title>
+      <link>http://example.org/posts/itsch-de-carlo/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/itsch-de-carlo/</guid>
+      <description>I didn’t realise how Catholic a country Austria is until I arrived in the centre of Vienna on All Saint’s Day last year and couldn’t find a single supermarket open. Wandering past wedding-cake Baroque churches, with their over-ornate interiors, I finally found a tiny Turkish corner shop – packed, of course. Anyway, that&amp;rsquo;s a memory triggered by wandering around a very different type of Austrian Catholic dysfunction, currently on show at Massimo de Carlo.</description>
+    </item>
+    
+  </channel>
+</rss>

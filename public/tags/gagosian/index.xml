@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gagosian on Artangled</title>
+    <link>http://example.org/tags/gagosian/</link>
+    <description>Recent content in Gagosian on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/gagosian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Haunted Realism | Gagosian</title>
+      <link>http://example.org/posts/haunted-gagosian/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/haunted-gagosian/</guid>
+      <description>This is a typically epically show-offy group exhibition, in which various contemporary and 20th century A-listers face each other down in large galleries police by black-clad security men. A confluence of art celebrity, crammed together: here, a wall full of Richard Prince photos loomed over a Rachel Whiteread bed; there, a Jenny Saville bum rubbed against what looked to be a string shopping bag with a chunk of polystyrene inside (in fact it was a bronze and marble sculpture from Tatiana Trouvé).</description>
+    </item>
+    
+    <item>
+      <title>Meleko Mokgosi - Democratic Intuition | Gagosian</title>
+      <link>http://example.org/posts/mokgosi-gagosian/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mokgosi-gagosian/</guid>
+      <description>I&amp;rsquo;ve always found the amount of security guards at Gagosian galleries a bit over the top. And even more so this visit, with London fresh out of lockdown and the city’s residents more likely to catch up on their Christmas shopping than catch up on new exhibitions on a Saturday afternoon. That, coupled with the fact the gallery’s gone appointment-only, meant that I had this show all to myself. Well, more accurately, I shared each room of Gagosian’s massive space on Britannia Street with a black mask-and-suit clad guard - and nobody else.</description>
+    </item>
+    
+    <item>
+      <title>Albert Oehlen - Sexe, religion, politique | Max Hetzler &amp; Gagosian</title>
+      <link>http://example.org/posts/oehlen-hetzler/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/oehlen-hetzler/</guid>
+      <description>Albert Oehlen is a difficult artist to love, but an easy artist to admire. This is due to his tendency to treat his painting as an intellectual exercise within strict self-imposed boundaries, rather than a vehicle of sensual pleasure. This tendency is on show in a pair of identically- titled exhibitions in two of Paris’ most prestigious private galleries: Max Hetzler and Gagosian.
+Each exhibition features works with a near-identical yellow hue: clearly another deliberately-imposed restriction from Oehlen.</description>
+    </item>
+    
+    <item>
+      <title>Richard Serra – Rifts | Gagosian</title>
+      <link>http://example.org/posts/serra-gagosian/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/serra-gagosian/</guid>
+      <description>There&amp;rsquo;s a funny bit in the recent New Yorker hatchet job on Thomas Heatherwick, covering the design superstar&amp;rsquo;s mission to build a centrepiece for the renovation of Hudson Yards, New York City. Richard Serra was also asked to contribute too, but said no. “You know what I do — you know that it’s going to be structural steel, you know it’s going to be monumental. What do I need to show you?</description>
+    </item>
+    
+  </channel>
+</rss>

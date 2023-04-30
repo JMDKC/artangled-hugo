@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henri Rousseau on Artangled</title>
+    <link>http://example.org/tags/henri-rousseau/</link>
+    <description>Recent content in Henri Rousseau on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/henri-rousseau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alejandro Cardenas: CALYPSO | Almine Rech</title>
+      <link>http://example.org/posts/cardenas-rech/</link>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cardenas-rech/</guid>
+      <description>Chilean artist Alejandro Cardenas based the works in this exhibition around a story in Homer’s Odyssey. He owes some artistic debts to Rousseau, in his frequent use of lush, verdant backdrops, and to de Chirico in the quietude of his pictorial atmospheres, as well as his perspectival clarity.
+Odysseus took seven years out from his… well, odyssey, by having fun with the nymph Calypso on her private island. An extremely kind host, she gave him food (and other sensual pleasures), and even provided the tools to build his boat to escape with when he missed his wife too much to stay.</description>
+    </item>
+    
+  </channel>
+</rss>

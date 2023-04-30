@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modern Art Oxford on Artangled</title>
+    <link>http://example.org/tags/modern-art-oxford/</link>
+    <description>Recent content in Modern Art Oxford on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/modern-art-oxford/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ruth Asawa: Citizen of the Universe | Modern Art Oxford</title>
+      <link>http://example.org/posts/asawa-mao/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/asawa-mao/</guid>
+      <description>I first saw work from the American artist and educator Ruth Asawa in a show at David Zwirner, just before COVID hit. I was pretty captivated by her weightless sculptures made of wire, hanging from the ceiling like shoals of jellyfish. Back in the UK a couple of years later, she’s taken over an even larger space, the upper floors of Modern Art Oxford, in an exhibition that showcases a broader variety of her work, and the ideals that informed it.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Top 5 on Artangled</title>
+    <link>http://example.org/tags/top-5/</link>
+    <description>Recent content in Top 5 on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/top-5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 5 of 2022</title>
+      <link>http://example.org/posts/top-5-2022/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/top-5-2022/</guid>
+      <description>Another year, another 50 or so new posts about some art show I&amp;rsquo;d seen that week. Following the pandemic, which put a major dampener on the Artangled project, things are pretty much back to normal on here.
+That’s reflected by the numbers. I saw 220 exhibitions in total this past year, practically the same as 2019 (221) and well up from last year’s 141 - a drop almost entirely attributable to lockdowns.</description>
+    </item>
+    
+    <item>
+      <title>Top 5 of 2021</title>
+      <link>http://example.org/posts/top-5-2021/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/top-5-2021/</guid>
+      <description>I’ve surprised myself with sticking to the Artangled project for another year. Ever since lockdown eased in April, and many London galleries reopened, I’ve posted weekly. Just as I have each week since the beginning of 2018. This site, and its thousands of words, remain a personal project: I doubt I could ‘grow the brand’ even if I tried! But I should admit, it’s remained a personal pleasure to sit down each week and put together a post, and I’ll continue doing it as long as the pleasure remains.</description>
+    </item>
+    
+    <item>
+      <title>Top 5 of 2020</title>
+      <link>http://example.org/posts/top-5-2020/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/top-5-2020/</guid>
+      <description>This is my third year of the Artangled project, and my third end-of-year roundup. I&amp;rsquo;ll stick to the 2018 and 2019 format, listing the five art exhibitions I enjoyed most this year. Previously, I&amp;rsquo;ve also called out a couple of shows I didn&amp;rsquo;t enjoy. But for 2020, there’s only one candidate for my festive lump of coal: the global pandemic itself, one of whose side effects was to shutter London&amp;rsquo;s art galleries for months on end.</description>
+    </item>
+    
+    <item>
+      <title>Top 5 of 2019</title>
+      <link>http://example.org/posts/top-5-2019/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/top-5-2019/</guid>
+      <description>Across 2019, I saw 221 art exhibitions and collections, not counting repeats, and posted reviews of 48 of them on this website. That’s slightly down on the 256 I saw in 2018. But, on the plus side, I did a lot of travelling within the UK this year and managed to make the site a bit less London-centric,	posting reviews across 10 cities, up from nine last year.
+As will hopefully become an annual tradition here at Artangled, I’m going to round up my five favourite shows of the year, and name and shame a couple of public gallery exhibitions I didn’t like so much.</description>
+    </item>
+    
+    <item>
+      <title>Top 5 of 2018</title>
+      <link>http://example.org/posts/top-5-2018/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/top-5-2018/</guid>
+      <description>It’s been a pretty big first year of art watching for this little side project.
+In all, I saw 256 shows and collections in 2018 - not counting repeated visits to some old favourite permanent collections in London. Over that time, I featured a fifth of that total on the site, posting each week.
+While I give my eyes a rest over the festive period, here&amp;rsquo;s a round-up post, listing my top five of the year.</description>
+    </item>
+    
+  </channel>
+</rss>

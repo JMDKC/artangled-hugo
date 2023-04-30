@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perrotin on Artangled</title>
+    <link>http://example.org/tags/perrotin/</link>
+    <description>Recent content in Perrotin on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/perrotin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gabriel de la Mora - Écho | Perrotin</title>
+      <link>http://example.org/posts/de-la-mora-perrotin/</link>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/de-la-mora-perrotin/</guid>
+      <description>An arresting example of craft and obsession is provided by this Mexican-born artist, on show at Perrotin. De la Mora loves wall-mounted works, created piecemeal with great meticulousness. Their overall effect is weirdly heartening and uplifting.
+From a distance, the small, monochrome works, generally layered and repeated across the wall, do not look like much. It’s only when you get closer, when you realise what they’re made from, that the involuntary intake of breath comes.</description>
+    </item>
+    
+    <item>
+      <title>Elmgreen &amp; Dragset - This Is How We Bite Our Tongue | Whitechapel Gallery</title>
+      <link>http://example.org/posts/elmgreen-dragset-whitechapel/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/elmgreen-dragset-whitechapel/</guid>
+      <description>Whitechapel Gallery has been transformed into a derelict swimming pool with an imaginary backstory. Built by a Victorian philanthropist (the story goes), the Whitechapel Pool played host to Tesco founder Jack Cohen and David Hockney over its decades as a public utility. Then it got shut down in the privatisation-happy Thatcher era, before being renovated as part of a “design hotel” opening in 2019. Unfortunately for future Cohens and Hockneys, it’ll be accessible only through membership.</description>
+    </item>
+    
+    <item>
+      <title>Albert Oehlen - Sexe, religion, politique | Max Hetzler &amp; Gagosian</title>
+      <link>http://example.org/posts/oehlen-hetzler/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/oehlen-hetzler/</guid>
+      <description>Albert Oehlen is a difficult artist to love, but an easy artist to admire. This is due to his tendency to treat his painting as an intellectual exercise within strict self-imposed boundaries, rather than a vehicle of sensual pleasure. This tendency is on show in a pair of identically- titled exhibitions in two of Paris’ most prestigious private galleries: Max Hetzler and Gagosian.
+Each exhibition features works with a near-identical yellow hue: clearly another deliberately-imposed restriction from Oehlen.</description>
+    </item>
+    
+  </channel>
+</rss>

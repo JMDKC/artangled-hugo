@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frank Bowling on Artangled</title>
+    <link>http://example.org/tags/frank-bowling/</link>
+    <description>Recent content in Frank Bowling on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/frank-bowling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prunella Clough and Alan Reynolds | Annely Juda Fine Art</title>
+      <link>http://example.org/posts/clough-annely/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/clough-annely/</guid>
+      <description>Prunella Clough liked to explore the train yards at Willesden Junction: quite a messy and down-at-heel place these days, but surely an absolute decrepit dump in the post-war years in which she started working. From a wealthy background, she spent much of her career teaching at the Chelsea School of Art. But her own artistic output focused on semi-abstract paintings and prints of grimy, industrial and forgotten corners of London.</description>
+    </item>
+    
+  </channel>
+</rss>

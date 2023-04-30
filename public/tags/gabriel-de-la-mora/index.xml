@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel de la Mora on Artangled</title>
+    <link>http://example.org/tags/gabriel-de-la-mora/</link>
+    <description>Recent content in Gabriel de la Mora on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/gabriel-de-la-mora/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gabriel de la Mora - Écho | Perrotin</title>
+      <link>http://example.org/posts/de-la-mora-perrotin/</link>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/de-la-mora-perrotin/</guid>
+      <description>An arresting example of craft and obsession is provided by this Mexican-born artist, on show at Perrotin. De la Mora loves wall-mounted works, created piecemeal with great meticulousness. Their overall effect is weirdly heartening and uplifting.
+From a distance, the small, monochrome works, generally layered and repeated across the wall, do not look like much. It’s only when you get closer, when you realise what they’re made from, that the involuntary intake of breath comes.</description>
+    </item>
+    
+  </channel>
+</rss>

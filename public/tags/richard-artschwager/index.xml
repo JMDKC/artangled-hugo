@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard Artschwager on Artangled</title>
+    <link>http://example.org/tags/richard-artschwager/</link>
+    <description>Recent content in Richard Artschwager on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/richard-artschwager/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Haunted Realism | Gagosian</title>
+      <link>http://example.org/posts/haunted-gagosian/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/haunted-gagosian/</guid>
+      <description>This is a typically epically show-offy group exhibition, in which various contemporary and 20th century A-listers face each other down in large galleries police by black-clad security men. A confluence of art celebrity, crammed together: here, a wall full of Richard Prince photos loomed over a Rachel Whiteread bed; there, a Jenny Saville bum rubbed against what looked to be a string shopping bag with a chunk of polystyrene inside (in fact it was a bronze and marble sculpture from Tatiana Trouvé).</description>
+    </item>
+    
+  </channel>
+</rss>

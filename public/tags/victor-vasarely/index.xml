@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor Vasarely on Artangled</title>
+    <link>http://example.org/tags/victor-vasarely/</link>
+    <description>Recent content in Victor Vasarely on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/victor-vasarely/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bona to Vada Your Dolly Bold Eek: Assume Vivid Astro Focus | LAMB</title>
+      <link>http://example.org/posts/avaf-lamb/</link>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/avaf-lamb/</guid>
+      <description>As an aficionado of Round the Horne, I was tempted into this show by its title. It’s in polari, a secret language used by gay men in the years after the Second World War, and translates into something like “nice to see you”! Polari was actually on the way out by the time (closeted) comedians Kenneth Williams and Hugh Paddick (aka Julian and Sandy) spoke the language on BBC radio, in the mid-1960s.</description>
+    </item>
+    
+    <item>
+      <title>Pécs Workshop | Mayor Gallery</title>
+      <link>http://example.org/posts/pecs-mayor/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/pecs-mayor/</guid>
+      <description>This exhibition is truly lovely. To a restive, anxious London in summer comes a sweet breeze from the east, redolent of other long-distant distant summers. 50 years ago, behind the Iron Curtain, across an ideological divide, and out in the countryside, the Pécs Workshop met.
+They were an avant-garde group of five artists in communist Hungary, who met each summer between 1969 and 1971 in Pécs, close to the Croatian… well, Yugoslavian, border.</description>
+    </item>
+    
+  </channel>
+</rss>

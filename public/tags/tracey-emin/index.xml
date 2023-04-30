@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tracey Emin on Artangled</title>
+    <link>http://example.org/tags/tracey-emin/</link>
+    <description>Recent content in Tracey Emin on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/tracey-emin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tracey Emin / Edvard Munch: The Loneliness of the Soul | Royal Academy</title>
+      <link>http://example.org/posts/emin-royal-academy/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/emin-royal-academy/</guid>
+      <description>There’s a bench in Berkeley Square in Mayfair with a funny plaque: On this bench in 2007, it states, the notorious artist Tracey Emin surrendered all her art rebel credibility when she decided to become a member of the Royal Academy of Arts. Times have changed: she’s not just a member these days. Instead, this self-described “notorious rebel” has aged into full blown grande dame status, and is getting a new RA exhibition, a few streets away from the square.</description>
+    </item>
+    
+  </channel>
+</rss>

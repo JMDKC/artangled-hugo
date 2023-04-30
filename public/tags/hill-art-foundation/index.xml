@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hill Art Foundation on Artangled</title>
+    <link>http://example.org/tags/hill-art-foundation/</link>
+    <description>Recent content in Hill Art Foundation on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/hill-art-foundation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spencer Finch: Lux and Lumen</title>
+      <link>http://example.org/posts/finch-hill/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/finch-hill/</guid>
+      <description>“Ye cannot serve God and mammon,” claims the gospel of Matthew. But the Hill Art Foundation gives it a good go. This small gallery is owned by hedge fund billionaire J. Tomlinson Hill, and is currently hosting a beautiful bringing-together of a Renaissance stained glass window and various stained glass installations from contemporary artist Spencer Finch.
+The Creation and the Expulsion from Paradise was completed by Valentin Bousch in 1533, and has most recently been a prize possession of rich American collectors: it used to be installed above William Randolph Hearst’s fireplace, according to the show notes.</description>
+    </item>
+    
+  </channel>
+</rss>

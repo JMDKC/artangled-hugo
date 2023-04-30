@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kew Gardens on Artangled</title>
+    <link>http://example.org/tags/kew-gardens/</link>
+    <description>Recent content in Kew Gardens on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/kew-gardens/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chihuly - Reflections on nature | Kew Gardens</title>
+      <link>http://example.org/posts/chihuly-kew/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/chihuly-kew/</guid>
+      <description>There’s nothing wrong with being a people pleaser. And Dale Chihuly’s one of them. Final proof, if proof were needed, of this view is provided by In the Light of Jerusalem, a film playing in the confines of the Shirley Sherwood gallery: the small indoor section of a big outdoor show devoted to Chihuly that spreads over a good portion of Kew’s 300 acres.
+The film shows the artist, famous for his fantastical glassworks, in the throes of building one of his most famous outdoor sculptures: a wall of big ice blocks, stacked in front of the Citadel Tower, and under the hot Jerusalem sun, marking the turn of the millennium in 2000.</description>
+    </item>
+    
+  </channel>
+</rss>

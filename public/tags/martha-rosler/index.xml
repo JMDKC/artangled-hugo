@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martha Rosler on Artangled</title>
+    <link>http://example.org/tags/martha-rosler/</link>
+    <description>Recent content in Martha Rosler on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/martha-rosler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Martha Rosler | Tate Modern</title>
+      <link>http://example.org/posts/rosler-tate/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/rosler-tate/</guid>
+      <description>Quite suitably, this mini-exhibition of works is in a place of transit: a busy connecting room within the maze of permanent collection displays at Tate Modern. Crowds of wandering friend groups, mostly tourists, march past, without much of a glance at the display. One of the few who stopped to look while I was there, a pair of young English men, were loudly derisive.
+I get the derision: at first glance, the collection&amp;rsquo;s impressively banal.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lea Cetera on Artangled</title>
+    <link>http://example.org/tags/lea-cetera/</link>
+    <description>Recent content in Lea Cetera on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/lea-cetera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lea Cetera: Chassis | Phyilida Reid</title>
+      <link>http://example.org/posts/cetera-reid/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cetera-reid/</guid>
+      <description>The titular work in this exhibition is fascinatingly described in the show notes. It’s a “motor-powered gyroscopic structure based on a rotocasting machine”, in which a small transparent figurine is pinned between steel frames, and periodically spun around.
+It’s a hypnotic work, most powerful when the growly motor stops. Contained in this (female) plastic body are red and blue liquids, that combine to form a purple goo, that mostly settles wherever the figurine is angled during the rest periods, but leaves the odd spatter in the areas above the watermark.</description>
+    </item>
+    
+  </channel>
+</rss>

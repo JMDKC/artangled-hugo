@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cortesi on Artangled</title>
+    <link>http://example.org/tags/cortesi/</link>
+    <description>Recent content in Cortesi on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cortesi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jan Henderikse - MINT | Cortesi</title>
+      <link>http://example.org/posts/henderikse-cortesi/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/henderikse-cortesi/</guid>
+      <description>One man&amp;rsquo;s trash is another&amp;rsquo;s treasure. That&amp;rsquo;s a message taken on board by so many artists over the past century, with everyone from Duchamp to Jannis Kounellis to Michael Landy using everyday detritus in new ways. Jan Henderikse, currently showing at Cortesi, takes things to new, daffy heights.
+Most of the works are framed, wall mounted, and neatly unified by theme. There are collections of coins, number plates, toilet soap, corks and plastic caps.</description>
+    </item>
+    
+  </channel>
+</rss>

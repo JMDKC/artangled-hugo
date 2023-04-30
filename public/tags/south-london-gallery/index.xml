@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>South London Gallery on Artangled</title>
+    <link>http://example.org/tags/south-london-gallery/</link>
+    <description>Recent content in South London Gallery on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/south-london-gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sophie Cundale: The Near Room | South London Gallery</title>
+      <link>http://example.org/posts/cundale-south/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cundale-south/</guid>
+      <description>Sophie Cundale’s third major film is both visually striking and deeply ropey. South London Gallery, where this is showing again after a COVID-induced cutoff during the spring, kindly terms it a “melodrama”. It’s a story of a boxer, knocked out in one of his fights, hallucinating his way into the medieval court of a mad queen, her wicked advisor and a couple of wacky nuns. The story of disease and betrayal that unfolds over half an hour or so is bloody and silly - or, to put it another way, bloody silly.</description>
+    </item>
+    
+  </channel>
+</rss>

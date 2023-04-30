@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Nash on Artangled</title>
+    <link>http://example.org/tags/paul-nash/</link>
+    <description>Recent content in Paul Nash on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/paul-nash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grayson Perry: Posh Cloths | Victoria Miro</title>
+      <link>http://example.org/posts/perry-miro/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/perry-miro/</guid>
+      <description>Grayson Perry’s been making a multi-media attack on the idea of Englishness over recent years. In 2019, Perry had an exhibition of pots on this theme at Victoria Miro’s Mayfair space in 2019. Most recently, there&amp;rsquo;s this exhibition of textile works, and a TV show called Grayson Perry’s Full English. In both, Perry pokes at, and sometimes celebrates, English people&amp;rsquo;s sense of themselves.
+I said the exhibition had &amp;ldquo;textile works&amp;rdquo;, but these particular posh cloths are actually tapestries.</description>
+    </item>
+    
+  </channel>
+</rss>

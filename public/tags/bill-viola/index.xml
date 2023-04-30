@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bill Viola on Artangled</title>
+    <link>http://example.org/tags/bill-viola/</link>
+    <description>Recent content in Bill Viola on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/bill-viola/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 5 of 2019</title>
+      <link>http://example.org/posts/top-5-2019/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/top-5-2019/</guid>
+      <description>Across 2019, I saw 221 art exhibitions and collections, not counting repeats, and posted reviews of 48 of them on this website. That’s slightly down on the 256 I saw in 2018. But, on the plus side, I did a lot of travelling within the UK this year and managed to make the site a bit less London-centric,	posting reviews across 10 cities, up from nine last year.
+As will hopefully become an annual tradition here at Artangled, I’m going to round up my five favourite shows of the year, and name and shame a couple of public gallery exhibitions I didn’t like so much.</description>
+    </item>
+    
+  </channel>
+</rss>

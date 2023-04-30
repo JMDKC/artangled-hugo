@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lee Bul on Artangled</title>
+    <link>http://example.org/tags/lee-bul/</link>
+    <description>Recent content in Lee Bul on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/lee-bul/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lee Bul - Crashing | Hayward Gallery</title>
+      <link>http://example.org/posts/bul-hayward/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bul-hayward/</guid>
+      <description>What a weird show this is! Following their stellar Gursky retrospective earlier in the year, and some bad juju prior to opening when one of the works caught fire, what remains is a majorly varied grab-bag of paintings, installations, costume, architectural maquettes, a light show and a big-ass zeppelin. It&amp;rsquo;s less of a sensory assault than a really expensive jumble sale.
+The show definitely highlights that Lee Bul is epically productive.</description>
+    </item>
+    
+  </channel>
+</rss>

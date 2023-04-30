@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carla Accardi on Artangled</title>
+    <link>http://example.org/tags/carla-accardi/</link>
+    <description>Recent content in Carla Accardi on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/carla-accardi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interlude - Carla Accardi at Castello di Rivoli</title>
+      <link>http://example.org/posts/accardi-rivoli/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/accardi-rivoli/</guid>
+      <description>With many of London’s galleries finally, finally reopening next week, it’s time to draw these weekly interludes to a close. I’m very excited to get back to it, those Saturday afternoon gallery trawls.
+Hopefully the experience of visiting won’t be too different to how it was before. I’ll be getting there by bike, wearing a mask, and thinking twice before picking up the (paper) press release from the front desk. I doubt having a limit on the number of people inside is going to be an issue.</description>
+    </item>
+    
+  </channel>
+</rss>

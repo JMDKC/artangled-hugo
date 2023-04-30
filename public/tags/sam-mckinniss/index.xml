@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam McKinniss on Artangled</title>
+    <link>http://example.org/tags/sam-mckinniss/</link>
+    <description>Recent content in Sam McKinniss on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/sam-mckinniss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sam McKinniss: Country Western | Almine Rech</title>
+      <link>http://example.org/posts/mckinniss-rech/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mckinniss-rech/</guid>
+      <description>It’s hard to think of a more universally loved celebrity than Dolly Parton. Not an original observation - there was a whole podcast about it a year or so back. Adulation for the country superstar has hit new heights, as if it were possible, over recent months when it emerged she’d helped fund the Moderna vaccine.
+The job of the artist is to mess with the narrative. So when the very talented and original painter Sam McKinniss picked up on this latest wave of adulation, he felt… fear.</description>
+    </item>
+    
+  </channel>
+</rss>

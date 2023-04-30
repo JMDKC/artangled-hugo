@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor Willing on Artangled</title>
+    <link>http://example.org/tags/victor-willing/</link>
+    <description>Recent content in Victor Willing on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/victor-willing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Victor Willing | Timothy Taylor</title>
+      <link>http://example.org/posts/willing-taylor/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/willing-taylor/</guid>
+      <description>Knight Errant (1978), pictured below and currently on show at Timothy Taylor, is a very intense painting, painted at an intensely trying time for its artist. Victor Willing had moved back to London from Portugal with his wife, Paula Rego; by all accounts, theirs was a deeply dysfunctional relationship. He’d been diagnosed with MS, a condition that would take his life a decade later. He&amp;rsquo;d been painting in a rented studio in Stepney that had no windows.</description>
+    </item>
+    
+  </channel>
+</rss>

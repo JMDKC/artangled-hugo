@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soufiane Ababri on Artangled</title>
+    <link>http://example.org/tags/soufiane-ababri/</link>
+    <description>Recent content in Soufiane Ababri on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/soufiane-ababri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 5 of 2018</title>
+      <link>http://example.org/posts/top-5-2018/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/top-5-2018/</guid>
+      <description>It’s been a pretty big first year of art watching for this little side project.
+In all, I saw 256 shows and collections in 2018 - not counting repeated visits to some old favourite permanent collections in London. Over that time, I featured a fifth of that total on the site, posting each week.
+While I give my eyes a rest over the festive period, here&amp;rsquo;s a round-up post, listing my top five of the year.</description>
+    </item>
+    
+    <item>
+      <title>Soufiane Ababri - Haunted Lives | Praz-Delavallade</title>
+      <link>http://example.org/posts/ababri-praz/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/ababri-praz/</guid>
+      <description>This spring, the big show in Paris is a vast Delacroix retrospective at the Louvre, a fittingly lush and lavish tribute to the great Romantic painter. Of course the exhibition includes Delacroix&amp;rsquo;s sexy genre paintings from his stay in North Africa - those shadowy oil paintings of exotic, inscrutable, yet clearly sexually available women. But there&amp;rsquo;s a funny (and much sexier) riposte to all that across town, in a debut exhibition from Tangiers-born Sofiane Ababri.</description>
+    </item>
+    
+  </channel>
+</rss>

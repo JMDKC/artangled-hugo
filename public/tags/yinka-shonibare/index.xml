@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yinka Shonibare on Artangled</title>
+    <link>http://example.org/tags/yinka-shonibare/</link>
+    <description>Recent content in Yinka Shonibare on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/yinka-shonibare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yinka Shonibare: Justice for All | Stephen Friedman Gallery</title>
+      <link>http://example.org/posts/shonibare-friedman/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/shonibare-friedman/</guid>
+      <description>Lady justice, sword in one hand, scales in the other, gestures at us on Old Burlington Street, behind the glass windows of the gallery. It’s a show designed to be looked at from outside: unreachable, but unmissable.
+It’s Stephen Friedman Gallery and Yinka Shonibare’s response to the Black Lives Matter movement that’s roiled the global discourse this summer. The outdoor viewing is induced by the year’s other big global event.</description>
+    </item>
+    
+  </channel>
+</rss>

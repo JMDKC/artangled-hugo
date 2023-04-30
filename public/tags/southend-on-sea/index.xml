@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Southend-on-Sea on Artangled</title>
+    <link>http://example.org/tags/southend-on-sea/</link>
+    <description>Recent content in Southend-on-Sea on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/southend-on-sea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brothers in Art: Walter &amp; Harold Steggles and the East London Group | Beecroft Art Gallery</title>
+      <link>http://example.org/posts/steggles-beecroft/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/steggles-beecroft/</guid>
+      <description>I’ve been really interested in The East London Group’s paintings for a while - ever since I moved to Bow, slap bang in the middle of the neighbourhood depicted by these painters. This large exhibition puts over 100 paintings on show: that&amp;rsquo;s a hefty proportion of the total known surviving works from the Group. With the big majority of these in private collections, this exhibition represents a rare opportunity for an interested viewer.</description>
+    </item>
+    
+  </channel>
+</rss>

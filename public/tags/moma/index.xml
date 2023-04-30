@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MoMA on Artangled</title>
+    <link>http://example.org/tags/moma/</link>
+    <description>Recent content in MoMA on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/moma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interlude - Wade Guyton at MoMA</title>
+      <link>http://example.org/posts/guyton-moma/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/guyton-moma/</guid>
+      <description>How unsatisfying to look at art on a computer screen, rather than in a gallery. Unsurprisingly, considering I go to 200+ shows per year, I’ve fallen in love with the whole ritual of gallery going: ringing the bell, taking the printed-out press release, writing in the artist’s book on leaving. And now, how quaint that seems in virus-induced lockdown: bell, paper and pen have all become potential vectors of disease, in my mind&amp;rsquo;s eye.</description>
+    </item>
+    
+  </channel>
+</rss>

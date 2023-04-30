@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucian Freud on Artangled</title>
+    <link>http://example.org/tags/lucian-freud/</link>
+    <description>Recent content in Lucian Freud on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/lucian-freud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lucian Freud: New Perspectives | National Gallery</title>
+      <link>http://example.org/posts/freud-national/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/freud-national/</guid>
+      <description>Kindness isn’t a word that’s really associated with Lucian Freud, whose centenary retrospective is just coming to an end at the National Gallery. As befits such a big artistic beast - Freud has only become more mega-famous since his death in 2011 - the show is epic in scale. It’s loaded with the rather cruel portraits of his lovers and children he’s famous for: the early subjects bug-eyed and on the verge of tears, the later ones nude, uncomfortably contorted and rendered in thick oil paint.</description>
+    </item>
+    
+    <item>
+      <title>Eric Fischl: The Krefeld Project | Skarstedt</title>
+      <link>http://example.org/posts/fischl-skarstedt/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/fischl-skarstedt/</guid>
+      <description>Sorry Lucian Freud, but when I think of a painter who captures the vulnerability and variety of the skin we live in, it’s Eric Fischl. The American artist, still active and showing at Skarstedt this autumn, works with loose, sparse but unerringly suggestive brushstrokes. He’s an unsentimental, relentless chronicler of skin, our skin, as it stretches, puffs and sags.
+This show zooms in on a particular series Fischl undertook in 2002.</description>
+    </item>
+    
+    <item>
+      <title>Leon Kossoff | Annely Juda Fine Art</title>
+      <link>http://example.org/posts/kossoff-annely-juda/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/kossoff-annely-juda/</guid>
+      <description>Along with bigger names like Lucian Freud and Francis Bacon, Leon Kossoff was part of the School of London, painters who passed a pitiless eye on the down-at-heel postwar capital city, pre Olympics, pre Millennium Dome, pre Big Bang boom. A fine retrospective selection of Kossoff’s work - the artist died in 2019 - is on show right now at Annely Juda Fine Art.
+Kossoff&amp;rsquo;s subject matter is firmly rooted in the city he rarely left.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Bewick on Artangled</title>
+    <link>http://example.org/tags/thomas-bewick/</link>
+    <description>Recent content in Thomas Bewick on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/thomas-bewick/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 5 of 2021</title>
+      <link>http://example.org/posts/top-5-2021/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/top-5-2021/</guid>
+      <description>I’ve surprised myself with sticking to the Artangled project for another year. Ever since lockdown eased in April, and many London galleries reopened, I’ve posted weekly. Just as I have each week since the beginning of 2018. This site, and its thousands of words, remain a personal project: I doubt I could ‘grow the brand’ even if I tried! But I should admit, it’s remained a personal pleasure to sit down each week and put together a post, and I’ll continue doing it as long as the pleasure remains.</description>
+    </item>
+    
+    <item>
+      <title>Children Riding Gravestones: George Shaw &amp; Thomas Bewick | Laure Genillard</title>
+      <link>http://example.org/posts/bewick-shaw-genillard/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bewick-shaw-genillard/</guid>
+      <description>I love a show that brings together two apparently totally different artists, and finds unexpected and inspiring connections! In fact, that kind of thing is what this blog is all about, as I tried to explain in my first post way back when. And I’ve showcased a couple such exhibitions since.
+So, on one hand, George Shaw, famous for painting scenes from the not-so-nice Coventry suburb he grew up in, using the kind of enamel paints more commonly used for model aeroplanes.</description>
+    </item>
+    
+  </channel>
+</rss>

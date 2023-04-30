@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Navid Nuur on Artangled</title>
+    <link>http://example.org/tags/navid-nuur/</link>
+    <description>Recent content in Navid Nuur on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/navid-nuur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nine Iranian Artists in London - THE SPARK IS YOU | Parasol Unit</title>
+      <link>http://example.org/posts/iranian-parasol/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/iranian-parasol/</guid>
+      <description>In the dog days of summer, there’s not so much to see in London’s art scene. But for those of us who prefer chilly air conditioned white cubes to lying in the sun, there are some real treats to be had. Among them is in an upstairs gallery in one of the chilliest cubes of all, the formidably air conditioned Parasol Unit in Islington.
+This show is featuring a group of Iranian artists.</description>
+    </item>
+    
+  </channel>
+</rss>

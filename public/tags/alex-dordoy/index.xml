@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Dordoy on Artangled</title>
+    <link>http://example.org/tags/alex-dordoy/</link>
+    <description>Recent content in Alex Dordoy on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/alex-dordoy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alex Dordoy: Answering Machine | GRIMM</title>
+      <link>http://example.org/posts/dordoy-grimm/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/dordoy-grimm/</guid>
+      <description>The ambiance cast by the works in this exhibition somehow matched the weather on the day I went: cold, clear and uncannily still. Alex Dordoy uses shallow collages of acrylic paint on canvas to render apparently comforting and familiar scenes. The interior of a church (Answering Machine); a seascape (A Few Careless Words); a couple camping in a forest (Kindling the March Wind).
+Look closer, though, and things get uncomfortable. The church’s statues are cut off at the ankles; a big wave in the middle of the sea is breaking on… apparently nothing.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oxford on Artangled</title>
+    <link>http://example.org/tags/oxford/</link>
+    <description>Recent content in Oxford on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/oxford/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ruth Asawa: Citizen of the Universe | Modern Art Oxford</title>
+      <link>http://example.org/posts/asawa-mao/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/asawa-mao/</guid>
+      <description>I first saw work from the American artist and educator Ruth Asawa in a show at David Zwirner, just before COVID hit. I was pretty captivated by her weightless sculptures made of wire, hanging from the ceiling like shoals of jellyfish. Back in the UK a couple of years later, she’s taken over an even larger space, the upper floors of Modern Art Oxford, in an exhibition that showcases a broader variety of her work, and the ideals that informed it.</description>
+    </item>
+    
+    <item>
+      <title>Tokyo: Art &amp; Photography | Ashmolean</title>
+      <link>http://example.org/posts/tokyo-ashmolean/</link>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/tokyo-ashmolean/</guid>
+      <description>This is a baggy, overly stretched show with some outstanding artworks. It’s aimed at representing the “creative, dynamic and thrilling” Japanese capital, across hundreds of years of history. A tough brief, but I longed for a bit of focus: one single cabinet contained a samurai sword, a tea set, a pair of Noh masks and a lacquered screen. That cavalcade of national symbols ended up making the show look a bit provincial, ironically enough.</description>
+    </item>
+    
+    <item>
+      <title>America&#39;s Cool Modernism - O&#39;Keeffe to Hopper | Ashmolean</title>
+      <link>http://example.org/posts/ault-ashmolean/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/ault-ashmolean/</guid>
+      <description>I just love Edward Hopper - and I&amp;rsquo;m not sorry about that, sometimes popular things are also really good. More generally, I love the various early 20th century movements of artists reacting to machinery, industry and the burgeoning suburbs (see earlier posts on Sironi and Kupka.) The &amp;lsquo;America after the Fall&amp;rsquo; exhibition at the Royal Academy was hands down my favourite show of last year. So I was gagging to see this exhibition from the moment I first read about it.</description>
+    </item>
+    
+  </channel>
+</rss>

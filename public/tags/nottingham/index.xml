@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nottingham on Artangled</title>
+    <link>http://example.org/tags/nottingham/</link>
+    <description>Recent content in Nottingham on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/nottingham/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Denzil Forrester - Itchin &amp; Scratchin | Nottingham Contemporary</title>
+      <link>http://example.org/posts/forrester-nottingham/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/forrester-nottingham/</guid>
+      <description>When I first saw Denzil Forrester’s paintings, at an exhibition at Stephen Friedman last May, I did what I usually do when I see an artist’s work for the first time: try to think of what - or who - it reminds me of. The connection I made in my head with Forrester was with the Italian photographer Massimo Vitali. Maybe not the most obvious kinship, but both artists have a love of the crowd - party scenes packed with people looking their best.</description>
+    </item>
+    
+  </channel>
+</rss>

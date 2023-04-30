@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sultana on Artangled</title>
+    <link>http://example.org/tags/sultana/</link>
+    <description>Recent content in Sultana on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/sultana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cottagecore | Sultana</title>
+      <link>http://example.org/posts/cottagecore-sultana/</link>
+      <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cottagecore-sultana/</guid>
+      <description>Cottagecore wasn’t a familiar term for me. I enlarged my vocabulary thanks to a group show named after the aesthetic, on at Sultana in Paris when I visited this week.
+The word&amp;rsquo;s unfamiliar but it describes a familiar aesthetic. One of city-dwelling young people, shut out of employment gainful enough to buy a cottage of their own, fetishising a pastoral, artisanal lifestyle. It’s characterised by floral motifs, embroidery, pastel colours and everything “cosy”.</description>
+    </item>
+    
+  </channel>
+</rss>

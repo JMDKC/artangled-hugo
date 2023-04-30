@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M&amp;L Fine Arts on Artangled</title>
+    <link>http://example.org/tags/ml-fine-arts/</link>
+    <description>Recent content in M&amp;L Fine Arts on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/ml-fine-arts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Luigi Ghirri - Cartes et Territoires | Jeu de Paume</title>
+      <link>http://example.org/posts/ghirri-paume/</link>
+      <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/ghirri-paume/</guid>
+      <description>This intoxicating exhibition gives us a panoramic view of a photographer who specialised in narrow, close-cropped scenes.
+Luigi Ghirri’s photographs showcase his background as a surveyor, his daily dealings with charts and maps. The exhibition concentrates on his work during the 70s, a time of comparative peace and stability in Italy, his native land, following lean postwar years. Gardens and houses are neat, the roads are smooth, the skies are (usually) blue.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Washington DC on Artangled</title>
+    <link>http://example.org/tags/washington-dc/</link>
+    <description>Recent content in Washington DC on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/washington-dc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interlude - Sophie Taeuber-Arp at NWMA</title>
+      <link>http://example.org/posts/taeuber-nwma/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/taeuber-nwma/</guid>
+      <description>Sophie Taeuber was a brilliantly distinctive dancer, interior designer, sculptor, costume maker and painter. She blazed a singular trail from the post-World War One stirrings of Dada in her native Switzerland, to her particularly horrible death, choking on fumes from a carbon monoxide-emitting stove, in 1943.
+Along the way, she married Hans Arp, who’s a bit more famous these days, and moved to Paris. Some of her work’s usually on show at the National Museum of Women in the Arts (NWMA), in Washington DC, including this very fine late work from the Paris years.</description>
+    </item>
+    
+  </channel>
+</rss>

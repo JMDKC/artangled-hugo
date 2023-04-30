@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jasper Johns on Artangled</title>
+    <link>http://example.org/tags/jasper-johns/</link>
+    <description>Recent content in Jasper Johns on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/jasper-johns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harland Miller: Imminent End, Rescheduled Eternally | White Cube</title>
+      <link>http://example.org/posts/miller-white-cube/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/miller-white-cube/</guid>
+      <description>Harland Miller is a novelist as well as a painter, and his best-known works bring the two media together. I’ve seen (and loved) his large painted versions of imaginary Penguin book covers: the artist faithfully matched the typeface and colours of the classic series in his paintings, but added mordant titles of his own, with his own name always in the author&amp;rsquo;s slot.
+He’s now taken over the large, coldly-lit White Cube space in Bermondsey, with 45 paintings and works on paper, all produced this year.</description>
+    </item>
+    
+  </channel>
+</rss>

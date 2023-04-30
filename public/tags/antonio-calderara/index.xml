@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonio Calderara on Artangled</title>
+    <link>http://example.org/tags/antonio-calderara/</link>
+    <description>Recent content in Antonio Calderara on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/antonio-calderara/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antonio Calderara: From Lake Orta | Lisson Gallery</title>
+      <link>http://example.org/posts/calderara-lisson/</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/calderara-lisson/</guid>
+      <description>Antonio Calderara, also known as Antonio da Vaciago, lived quietly next to Lake Orta in northern Italy. Born in 1903, he was active from the 1920s, right up to his death in 1978. According to this collection of works, at Lisson Gallery, he specialised in small, jewel-like figurative works on wooden panels early on, eventually moving to almost-abstraction by the end. All his work is linked by a sense of quietude and withholding: quite appropriate for an artist who’s dropped into semi-obscurity.</description>
+    </item>
+    
+  </channel>
+</rss>

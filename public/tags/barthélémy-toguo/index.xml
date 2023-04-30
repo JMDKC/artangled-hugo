@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barthélémy Toguo on Artangled</title>
+    <link>http://example.org/tags/barth%C3%A9l%C3%A9my-toguo/</link>
+    <description>Recent content in Barthélémy Toguo on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/barth%C3%A9l%C3%A9my-toguo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Barthélémy Toguo - Human Nature | HdM Gallery</title>
+      <link>http://example.org/posts/toguo-hdm/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/toguo-hdm/</guid>
+      <description>Barthélémy Toguo trained in Paris but works in Cameroon - and has a foundation there. He works and shows a lot in China too, hence why this gallery, which specialises in Chinese art, has put on this exhibition.
+It’s quite a sight, with works on paper on the walls, and large porcelain pots strewing the floor. These imposing works - as a series they’re called Fragile Bodies - were made in China and decorated by local artists.</description>
+    </item>
+    
+  </channel>
+</rss>

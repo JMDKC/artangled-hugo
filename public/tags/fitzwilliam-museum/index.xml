@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fitzwilliam Museum on Artangled</title>
+    <link>http://example.org/tags/fitzwilliam-museum/</link>
+    <description>Recent content in Fitzwilliam Museum on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/fitzwilliam-museum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Feast &amp; Fast - The Art of Food in Europe, 1500-1800 | Fitzwilliam Museum</title>
+      <link>http://example.org/posts/food-fitzwilliam/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/food-fitzwilliam/</guid>
+      <description>This exhibition does not over exert itself in explaining what its various food-themed paintings, sculptures, cartoons and installations may mean. Instead, the curators sensibly concentrate on spectacle, leaving the symbolic meanings of the food on display lightly touched-on or implicit. Happily, this means the show is perfectly pitched to those viewers who feel a bit over-bloated from the festive blowout.
+Here’s an example of what I mean: Joris van Son’s Still-life with a lobster, which is in the museum’s permanent collection, and is the centrepiece of the exhibition.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tatiana Trouvé on Artangled</title>
+    <link>http://example.org/tags/tatiana-trouv%C3%A9/</link>
+    <description>Recent content in Tatiana Trouvé on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/tatiana-trouv%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Haunted Realism | Gagosian</title>
+      <link>http://example.org/posts/haunted-gagosian/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/haunted-gagosian/</guid>
+      <description>This is a typically epically show-offy group exhibition, in which various contemporary and 20th century A-listers face each other down in large galleries police by black-clad security men. A confluence of art celebrity, crammed together: here, a wall full of Richard Prince photos loomed over a Rachel Whiteread bed; there, a Jenny Saville bum rubbed against what looked to be a string shopping bag with a chunk of polystyrene inside (in fact it was a bronze and marble sculpture from Tatiana Trouvé).</description>
+    </item>
+    
+    <item>
+      <title>Gavin Turk - White Van Man | Paul Stolper</title>
+      <link>http://example.org/posts/turk-stolper/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/turk-stolper/</guid>
+      <description>I saw this exhibition, subtitled &amp;lsquo;A Brexit portfolio and other Transit Disasters&amp;rsquo; at a time when the thoroughly depressing Brexit negotiations were reaching something of a climax.
+The central motif of the various silkscreen prints is a burnt out Ford Transit. Any British observer would recognise the cultural signifier of a white van - home to &amp;ldquo;White Van Man&amp;rdquo;, a highly Brexity demographic.
+The prints themselves owe an obvious debt to Warhol&amp;rsquo;s gloomy 60s prints of car crashes.</description>
+    </item>
+    
+  </channel>
+</rss>

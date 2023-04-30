@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Jones on Artangled</title>
+    <link>http://example.org/tags/thomas-jones/</link>
+    <description>Recent content in Thomas Jones on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/thomas-jones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interlude - Thomas Jones at the National Gallery</title>
+      <link>http://example.org/posts/jones-national/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/jones-national/</guid>
+      <description>This fascinating and tiny painting, 16cm across and 10cm high, was usually one of my stops when I dropped in to the National Gallery. I must have visited the gallery hundreds of times over the years, and therefore must have seen this painting dozens of times, back when I had the option of doing so.
+The title is admirably descriptive: Jones paints, in oils on paper, a worn out wall, lit by strong sunshine.</description>
+    </item>
+    
+  </channel>
+</rss>

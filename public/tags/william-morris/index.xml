@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William Morris on Artangled</title>
+    <link>http://example.org/tags/william-morris/</link>
+    <description>Recent content in William Morris on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/william-morris/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Edward Burne-Jones | Tate Britain</title>
+      <link>http://example.org/posts/burne-jones-tate/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/burne-jones-tate/</guid>
+      <description>I went into this large exhibition ready to write off Edward Burne-Jones as total kitsch. But he resists being dismissed. The show is full of annoying reminders of the artist&amp;rsquo;s great popularity - from the start - and the fact that he was an epic do-gooder. Rising to world fame from humble origins, unlike some of his fellow pre-Raphaelites, Burne-Jones went into business with Socialist paragon of virtue William Morris to produce mass-market wall-hangings, to go along with his paintings for rich patrons and collectors; he saw no distinction between fine and decorative art.</description>
+    </item>
+    
+  </channel>
+</rss>

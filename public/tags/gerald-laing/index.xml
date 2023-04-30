@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gerald Laing on Artangled</title>
+    <link>http://example.org/tags/gerald-laing/</link>
+    <description>Recent content in Gerald Laing on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/gerald-laing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swinging London | Hazlitt Holland-Hibbert</title>
+      <link>http://example.org/posts/swinging-hazlitt/</link>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/swinging-hazlitt/</guid>
+      <description>Three linked exhibitions this week, each carrying with them a whiff of patchouli oil and pot. It’s not quite (yet) a Summer of Love in London, but these shows all reach back to the 1960s, a time of Pop and Op&amp;hellip; and some very big floppy collars.
+One of the biggest and floppiest is sported by legendary fashion designer Ossie Clark, sketched at home by the still more legendary (and decade-defining) David Hockney.</description>
+    </item>
+    
+    <item>
+      <title>Source and Stimulus | Lévy Gorvy</title>
+      <link>http://example.org/posts/laing-levy-gorvy/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/laing-levy-gorvy/</guid>
+      <description>This pocket blockbuster of an exhibition is devoted to the &amp;lsquo;Ben-day dot&amp;rsquo;: those little dots on printed paper that make up images, if you look closely enough. Visible printed dots making up images on low-grade paper are, of course, a relic of the 20th century.
+The advent of Pop Art in the 1960s was all about artists getting into commercial culture, and its mass-produced physical relics. This meant, for Sigmar Polke, Roy Lichtenstein and Gerald Laing, painstakingly painting reproductions of Ben-day dots to render iconic reproductions of pictures they saw in magazines, ads and pulp fiction books.</description>
+    </item>
+    
+  </channel>
+</rss>

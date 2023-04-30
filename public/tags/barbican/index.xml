@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barbican on Artangled</title>
+    <link>http://example.org/tags/barbican/</link>
+    <description>Recent content in Barbican on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/barbican/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alice Neel: Hot Off The Griddle | Barbican</title>
+      <link>http://example.org/posts/neel-barbican/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/neel-barbican/</guid>
+      <description>Alice Neel blazed her own trail for decades, painting from her home studio in New York City from the 1930s right up to her death in 1984. She lived unfashionably far uptown, ignoring the comings and goings of Precisionism, Abstract Expressionism, Pop and the rest. Even more unfashionably, she dedicated her artistic life to figuration, sticking doggedly to being an “anarchic humanist”, painting people who interested her.
+This impressive retrospective, featuring works from every stage of the long career, also proves that Neel’s artistic motifs got locked in early and never varied.</description>
+    </item>
+    
+    <item>
+      <title>Carolee Schneemann: Body Politics | Barbican</title>
+      <link>http://example.org/posts/schneemann-barbican/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/schneemann-barbican/</guid>
+      <description>I first heard about the Queen’s death just after seeing this exhibition, a full career retrospective of the US painter and performance artist Carolee Schneemann. On getting the notification on my phone, sat in a comfy chair on the ground floor of the Barbican Centre, I took off my headphones - maybe expecting that the large, crowded, concrete-clad room would fall into reverent monarchist silence, and that I should experience that momentous hush.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduardo Paolozzi on Artangled</title>
+    <link>http://example.org/tags/eduardo-paolozzi/</link>
+    <description>Recent content in Eduardo Paolozzi on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/eduardo-paolozzi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chantal Joffe: A Sunday Afternoon in Whitechapel | Whitechapel Station</title>
+      <link>http://example.org/posts/joffe-whitechapel/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/joffe-whitechapel/</guid>
+      <description>I’m a major train geek, but even I wasn’t ready for the opening of the Elizabeth Line, London’s biggest public transport event in decades, to be so joyous. The huge, cool, beautiful stations were filled with joyriders the first day it opened on Tuesday. By later in the week, the stations were still packed, but by now almost everybody seemed to be using the line for what it’s intended to be: a much quicker way of getting across town.</description>
+    </item>
+    
+  </channel>
+</rss>

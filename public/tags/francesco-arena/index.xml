@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francesco Arena on Artangled</title>
+    <link>http://example.org/tags/francesco-arena/</link>
+    <description>Recent content in Francesco Arena on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/francesco-arena/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Francesco Arena - Cubic Metre of Seawater as a Diagonal | Sprovieri</title>
+      <link>http://example.org/posts/arena-sprovieri/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/arena-sprovieri/</guid>
+      <description>Two shows from Italian artists caught my eye this week. First, this exhibition from Franceso Arena at one of the west end’s least accessible galleries, up a flight of stairs behind Regent Street. Arena makes vaguely arte povera-aligned works, using natural and found materials.
+The centrepiece of this show is rather grandiose: exactly as the title suggests, seawater is contained in a metal trough, 13 metres long, oriented diagonally across the largest gallery.</description>
+    </item>
+    
+  </channel>
+</rss>

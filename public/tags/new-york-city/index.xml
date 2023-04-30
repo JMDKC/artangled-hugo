@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New York City on Artangled</title>
+    <link>http://example.org/tags/new-york-city/</link>
+    <description>Recent content in New York City on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/new-york-city/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spencer Finch: Lux and Lumen</title>
+      <link>http://example.org/posts/finch-hill/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/finch-hill/</guid>
+      <description>“Ye cannot serve God and mammon,” claims the gospel of Matthew. But the Hill Art Foundation gives it a good go. This small gallery is owned by hedge fund billionaire J. Tomlinson Hill, and is currently hosting a beautiful bringing-together of a Renaissance stained glass window and various stained glass installations from contemporary artist Spencer Finch.
+The Creation and the Expulsion from Paradise was completed by Valentin Bousch in 1533, and has most recently been a prize possession of rich American collectors: it used to be installed above William Randolph Hearst’s fireplace, according to the show notes.</description>
+    </item>
+    
+    <item>
+      <title>Danielle Roberts: Evening All Day | Fredericks &amp; Freiser</title>
+      <link>http://example.org/posts/roberts-fredericks-freiser/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/roberts-fredericks-freiser/</guid>
+      <description>The portraitist Danielle Roberts, who has a show right now at the Fredericks &amp;amp; Freiser gallery, has a lot in common with Jenna Gribbon and Shannon Cartier Lucy, who I’ve featured on here before. All three painters are young women who paint young women: dramatically lit, listless, filled with ennui.
+Roberts’ scenes are generally suburban, and take place at night. One woman is perched with one leg up on the back of a car in a convenience store car park.</description>
+    </item>
+    
+    <item>
+      <title>Interlude - Wade Guyton at MoMA</title>
+      <link>http://example.org/posts/guyton-moma/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/guyton-moma/</guid>
+      <description>How unsatisfying to look at art on a computer screen, rather than in a gallery. Unsurprisingly, considering I go to 200+ shows per year, I’ve fallen in love with the whole ritual of gallery going: ringing the bell, taking the printed-out press release, writing in the artist’s book on leaving. And now, how quaint that seems in virus-induced lockdown: bell, paper and pen have all become potential vectors of disease, in my mind&amp;rsquo;s eye.</description>
+    </item>
+    
+  </channel>
+</rss>

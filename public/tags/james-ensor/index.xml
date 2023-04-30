@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James Ensor on Artangled</title>
+    <link>http://example.org/tags/james-ensor/</link>
+    <description>Recent content in James Ensor on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/james-ensor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Léon Spilliaert | Royal Academy</title>
+      <link>http://example.org/posts/spilliaert-royal-academy/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/spilliaert-royal-academy/</guid>
+      <description>What a shame this show, like all the others in London, is now closed. If there ever was an artist who exemplified social distancing, it’s Léon Spilliaert. And, having not spoken in person to anybody for coming up to two weeks now, I can’t tell anyone about how much I loved his paintings. I already regret just taking a quick spin around the three rooms in the upper galleries of the Royal Academy when I visited the exhibition, blithely assuming that I’d be back soon enough for a proper look.</description>
+    </item>
+    
+  </channel>
+</rss>

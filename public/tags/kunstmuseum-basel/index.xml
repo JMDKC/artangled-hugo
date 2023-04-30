@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kunstmuseum Basel on Artangled</title>
+    <link>http://example.org/tags/kunstmuseum-basel/</link>
+    <description>Recent content in Kunstmuseum Basel on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/kunstmuseum-basel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interlude - Gerhard Richter at Kunstmuseum Basel</title>
+      <link>http://example.org/posts/richter-kunstmuseum/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/richter-kunstmuseum/</guid>
+      <description>Gerhard Richter made a series of oil paintings based on photographs in the 1960s. They&amp;rsquo;re among his most famous works, which is quite an achievement, considering his is a career of both extreme achievement and length. One of the finest is Motorboot (Motor Boat), from 1965, in the permanent collection at the Kunstmuseum in Basel.
+The artist used source material ranging from popular magazines to his own family photo albums. He painted them at a time of an economic boom, with Germany (the West, at least), aiming to leave behind the dark past and enjoy a brighter life of travel, new leisure pursuits and an ever-increasing range of consumer goods to buy.</description>
+    </item>
+    
+  </channel>
+</rss>

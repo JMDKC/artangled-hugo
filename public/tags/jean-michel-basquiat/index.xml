@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean-Michel Basquiat on Artangled</title>
+    <link>http://example.org/tags/jean-michel-basquiat/</link>
+    <description>Recent content in Jean-Michel Basquiat on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/jean-michel-basquiat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AR Penck: Paintings 1974-1990 | White Cube</title>
+      <link>http://example.org/posts/penck-white-cube/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/penck-white-cube/</guid>
+      <description>AR Penck has been on show pretty frequently in London over recent years: I enjoyed an intimate collection of his paintings and sculpture at Michael Werner last November, and now some large canvases are at the large White Cube gallery in Mayfair. His popularity isn’t surprising. Penck, who died in 2017, was a loveable artist, with his large canvases of hieroglyph-like figures and symbols.
+The large scale of the White Cube gallery gives his works some room to breathe.</description>
+    </item>
+    
+    <item>
+      <title>Dorothea Tanning - Worlds in Collision | Alison Jacques</title>
+      <link>http://example.org/posts/tanning-jacques/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/tanning-jacques/</guid>
+      <description>This American artist, who lived past 100, has a hefty reputation as a Surrealist icon of the 20th century. Over her long career, Dorothea Tanning was famous for her crafty paintings and stuffed-toy-like sculptures. Accompanied by her husband Max Ernst, she lived in an Arizona desert town and then in Paris. That’s certainly the life on show in her Tate Modern retrospective, which I enjoyed and returned to repeatedly during its run early last year.</description>
+    </item>
+    
+    <item>
+      <title>Jean-Michel Basquiat | Fondation Louis Vuitton</title>
+      <link>http://example.org/posts/basquiat-flv/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/basquiat-flv/</guid>
+      <description>This enormous exhibition stretches across four floors and umpteen galleries at Fondation Louis Vuitton. I toured them at the end of a long day, feet aching. Oh god, there’s more, I muttered, turning into yet another lavishly appointed room crammed with huge, violently-coloured paintings. Then again, maybe this feeling wasn’t entirely down to my aching feet: I felt similarly overwhelmed in Basquiat’s last retrospective, on at the Barbican earlier this year.</description>
+    </item>
+    
+  </channel>
+</rss>

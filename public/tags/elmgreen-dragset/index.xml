@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elmgreen &amp; Dragset on Artangled</title>
+    <link>http://example.org/tags/elmgreen-dragset/</link>
+    <description>Recent content in Elmgreen &amp; Dragset on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/elmgreen-dragset/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Odeón o de la contingencia | Espacio Odeón</title>
+      <link>http://example.org/posts/contingencia-odeon/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/contingencia-odeon/</guid>
+      <description>One unusual feature of Bogotá, to these European eyes anyway, is its many tiny, privately run car parks. Tucked into vacant lots between buildings, even in the centre of downtown, they’re either an interesting example of urban ingenuity, or a sad sign of the heaving city’s deep car dependency, despite its luxuriously wide boulevards.
+I mistook the entrance to this exhibition for yet another parqueadero, so convincing is the illusion. But in fact, Estudio Altiplano and Alejandro Martín Maldonado have reimagined the Espacio Odeón - a fascinating multi-level building that was once a theatre, but is now stripped back to its concrete skeleton - as a playful recreation of different spaces well known to any Bogotá resident.</description>
+    </item>
+    
+    <item>
+      <title>Elmgreen &amp; Dragset - This Is How We Bite Our Tongue | Whitechapel Gallery</title>
+      <link>http://example.org/posts/elmgreen-dragset-whitechapel/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/elmgreen-dragset-whitechapel/</guid>
+      <description>Whitechapel Gallery has been transformed into a derelict swimming pool with an imaginary backstory. Built by a Victorian philanthropist (the story goes), the Whitechapel Pool played host to Tesco founder Jack Cohen and David Hockney over its decades as a public utility. Then it got shut down in the privatisation-happy Thatcher era, before being renovated as part of a “design hotel” opening in 2019. Unfortunately for future Cohens and Hockneys, it’ll be accessible only through membership.</description>
+    </item>
+    
+  </channel>
+</rss>

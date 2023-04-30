@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nam June Paik on Artangled</title>
+    <link>http://example.org/tags/nam-june-paik/</link>
+    <description>Recent content in Nam June Paik on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/nam-june-paik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wolf Vostell: Destruction is Life | Cardi Gallery</title>
+      <link>http://example.org/posts/vostell-cardi/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/vostell-cardi/</guid>
+      <description>There are two impressive mini-retrospectives for members of the post-war Fluxus group - some of the original performance artists - on in London at the moment. Per Kirkeby’s dark landscape paintings are at Michael Werner, while Wolf Vostell, one of the movement’s leading lights, has taken over all three floors of the large Cardi Gallery.
+Vostell specialised in what he called décollages - mixed media collages, built through creating new things and destroying existing ones.</description>
+    </item>
+    
+    <item>
+      <title>Interlude - Michel Verjux at Laure Genillard</title>
+      <link>http://example.org/posts/verjux-genillard/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/verjux-genillard/</guid>
+      <description>Nothing to do. I had some leave from work to use, and used it this week, while galleries (and so many other places) remain locked down here in London. So the days have seemed blank, featureless.
+I think of a plain circle of electric light, cast by a ceiling-mounted electric lamp. It’s a work by Michel Verjux, downstairs at Laure Genillard, which I viewed at an exhibition of his early last year.</description>
+    </item>
+    
+  </channel>
+</rss>

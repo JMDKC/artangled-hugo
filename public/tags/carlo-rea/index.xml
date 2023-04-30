@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlo Rea on Artangled</title>
+    <link>http://example.org/tags/carlo-rea/</link>
+    <description>Recent content in Carlo Rea on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/carlo-rea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jörg Immendorff - Questions from a Painter Who Reads | Michael Werner</title>
+      <link>http://example.org/posts/immendorff-werner/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/immendorff-werner/</guid>
+      <description>This is an artist who was a really big deal in his native land. I first heard of Jörg Immendorff when I visited his enormous retrospective at the Haus der Kunst in Munich last year, spanning his early political paintings of to his complex, gloomy, finely-wrought late works, painted as the artist was dying of ALS. A hideous way to go - and he went in 2007.
+Now, Michael Werner is showing a cycle of huge paintings from the final year in its lovely winter garden, with some other examples of another Immendorff period - his fervent and optimistic 70s paintings of heroic workers and artists, working together to trash capitalism in some impressive wing collars and flares.</description>
+    </item>
+    
+  </channel>
+</rss>

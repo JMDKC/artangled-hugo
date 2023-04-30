@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve McQueen on Artangled</title>
+    <link>http://example.org/tags/steve-mcqueen/</link>
+    <description>Recent content in Steve McQueen on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/steve-mcqueen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steve McQueen - Year 3 | Tate Britain</title>
+      <link>http://example.org/posts/mcqueen-tate/</link>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mcqueen-tate/</guid>
+      <description>Steve McQueen was made a knight in the 2020 honours list, and this is just the kind of public-spirited artwork suitable for such a high national honour. (Though I can’t help thinking LS Lowry’s approach of turning down such Royal-approved baubles, all the way up to refusing the Companion of Honour twice, is a much cooler artistic statement.)
+For this exhibition, specially-trained Tate teams have photographed a total of 76,000 of London’s Year 3 schoolchildren and teachers in the traditional class photo format.</description>
+    </item>
+    
+  </channel>
+</rss>

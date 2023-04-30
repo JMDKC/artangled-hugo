@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clare Woods on Artangled</title>
+    <link>http://example.org/tags/clare-woods/</link>
+    <description>Recent content in Clare Woods on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/clare-woods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clare Woods - Doublethink | Simon Lee</title>
+      <link>http://example.org/posts/stoner-modern/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/stoner-modern/</guid>
+      <description>This artist’s practice has similar roots to other artists I’ve featured on this site before. Like Robert Muntean, Clare Woods takes found images from newspapers and magazines and makes something new with them.
+Like her compatriot Gary Hume, she paints on aluminium, giving the final works an ultra-clean, shiny, textured look. Like Rachel Howard , she paints from above, letting the drips fall down the edges of the works.
+But Woods’ overall effects are unique.</description>
+    </item>
+    
+  </channel>
+</rss>

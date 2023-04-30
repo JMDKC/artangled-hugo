@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saint-Louis on Artangled</title>
+    <link>http://example.org/tags/saint-louis/</link>
+    <description>Recent content in Saint-Louis on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/saint-louis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>David Nash - Nature to Nature | Fondation Fernet-Branca</title>
+      <link>http://example.org/posts/nash-fernet/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/nash-fernet/</guid>
+      <description>Loosely associated with the Chelsea school when young, David Nash now works in darkest Wales. And he works with wood. Wood, in all its forms - burnt into charcoal, cut into columns, melded into stacks - is the basis of all the works in this show, taking up most of this former distillery in Alsace, near the Swiss border.
+It&amp;rsquo;s the sculptures that stand out here, in which Nash imposes a regularity and elegance onto what&amp;rsquo;s organic and wild.</description>
+    </item>
+    
+  </channel>
+</rss>

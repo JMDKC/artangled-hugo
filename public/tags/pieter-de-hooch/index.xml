@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pieter de Hooch on Artangled</title>
+    <link>http://example.org/tags/pieter-de-hooch/</link>
+    <description>Recent content in Pieter de Hooch on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/pieter-de-hooch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marwan Bassiouni: New British Views | Workplace</title>
+      <link>http://example.org/posts/bassiouni-workplace/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/bassiouni-workplace/</guid>
+      <description>There’s something about the low light of my homeland, depicted in a painting or a photograph, that pushes me to write about it: see previous examples from George Shaw, Mike Silva and Jock McFadyen. This time, it’s an exhibition from Marwan Bassiouni, whose impressively cosmopolitan background (Italian-Swiss-Egyptian-American) hasn’t stopped him depicting the most humdrum, low-lit British landscapes with notable sensitivity and skill.
+Bassiouni’s conceit is simple: he shoots landscapes, seen through the windows of mosques and Islamic prayer rooms.</description>
+    </item>
+    
+  </channel>
+</rss>

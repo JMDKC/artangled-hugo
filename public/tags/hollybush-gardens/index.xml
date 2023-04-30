@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hollybush Gardens on Artangled</title>
+    <link>http://example.org/tags/hollybush-gardens/</link>
+    <description>Recent content in Hollybush Gardens on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/hollybush-gardens/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anne Tallentire - As Happens | Hollybush Gardens</title>
+      <link>http://example.org/posts/tallentire-hollybush/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/tallentire-hollybush/</guid>
+      <description>The works in this small exhibition are grouped around the idea of scale - measurements. In the main room, Anne Tallentire shows us Area, wall-mounted, flat-coloured MDF panels corresponding to the dimensions, rather than the appearance, of objects in the communal area of a public housing complex in Graz: the work was first shown in that city in 2018.
+Originally shown, in other words, before the pandemic which has made us measure things in new ways.</description>
+    </item>
+    
+  </channel>
+</rss>

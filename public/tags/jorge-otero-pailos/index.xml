@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jorge Otero-Pailos on Artangled</title>
+    <link>http://example.org/tags/jorge-otero-pailos/</link>
+    <description>Recent content in Jorge Otero-Pailos on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/jorge-otero-pailos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frieze Sculpture | The Regent’s Park</title>
+      <link>http://example.org/posts/frieze-regents-park/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/frieze-regents-park/</guid>
+      <description>My last trip to the Frieze tent, in 2019, ended up as a bit of a disaster, not that I admitted it on here at the time. After three hours of walking, looking intently, elbowing aside crowds and becoming increasingly unbalanced by loading more and more free merchandise into my straining tote, I ended up having a quiet panic attack in Benugo, vowing never again. If you’re not important enough to buy any of the work on show, then you’re effectively paying quite a lot to be overstimulated to the point of exhaustion - not really the best frame of mind to look at art.</description>
+    </item>
+    
+    <item>
+      <title>Jorge Otero-Pailos: American Fence | Holtermann Fine Art</title>
+      <link>http://example.org/posts/otero-pailos-holtermann/</link>
+      <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/otero-pailos-holtermann/</guid>
+      <description>Like many other Londoners, I first heard of Jorge Otero-Pailos with his knockout The Ethics of Dust show in 2016, in which he applied, pulled off and displayed an absorbent latex panel across an entire wall of Westminster Hall. Under that spectacular medieval hammerbeam roof, the Spanish-born, US-based artist confronted us with the layered debris of centuries of our history. An unforgettable sight!
+Five years later, Otero-Pailos is showing in London again, digging into some more recent history.</description>
+    </item>
+    
+  </channel>
+</rss>

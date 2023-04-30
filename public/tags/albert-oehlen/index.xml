@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Albert Oehlen on Artangled</title>
+    <link>http://example.org/tags/albert-oehlen/</link>
+    <description>Recent content in Albert Oehlen on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/albert-oehlen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Albert Oehlen - Sexe, religion, politique | Max Hetzler &amp; Gagosian</title>
+      <link>http://example.org/posts/oehlen-hetzler/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/oehlen-hetzler/</guid>
+      <description>Albert Oehlen is a difficult artist to love, but an easy artist to admire. This is due to his tendency to treat his painting as an intellectual exercise within strict self-imposed boundaries, rather than a vehicle of sensual pleasure. This tendency is on show in a pair of identically- titled exhibitions in two of Paris’ most prestigious private galleries: Max Hetzler and Gagosian.
+Each exhibition features works with a near-identical yellow hue: clearly another deliberately-imposed restriction from Oehlen.</description>
+    </item>
+    
+  </channel>
+</rss>

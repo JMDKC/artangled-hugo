@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olivier Malingue on Artangled</title>
+    <link>http://example.org/tags/olivier-malingue/</link>
+    <description>Recent content in Olivier Malingue on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/olivier-malingue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L’Empreinte | Olivier Malingue</title>
+      <link>http://example.org/posts/empreinte-malingue/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/empreinte-malingue/</guid>
+      <description>It’s hard to theme an exhibition around a concept. If the concept’s too broad, the effect is absurd; too specific, and it could just be hair-splittingly academic and boring. But this very smartly-conceived and executed show finds the sweet spot, featuring works which all feature some form of imprint. A concept sufficiently rich in suggestion, and encompassing a sufficiently broad variety of artistic expression, to make this exhibition really special.</description>
+    </item>
+    
+  </channel>
+</rss>

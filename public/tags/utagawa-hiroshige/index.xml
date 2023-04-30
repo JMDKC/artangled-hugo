@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Utagawa Hiroshige on Artangled</title>
+    <link>http://example.org/tags/utagawa-hiroshige/</link>
+    <description>Recent content in Utagawa Hiroshige on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/utagawa-hiroshige/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tokyo: Art &amp; Photography | Ashmolean</title>
+      <link>http://example.org/posts/tokyo-ashmolean/</link>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/tokyo-ashmolean/</guid>
+      <description>This is a baggy, overly stretched show with some outstanding artworks. It’s aimed at representing the “creative, dynamic and thrilling” Japanese capital, across hundreds of years of history. A tough brief, but I longed for a bit of focus: one single cabinet contained a samurai sword, a tea set, a pair of Noh masks and a lacquered screen. That cavalcade of national symbols ended up making the show look a bit provincial, ironically enough.</description>
+    </item>
+    
+  </channel>
+</rss>

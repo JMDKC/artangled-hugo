@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Addison Gallery of American Art on Artangled</title>
+    <link>http://example.org/tags/addison-gallery-of-american-art/</link>
+    <description>Recent content in Addison Gallery of American Art on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/addison-gallery-of-american-art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interlude - Edward Hopper at the Addison Gallery of American Art</title>
+      <link>http://example.org/posts/hopper-andover/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/hopper-andover/</guid>
+      <description>Manhattan Bridge Loop (1928) is a depiction of urban alienation and loneliness by the 20th century’s master of the form. Edward Hopper is a poet of the manmade: the cornices and fire escapes, the iron scaffolds, the brick and concrete, all lividly real to the viewer. By contrast, his clumsy, solitary figures, faces turned away from us and each other, are touchingly adrift in these spaces.
+In this painting, the awesome scope of the bridge’s approach dominates - a great grey-black slash, cutting the lemony asphalt below off from the thin blue sky above.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Derek Parfit on Artangled</title>
+    <link>http://example.org/tags/derek-parfit/</link>
+    <description>Recent content in Derek Parfit on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/derek-parfit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 5 of 2018</title>
+      <link>http://example.org/posts/top-5-2018/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/top-5-2018/</guid>
+      <description>It’s been a pretty big first year of art watching for this little side project.
+In all, I saw 256 shows and collections in 2018 - not counting repeated visits to some old favourite permanent collections in London. Over that time, I featured a fifth of that total on the site, posting each week.
+While I give my eyes a rest over the festive period, here&amp;rsquo;s a round-up post, listing my top five of the year.</description>
+    </item>
+    
+    <item>
+      <title>The Mind&#39;s Eye - The Photographs of Derek Parfit | Narrative Projects</title>
+      <link>http://example.org/posts/parfit-narrative/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/parfit-narrative/</guid>
+      <description>Derek Parfit travelled to Venice and St Petersburg on holiday each year for decades. He took many obsessively-composed, haunting photographs of the architecture there, always in low winter light. They&amp;rsquo;re the subject of this small but smart show, on right now at Narrative Projects. He wasn&amp;rsquo;t a pro photographer, though: his day job was&amp;hellip; philosophy.
+It&amp;rsquo;s hard to think of a philosopher who left behind a visual archive, and it&amp;rsquo;s equally hard to decipher Parfit&amp;rsquo;s philosophical views from these moody, misty photos.</description>
+    </item>
+    
+  </channel>
+</rss>

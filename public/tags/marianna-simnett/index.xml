@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marianna Simnett on Artangled</title>
+    <link>http://example.org/tags/marianna-simnett/</link>
+    <description>Recent content in Marianna Simnett on Artangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/marianna-simnett/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Head is a Haunted House | Sadie Coles HQ</title>
+      <link>http://example.org/posts/haunted-sadie/</link>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/haunted-sadie/</guid>
+      <description>It’s not quite Hallowe’en, but there are plenty of anticipation-building creepy thrills to be had at this show , curated by writer, curator and horror movie obsessive Charlie Fox.
+Everywhere you look, there’s work blurring the lines between scary, funny and… a bit deviant. From Sam McKinnis’ reverent paintings of Buffy the Vampire Slayer, to a pink laser show from Matt Copson, to some truly disgusting - even by his standards - Larry Clark photos.</description>
+    </item>
+    
+  </channel>
+</rss>
