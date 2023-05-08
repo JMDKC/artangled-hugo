@@ -21,7 +21,7 @@ That low, cloudy sky. The shabby terrace houses backing on to a train line, whic
 
 My fellow gallery goers enjoyed picking out the familiar details as much as I did. Maybe we particularly enjoyed the bits that poked at *our* demographic, the kind of people who hike up and down Victoria Miro’s steep staircase on a Saturday afternoon: the Ocado van maybe, or the motorway sign for the Eurotunnel.
 
-![Grayson Perry, 'Sacred Tribal Artefact' (2023)](/posts/perry-miro-2.jpeg)
+![Grayson Perry, 'Sacred Tribal Artefact' (2023)](/perry-miro-2.jpeg)
 
 In case that was too subtle, Perry makes his point more clearly in *Sacred Tribal Artefact*, a new tapestry from this year. A mangy old English lion, flaccid and flatulent, hands over the flag of St George to a young, smartly dressed Black woman. 
 
