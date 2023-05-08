@@ -1,5 +1,5 @@
 googleAnalytics = 'G-W1VYJ3RD4H'
-baseURL = 'http://example.org/'
+baseURL = 'https://artangled.com/'
 languageCode = 'en-us'
 title = 'Artangled'
 theme = 'nostyleplease'
