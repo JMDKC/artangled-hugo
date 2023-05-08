@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Artangled</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>London</title>
+      <link>http://example.org/tags/london/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/london/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Art</title>
+      <link>http://example.org/tags/modern-art/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/modern-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard Tuttle</title>
+      <link>http://example.org/tags/richard-tuttle/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/richard-tuttle/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Gavin Turk</title>
       <link>http://example.org/tags/gavin-turk/</link>
@@ -22,15 +49,6 @@
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/tags/gillian-wearing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>London</title>
-      <link>http://example.org/tags/london/</link>
-      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/tags/london/</guid>
       <description></description>
     </item>
     
@@ -1525,15 +1543,6 @@
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/tags/waddington-custot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modern Art</title>
-      <link>http://example.org/tags/modern-art/</link>
-      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/tags/modern-art/</guid>
       <description></description>
     </item>
     
