@@ -2,7 +2,7 @@ googleAnalytics = 'G-W1VYJ3RD4H'
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Artangled'
-theme = 'hugo-theme-nostyleplease'
+theme = 'nostyleplease'
 author = 'Joseph Clift'
 
 
