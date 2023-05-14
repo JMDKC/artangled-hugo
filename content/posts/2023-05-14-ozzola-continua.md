@@ -8,9 +8,9 @@ tags:
   - Paris
 ---
 
-Giovanni Ozzola lives and works in the Canary Islands: a place constantly under attack from the sun above and the Atlantic Ocean all around. Walking around this show, spread out over several rooms of the large Galleria Continua space in Paris, I could practically taste the salt water.
+Giovanni Ozzola lives and works in the Canary Islands: a small place that's constantly under attack from the Atlantic Ocean all around. Walking through [this show of his](https://www.galleriacontinua.com/exhibitions/for-a-little-while-398), spread out over several rooms of the large Galleria Continua space in Paris, I could practically taste the salt water.
 
-The artist’s eye is constantly caught by the damage these huge natural forces wreak on indoor manmade spaces. Hence photos like the one below, staring out at the sea through the window of a concrete bunker, its walls blasted by erosion, the fragile graffiti marks left by people seemingly disappearing before our eyes.
+The artist’s eye is constantly caught by the damage these huge natural forces wreak on the man made. Hence photos like the one below, staring out at the sea through the window of a concrete bunker, walls blasted by erosion, the fragile graffiti marks left by people seemingly disappearing before our eyes.
 
 ![Giovanni Ozzola 'In volo senza ali' (2020)](/ozzola-continua-1.jpeg)
 *In volo senza ali* (2020)
