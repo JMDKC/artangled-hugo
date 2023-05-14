@@ -1,6 +1,6 @@
 ---
 title: "Giovanni Ozzola: For a little while | Galleria Continua"
-date: 2023-05-06
+date: 2023-05-14
 slug: /ozzola-continua
 tags:
   - Giovanni Ozzola
