@@ -1,7 +1,7 @@
 ---
 title: "Mat Collishaw: All Things Fall | The Bomb Factory"
 date: 2023-05-21
-slug: /ozzola-continua
+slug: /collishaw-bomb
 tags:
   - Mat Collishaw
   - Tracey Emin
