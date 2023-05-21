@@ -21,6 +21,6 @@ Similarly, the gorgeous white-on-raw-linen paintings of motion-blurred deers and
 
 I deliberately didn’t look up exactly *what* the inspiration was for *All Things Fall*, Collishaw's sculpture of a heavily-populated classical temple-like structure that lends the exhibition its name. But I was thoroughly taken by the little animated muscle men who started to beat each other up, floor strewn with bodies of the fallen, as the zoetrope span. 
 
-I’m sure it was a comment on capitalistic digital surveillance or whatever, but the fact remains, it looked great - and I posted a story about it on Instagram with a clear conscience.
+I’m sure it was a comment on capitalistic digital surveillance or whatever, but the fact remains, it looked great.
 
 *Mat Collishaw: All Things Fall is at The Bomb Factory (London). 20 April - 21 May 2023*
