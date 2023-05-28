@@ -13,7 +13,7 @@ tags:
 
 I looked at 40 or so small, dog-eared photographs, in a few brightly coloured vitrines, in a gallery one sunny afternoon in Bethnal Green, and got a glimpse into a totally different land - both physical and imaginative. Isn’t getting that sense of transportation the main reason you’d look at art in the first place? Debatable. But it’s a sense I got [really strongly in this show](https://autoitaliasoutheast.org/projects/barbarellas-kiss/), either way.
 
-The time and place is Bolivia in 1960s and 1970s. The protagonists are a group of local performers, who used mononyms like Barbarella, Ofelia and Liz, dressed up as the folk figure *La China Morena* during the carnival to entertain the crowds. The photos of the performances that make up the exhibition, sourced from the queens’ own collections by the show’s curator David Aruquipa Pérez, are both familiar and strange.
+The time and place is Bolivia in 1960s and 1970s. The protagonists are a group of local performers who used mononyms like Barbarella, Ofelia and Liz, and dressed up as the folk figure *La China Morena* at carnival time to entertain the crowds. The photos of the performances that make up the exhibition, sourced from the queens’ own collections by the show’s curator David Aruquipa Pérez, are both familiar and strange.
 
 !['Ofelia and Liz at the Carnival of Oruro, Bolivia' (1976)](/barbarella-italia-1.jpeg)
 *Ofelia and Liz at the Carnival of Oruro, Bolivia (1976)*
@@ -26,7 +26,7 @@ Outside of the party, the group also flirted with genuine danger: the exhibition
 
 Behind the clumpy heels and sparkly outfits, then, these queens were battle-hardened and resourceful. After the ban, they took their show out into the countryside, continuing to perform in villages and rural areas. That’s when my favourite photo from the show (above) was taken.
 
-Ofelia and Liz, resplendent in towering wigs, mini skirts and slightly dusty boots, pose in a sun-blasted mountain landscape, a mad blustery sky above. In between, two girls, coming up to barely boob height compared to the queens, stand nervously, implacable and set expressions on their faces. The dynamic is unreadable, but the absolute incongruity of the different elements in the scene read is pure, high-altitude camp.
+Ofelia and Liz, resplendent in towering wigs, mini skirts and slightly dusty boots, pose in a sun-blasted mountain landscape, a mad blustery sky above. In between, two girls, coming up to barely boob height compared to the queens, stand nervously, implacable and set expressions on their faces. The dynamic is unreadable, but the absolute incongruity of the different elements in the scene read to me as pure, high-altitude camp.
 
 Or maybe that was my false impression, formed after looking up from the vitrine and being snapped back to the here and now, a world away from Ofelia, Liz and the others. The show wasn’t for *me* after all, it was for them. Time for another look.
 
