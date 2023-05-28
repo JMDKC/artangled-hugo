@@ -5,7 +5,7 @@ slug: /fornieles-carlos
 tags:
   - Ed Fornieles
   - Wade Guyton
-  - Jan Hendrickse
+  - Jan Henderikse
   - Carlos/Ishikawa
   - London
 ---
