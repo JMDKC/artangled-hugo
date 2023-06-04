@@ -6,7 +6,7 @@ tags:
   - James Pichette
   - Claude Viseux
   - Pierre Soulages
-  - Victor Vaserely
+  - Victor Vasarely
   - Hanina Fine Arts
   - London
 ---

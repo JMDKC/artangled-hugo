@@ -4,7 +4,7 @@ date: 2018-08-05
 slug: "/weisz-sadie-coles"
 tags:
   - Paloma Varga Weisz
-  - Sadie Coles
+  - Sadie Coles HQ
   - London
 ---
 
