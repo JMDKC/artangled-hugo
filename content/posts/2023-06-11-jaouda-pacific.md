@@ -8,8 +8,6 @@ tags:
   - London
 ---
 
-The interaction of colour with cloth - cloth, imperfectly dyed, draped over metal trellises and curlicues. Some small cement wall works with Islamic patterns. Faded grandeur of colonial architecture in Cairo, rusting. The intricacies of ties and layers… the cut shapes. A hot city, viewed in a hot city. Cracked concrete. It’s meant to look like a work in progress - just like a city. The gallery full on a hot day. My fav a concrete work, ‘immortal olive tree’.
-
 The objects in [this exhibition](https://unionpacific.co.uk/exhibitions/4119/) highlight the damaging effects of the sun, and time, on the city. Quite appropriate to see it, then, on the hottest day of the year, with the gallery’s air conditioning fighting a losing battle with the relentless sun battering through the windows. 
 
 Nour Jaouda, the artist on show, grew up in Cairo to a Libyan family, and now lives in London. It’s Cairo’s streets that inspire her work, which features shredded and inexpertly dyed cotton fabric, rusty metal and cracked concrete. She buys the cotton (pure Egyptian, naturally), in local markets, cuts and layers it on and around canvas, which is itself stretched onto that rusty metal. Surrounding these evocative installations are small wall-mounted pieces of concrete, inlaid with patterns.
