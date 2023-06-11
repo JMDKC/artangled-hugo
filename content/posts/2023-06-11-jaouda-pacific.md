@@ -10,9 +10,9 @@ tags:
 
 The interaction of colour with cloth - cloth, imperfectly dyed, draped over metal trellises and curlicues. Some small cement wall works with Islamic patterns. Faded grandeur of colonial architecture in Cairo, rusting. The intricacies of ties and layers… the cut shapes. A hot city, viewed in a hot city. Cracked concrete. It’s meant to look like a work in progress - just like a city. The gallery full on a hot day. My fav a concrete work, ‘immortal olive tree’.
 
-The damaging effects of the sun, and time, on the city is the aesthetic theme of [this show](https://unionpacific.co.uk/exhibitions/4119/). Quite appropriate to see it, then, on the hottest day of the year, with the gallery’s air conditioning fighting a losing battle with the relentless sun battering through the windows. Nour Jaouda grew up in Cairo to a Libyan family, and now lives in London, hence the show’s title.
+The objects in [this exhibition](https://unionpacific.co.uk/exhibitions/4119/) highlight the damaging effects of the sun, and time, on the city. Quite appropriate to see it, then, on the hottest day of the year, with the gallery’s air conditioning fighting a losing battle with the relentless sun battering through the windows. 
 
-According to the notes, it’s Cairo’s streets that’s the abiding source of her inspiration, expressed in works using shredded and inexpertly dyed fabric, rusty metal and cracked concrete. She bought the cotton (pure Egyptian, naturally), in local markets and dyed them herself. She layered the material on and around canvas, itself stretched onto that rusty metal.
+Nour Jaouda, the artist on show, grew up in Cairo to a Libyan family, and now lives in London. It’s Cairo’s streets that inspire her work, which features shredded and inexpertly dyed cotton fabric, rusty metal and cracked concrete. She buys the cotton (pure Egyptian, naturally), in local markets, cuts and layers it on and around canvas, which is itself stretched onto that rusty metal. Surrounding these evocative installations are small wall-mounted pieces of concrete, inlaid with patterns.
 
 ![Nour Jaouda, 'Where, if not Faraway, is my Place?' (installation view)](/jaouda-pacific-1.jpeg)
 
