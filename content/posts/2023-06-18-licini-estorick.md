@@ -10,9 +10,9 @@ tags:
   - London
 ---
 
-This [retrospective show](https://www.estorickcollection.com/exhibitions/osvaldo-licini-rebellious-angel) provides a great example of an artist finding their groove on the home stretch of their career. Osvaldo Licini was a working artist from the 1920s to his death in 1958, living through many of the 20th century’s most influential artistic movements, which influenced his work - until they didn’t.
+This [retrospective show](https://www.estorickcollection.com/exhibitions/osvaldo-licini-rebellious-angel) provides a great example of an artist finding their groove on the home stretch of their career. Osvaldo Licini was a working artist from the 1920s to his death in 1958, living through many of the 20th century’s most influential artistic movements, which in turn made their mark on his work - until they didn’t.
 
-Across the two exhibition galleries of the Estorick Collection, we move from some ho-hum Cézanne-tribute portraits, to a couple of mock-Modiglianis, to some abstract works from the 1930s which owe a clear debt to de Stijl, though they also tend to suggest the mountainous landscape of le Marche, his home region in Italy.
+Across the two exhibition galleries of the Estorick Collection, we move from some ho-hum Cézanne-tribute portraits, to a couple of mock-Modiglianis, to some abstract works from the 1930s which owe a clear debt to de Stijl, though they also tend to suggest the mountainous landscape of le Marche, Licini's home region in Italy.
 
 ![Osvaldo Licini, 'Rebellious Angel with Red Heart' (1954)](/licini-estorick-1.jpg)
 
