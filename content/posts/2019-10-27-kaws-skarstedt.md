@@ -1,7 +1,7 @@
 ---
 title: "KAWS: BLACKOUT | Skarstedt"
 date: 2019-10-27
-slug: "/stoner-modern"
+slug: "/kaws-skarstedt"
 tags:
   - KAWS
   - Skarstedt
