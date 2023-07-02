@@ -1,7 +1,7 @@
 ---
 title: "On Longing (Or, Modern Objects Volume II) | Huxley-Parlour"
 date: 2023-07-02
-slug: /barth-huxley-parlour-1
+slug: /barth-huxley-parlour
 tags:
   - Alexandra Barth 
   - Thomas Demand
