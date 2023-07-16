@@ -10,7 +10,7 @@ tags:
   - Paris
 ---
 
-Jean Bosphore likes to paint flesh and flowers, of a particular sort. His works are small: you could cover most of the paintings in this show with a piece of A4 paper. They’re all on pieces of wood with bevelled edges, the hard surface rendering his acrylic paints with almost brutal clarity.
+Jean Bosphore likes to paint flesh and flowers, of a particular sort. His works are small: you could cover most of the paintings in [this show](https://soberinggalerie.com/exhibitions/slumber-party/) with a piece of A4 paper. They’re all on pieces of wood with bevelled edges, the hard surface rendering his acrylic paints with almost brutal clarity.
 
 Everything seems to be encased in plastic. The flowers depicted in the paintings have screw-in parts and instruction manuals. The cool boys that pose with these flowers are almost as smooth and shiny. The paint has a flat, plasticky sheen. Each smooth-cornered piece of wood is even encased in a plastic pipe frame which Bosphore [made himself](https://www.instagram.com/p/CrF6HtsMZqg/?hl=en).
 
