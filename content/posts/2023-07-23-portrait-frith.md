@@ -1,6 +1,6 @@
 ---
 title: "Portrait | Frith Street Gallery"
-date: 2023-07-12
+date: 2023-07-23
 slug: /portrait-frith
 tags:
   - Polly Apfelbaum
