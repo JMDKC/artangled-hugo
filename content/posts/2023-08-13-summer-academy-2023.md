@@ -23,6 +23,6 @@ A single work to pick out, then, pictured above. It's one that cut against the f
 
 The gloomy mystery of the scene brought to mind Giacometti’s late portraits of his wife Annette, glowering towards us in silhouette, face on, in a similar-looking room. Or perhaps Hammershøi, master of the withholding interior, distancing itself from us even as we look.
 
-Among the other 1,500 paintings, sculptures and prints, someone ignored the crowds and connections and bought Bizzarri’s ambiguously empty room for £15,000. Lucky them!
+A lucky red dot was stuck below the frame. So, among the other 1,500 paintings, sculptures and prints, someone ignored the crowds and connections and bought Bizzarri’s ambiguously empty room for £15,000. Lucky them!
 
 *The Summer Exhibition is at the Royal Academy. 13 June - 20 August 2023*
