@@ -17,11 +17,11 @@ Back then, I was sad about the “miserably empty, near-silent” galleries, whi
 
 ![Marco Bizzarri 'Outskirts' (2023)](/summer-academy-2023-1.jpeg)
 
-This time, you could walk right in to the galleries, press yourself into the crowds, and have a drink as you took it all in. Even the theme for this year, *Only Connect*, is un-socially-distanced. The hang on some of the larger galleries was notably more sparse than before, and I think the works in sum were less politicised, despite the pretty dire economic situation: I couldn’t spot any works referencing Brexit, for example, which has to be a first in at least a decade.
+This time, you could walk right in to the galleries, press yourself into the crowds, and have a drink as you took it all in. Even the theme for this year, *Only Connect*, is un-socially-distanced. The hang on some of the larger galleries was notably more sparse than before, and I think the works in sum were less politicised, despite the pretty dire economic situation: I couldn’t spot any works referencing Brexit, for example, which has to be a first since 2016.
 
-A single work to pick out, then, pictured above. Marco Bizzarri is a Chilean artist who lives in London, whose painting, *Outskirts*, hugs the ceiling, high up on a wall of one of the galleries. It’s a semi-obliterated interior scene. White light tentatively makes its way in through the windows, through the outskirts, hitting crooked wooden floorboards but petering out by the time it reaches the centre of the canvas - and the room. What’s there? A formless black mass - perhaps a chair - perhaps a person.
+A single work to pick out, then, pictured above. It's one that cut against the festive atmosphere. Marco Bizzarri is a Chilean artist who lives in London, and whose painting, *Outskirts*, high up on a wall of one of the galleries, caught my eye. It’s a semi-obliterated interior scene. White light tentatively makes its way in through the windows, through the outskirts, hitting crooked wooden floorboards but petering out by the time it reaches the centre of the canvas - and the room. What’s there? A formless black mass - perhaps a chair - perhaps a person.
 
-The mystery of the scene brought to mind Giacometti’s late portraits of his wife Annette, glowering towards us in silhouette, face on, in a similarly murky room. Or perhaps Hammershøi, master of the withholding interior, distancing itself from us even as we look.
+The gloomy mystery of the scene brought to mind Giacometti’s late portraits of his wife Annette, glowering towards us in silhouette, face on, in a similar-looking room. Or perhaps Hammershøi, master of the withholding interior, distancing itself from us even as we look.
 
 Among the other 1,500 paintings, sculptures and prints, someone ignored the crowds and connections and bought Bizzarri’s ambiguously empty room for £15,000. Lucky them!
 
