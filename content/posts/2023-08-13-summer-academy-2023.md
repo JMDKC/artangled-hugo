@@ -9,9 +9,9 @@ tags:
   - Royal Academy
 ---
 
-This week I’m writing about the Royal Academy’s annual summer blowout, mainly because of the dearth of other shows to talk about at London right now. Despite the comparatively cool temperatures, we are deep into summer, meaning most of Mayfair’s commercial galleries are shut right now - ready to return in September.
+This week I’m writing about the Royal Academy’s annual summer blowout, mainly because of the dearth of other shows to talk about in London right now. Despite the comparatively cool temperatures, we are deep into summer, meaning most of Mayfair’s commercial galleries are shut - ready to return in September.
 
-So it’s time for a spin around the [1,500 or so works on display at Burlington House](https://www.royalacademy.org.uk/exhibition/summer-exhibition-2023). Difficult as it is to summarise overall themes and impressions from such a wildly, designedly diverse show - one thing’s for sure: the atmosphere at the Summer Exhibition’s very different this year than it was in 2020, [when I last wrote about it](https://artangled.com/posts/summer-academy-2020).
+So it’s time for a spin around the [1,500 or so works on display at Burlington House](https://www.royalacademy.org.uk/exhibition/summer-exhibition-2023). Difficult as it is to summarise overall themes and impressions from such a wildly, designedly diverse show, one thing’s for sure: the atmosphere at the Summer Exhibition’s very different this year than it was in 2020, [when I last wrote about it](https://artangled.com/posts/summer-academy-2020).
 
 Back then, I was sad about the “miserably empty, near-silent” galleries, which could only be accessed via pre-booked timed visits, even for members. The show itself took place in the autumn, lockdown having been too tight over the summer. And many of the works, unavoidably, referenced the pandemic.
 
