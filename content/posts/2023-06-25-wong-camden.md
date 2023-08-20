@@ -27,6 +27,6 @@ What was Wong like as a person? In an essay accompanying the show, Zully Adler m
 
 “The work of Martin Wong… pries open the prospect of connection in moments of contrast. His ability to capture this contradiction is predicated, in part, on the way he never fully identified with the worlds in which he was nonetheless embedded.”
 
-Hermitically sealed in his top-floor apartment, he painted what he saw around him. Biographical details make clear that his perspective is one of both insider and outsider: gay, Chinese-American, living in semi-squalor but from a rich family, sociable but withdrawn. There’s a lot to read into those bricks. It’s their fault for being so expressive, though.
+Hermetically sealed in his top-floor apartment, he painted what he saw around him. Biographical details make clear that his perspective is one of both insider and outsider: gay, Chinese-American, living in semi-squalor but from a rich family, sociable but withdrawn. There’s a lot to read into those bricks. It’s their fault for being so expressive, though.
 
 *Martin Wong: Malicious Mischief is at Camden Art Centre (London). 16 June - 17 September 2023*
