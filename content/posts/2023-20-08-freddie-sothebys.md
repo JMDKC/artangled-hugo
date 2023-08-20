@@ -9,7 +9,7 @@ tags:
   - Sotheby's
 ---
 
-Even if we try to be minimalist and careful in what we buy, we relentlessly accumulate stuff over time. It’s unavoidable, inevitable. Minimalism wasn’t a concept embraced by the deeply carefree Freddie Mercury, who shopped and gathered relentlessly on a rockstar budget. That’s a message that was rammed home with the subtlety of a Queen ballad as I wandered round Sotheby’s, surrounded by fellow gawkers, peering at packed walls and into packed glass cases, at all of *Freddie’stuff*.
+Even if we try to be minimalist and careful in what we buy, we relentlessly accumulate stuff over time. It’s unavoidable, inevitable. Minimalism wasn’t a concept embraced by the deeply carefree Freddie Mercury, who shopped and hoarded relentlessly on a rockstar budget. That’s a message that was rammed home with the subtlety of a Queen ballad as I wandered round Sotheby’s, surrounded by fellow gawkers, peering at packed walls and into packed glass cases, at all of *Freddie’s stuff*.
 
 We can do this because it’s all for sale, barcode-tagged, and [will be auctioned off early next month](https://www.sothebys.com/en/auction-catalogue/2023/freddie-mercury-a-world-of-his-own-the-evening-sale?s=details). Freddie (writing ‘Mercury’ seems wrong, I feel so close to him now!) left the entire contents of his large Kensington house, known as Garden Lodge, to a friend on his death - and she’s selling the lot now. 30,000 objects, loosely arranged by theme. The auction house, scenting a media event, has proved more than welcoming to members of the public who don’t usually frequent its halls on Bond Street; even when I visited on a rainy weekday afternoon, it was pretty packed.
 
