@@ -20,7 +20,7 @@ Though produced in darkness, the artist depicts radiant light, bursting out in t
 
 Cunningham’s improvisatory lines sometimes peter out before the edges of the canvas, like our final night-time waking thoughts, before they’re obliterated by sleep. This sense of giving in is captured by the JG Ballard quote that gave this painting, and the show, its name.
 
-“There is an immense reward to be found in that frozen forest,” he wrote, in his 1966 sci-fi novel *****************The Crystal World*****************. “There the transfiguration of all living and inanimate forms occurs before our eyes, the gift of immortality a direct consequence of the surrender by each of us of our own physical and temporal identities.”
+“There is an immense reward to be found in that frozen forest,” he wrote, in his 1966 sci-fi novel *The Crystal World*. “There the transfiguration of all living and inanimate forms occurs before our eyes, the gift of immortality a direct consequence of the surrender by each of us of our own physical and temporal identities.”
 
 Just as, when producing this and other paintings in the show, the sleep-deprived painter let go of physical forms, and gave in to gesture, the line - the layer.
 
