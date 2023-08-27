@@ -14,7 +14,7 @@ The title of [this small exhibition](https://www.lissongallery.com/exhibitions/s
 
 *Crystal Forest*, pictured below, is the product of long nocturnal sessions. It’s a dreamscape, the forest floor built up with long, gestural lines, like one of those midcentury action paintings from people like Hans Hartung and Pierre Soulages.
 
-![Sarah Cunningham 'Crystal Forest' (2023)](2023-27-08-cunningham-lisson%20eab41959340a4e0bba008bed98e4be93/Untitled.jpeg)
+![Sarah Cunningham 'Crystal Forest' (2023)](/cunnighnam-lisson-1.jpeg)
 
 Though produced in darkness, the artist depicts radiant light, bursting out in the top corner of, then filtered through the greenery, through the middle of the scene. Viewed on a sunny day at the gallery, the ridges and troughs of the paint layers added to the visual drama and movement of the scene.
 
