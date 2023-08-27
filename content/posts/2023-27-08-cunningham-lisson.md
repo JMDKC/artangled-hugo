@@ -12,11 +12,11 @@ tags:
 
 The title of [this small exhibition](https://www.lissongallery.com/exhibitions/sarah-cunningham-the-crystal-forest), from the young British painter Sarah Cunningham, suggests clarity and sharpness. But the layers of oil paint on her works serve to obscure rather than clarify; while they’re recognisably landscapes, they’re anything but cristalline.
 
-*Crystal Forest*, pictured below, is the product of long nocturnal sessions. It’s a dreamscape, the forest floor built up with long, gestural lines, like one of those midcentury action paintings from people like Hans Hartung and Pierre Soulages.
+*Crystal Forest*, pictured below, is the product of long nocturnal sessions: Cunningham has trouble sleeping, it seems. It’s a dreamscape, the forest floor built up with long, gestural lines, like one of those midcentury action paintings from people like Hans Hartung and Pierre Soulages.
 
 ![Sarah Cunningham 'Crystal Forest' (2023)](/cunningham-lisson-1.jpeg)
 
-Though produced in darkness, the artist depicts radiant light, bursting out in the top corner of, then filtered through the greenery, through the middle of the scene. Viewed on a sunny day at the gallery, the ridges and troughs of the paint layers added to the visual drama and movement of the scene.
+Though she produced the painting in darkness, the artist depicts radiant light, bursting out in the top corner of the canvas. This light is then filtered through the greenery, towards the middle of the forest. Viewed on a sunny day at the gallery, the ridges and troughs of the paint layers added to the visual drama of the scene; it seemed to pulse and waver in front of me.
 
 Cunningham’s improvisatory lines sometimes peter out before the edges of the canvas, like our final night-time waking thoughts, before they’re obliterated by sleep. This sense of giving in is captured by the JG Ballard quote that gave this painting, and the show, its name.
 
