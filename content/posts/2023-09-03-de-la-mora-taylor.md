@@ -10,7 +10,7 @@ tags:
 
 I’ve featured the Mexican artist Gabriel de la Mora on here before, [when I visited his show at Perrotin](https://artangled.com/posts/de-la-mora-perrotin/) in Paris in 2019. Then as now, I was impressed by his “craft and obsession”. In Paris, I saw works in which he used shoe soles and eggshells, layered up and tesselated, to make semi-abstract patterns.
 
-The eggshells are back, [here at Timothy Taylor in London](https://www.timothytaylor.com/exhibitions/fragmentxs/), and are joined by works made from tiny blown-glass mirrors and, most arrestingly of all, butterfly wings, painted over in acrylic but not to the extent that they lose their uncanny, alien-like iridescent shimmer. In each of this series of work, de la Mora arranges the wings into a circular form on a different-coloured, square format background. They suggested to me a rising sun, or maybe a *****nazar*****, an evil eye pendant that wards off hostile glances.
+The eggshells are back, [here at Timothy Taylor in London](https://www.timothytaylor.com/exhibitions/fragmentxs/), and are joined by works made from tiny blown-glass mirrors and, most arrestingly of all, butterfly wings, painted over in acrylic but not to the extent that they lose their uncanny, alien-like iridescent shimmer. In each work in the latter series, de la Mora arranges the wings into a circular form on a different-coloured, square format background. They suggested to me a rising sun, or maybe a *nazar*, an evil eye pendant that wards off hostile glances.
 
 ![Gabriel de la Mora '1,984 He.Le' (2023)](/de-la-mora-taylor-1.png)
 
