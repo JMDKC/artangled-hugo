@@ -8,7 +8,7 @@ tags:
   - Irving Penn
   - Michael Werner
   - Tornabuoni Art
-  - Hamilton's
+  - Hamiltons
   - London
 ---
 

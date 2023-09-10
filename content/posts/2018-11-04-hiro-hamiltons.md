@@ -8,7 +8,7 @@ tags:
   - Ian Davenport
   - Alex Katz
   - Yun Hyong-Keun
-  - Hamilton's
+  - Hamiltons
   - Waddington Custot
   - Timothy Taylor
   - Simon Lee
@@ -30,4 +30,4 @@ Probably the most spectacular show I saw this week was [Ian Davenport: Coloursca
 Yun Hyong-Keun is a new name to me, but [Simon Lee is showing](https://www.simonleegallery.com/exhibitions/146/
 ) his abstract works, which come in in various shades of umber and black.
 
-*Modern Masters is at Hamilton's (London). 10 September - 23 November 2018*
+*Modern Masters is at Hamiltons (London). 10 September - 23 November 2018*
