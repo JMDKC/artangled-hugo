@@ -11,13 +11,13 @@ tags:
 
 This past week, London has sweltered under an unbearable end-of-summer heatwave. And while I’m not a bikini model myself, when I was confronted by the sweaty crotch of *Elke II, La Voile Rouge*, pictured below, I found myself suffused with a weird sense of fellow feeling.
 
-I was toiling through the streets of Mayfair, sweating due to the wet-towel humidity that has closed in on the city. Elke’s crotch was on a billboard outside Hamiltons gallery, advertising this show. We shared a moment, Elke and I - so I had to see more. Inside the gallery is an exhibition of photographs taken by the auctioneer and historian Philippe Garner, in and around his native Provence, between 1972 and 1975.
+I was toiling through the streets of Mayfair, sweating due to the wet-towel humidity that has closed in on the city. Elke’s crotch was on a billboard outside Hamiltons gallery, advertising this show. We shared a moment, Elke and I - so I had to see more. Inside the gallery is [an exhibition of photographs](https://www.hamiltonsgallery.com/exhibitions/151/overview/) taken by the auctioneer and historian Philippe Garner, in and around his native Provence, between 1972 and 1975.
 
 ![Philippe Garner 'Elke II, La Voile Rouge' (1974)](/saint-tropez-hamiltons-1.jpeg)
 
 The series taken from La Voile Rouge - apparently a famous beach in Saint-Tropez - is in the rear gallery, whose glass ceiling cast very strong sunlight and shadow on the walls, heating the atmosphere up still further. Garner's eye dwells with bald, frank interest on boobs and bums, deeply tanned and wet with sweat and seawater. The background blue of the sky is similarly saturated, as if ready to burst.
 
-Just once, Garner turns the camera on himself, taking a photograph in a cracked mirror on the beach. He’s barefoot and bare-shouldered, seemingly defenceless under the relentless sun. The metal of his Fuji camera must have been molten-hot in his hand.
+Just once, Garner turns the camera on himself, taking a photograph in a cracked mirror on the beach. He’s barefoot and bare-shouldered, seemingly defenceless under the relentless sun. The metal of his Fujifilm camera must have been molten-hot in his hand.
 
 ![Philippe Garner, 'Alimentation' (c.1975)](/saint-tropez-hamiltons-2.jpeg)
 
