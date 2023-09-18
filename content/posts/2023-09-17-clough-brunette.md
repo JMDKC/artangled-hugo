@@ -12,7 +12,7 @@ tags:
 
 I’ve [long been interested](https://artangled.com/posts/clough-annely/) in the work of post-war British painter Prunella Clough, that abstract chronicler of the grimy and the shopworn, so I jumped at the chance to see more of her in [this exhibition](https://brunettecoleman.com/machines_for_seeing_with).
 
-It’s in a new gallery space, up some stairs in a damp, shabby building next to Holborn library: a very Clough location. The painting of hers on show, ********Sequence********, is a late work from 1992 - she died seven years later. It shows a series of marching powder-blue shadows set against a vanilla-yellow sky.
+It’s in a new gallery space, up some stairs in a damp, shabby building next to Holborn library: a very Clough location. The painting of hers on show, *Sequence*, is a late work from 1992 - she died seven years later. It shows a series of marching powder-blue shadows set against a vanilla-yellow sky.
 
 ![Prunella Clough 'Sequence' (1992)](/clough-brunette-1.jpeg)
 
