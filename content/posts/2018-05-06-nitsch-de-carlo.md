@@ -1,7 +1,7 @@
 ---
 title: "Hermann Nitsch - Das Orgien Mysterien Theater | Massimo de Carlo"
 date: 2018-05-06
-slug: "/itsch-de-carlo"
+slug: "/nitsch-de-carlo"
 tags:
   - Hermann Nitsch
   - Massimo de Carlo
