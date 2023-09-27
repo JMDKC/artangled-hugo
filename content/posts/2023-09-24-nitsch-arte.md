@@ -21,7 +21,7 @@ Over the years - they began in 1975 - the “actions” featured animal slaughte
 
 In Genoa, a video of an action from 2020 lends context to the artworks elsewhere in the gallery. It’s a bit tamer than the one I saw in London: this time, a robed woman and a naked man are hoisted up on crosses and basted in a blood-coloured substance. They're backed up by a droning orchestra and watched over by Nitsch who sits at the foot of the cross in a folding chair.
 
-While I appreciate Nitsch’s importance in the movement towards performance art in the 60s and 70s - he was working at around the same time as Beuys and the Fluxus group - I have to say I found the whole scene a bit ridiculous. The blood is poured on the volunteers out of a plastic pyrex glass, and the artist seems bored and distracted, sipping water and whispering instructions to assistants.
+While I appreciate Nitsch’s importance in the movement towards performance art in the 60s and 70s - he was working at around the same time as Beuys and the Fluxus group - I have to say I found the whole scene a bit ridiculous. The blood is poured on the volunteers out of a plastic pyrex jug, and the artist seems bored and distracted, sipping water and whispering instructions to assistants.
 
 Which isn’t really the kind of aversion Nitsch likely had in mind. Then again, I had seen this video off the back of two days of solid churchgoing, so perhaps I was just sick of it all, and ready to purge.
 
