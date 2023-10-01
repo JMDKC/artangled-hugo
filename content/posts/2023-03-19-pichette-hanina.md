@@ -15,7 +15,7 @@ Everything sounds better in French. Their version of massive, heavy, dour post-w
 
 Perhaps their happiness came from the large amount of government support on offer. [This exhibition](http://www.haninafinearts.com/exhibitions/protean#19) focuses on paintings from artists who benefitted from the “1% policy” - promoted by the novelist André Malraux, who became France’s first cultural affairs minister in the post-war years. The policy got its nickname because that was the proportion of construction costs that, by law, needed to be spent on artwork. And, given the enormous war damages in the country, this meant an enormous amount of money for public art.
 
-![James Pichette, 'Soleil Levant' (1955)](images/pichette-hanina-1.jpeg)
+![James Pichette, 'Soleil Levant' (1955)](/pichette-hanina-1.jpeg)
 
 The 1% policy funded Gustave Singier’s abstract mosaic in the huge concrete ring of the *Maison de la Radio* in Paris - recently restored. It also paid for large public sculptures in stainless steel by Claude Viseux. And provided support for artists who are still globally-known and shown like Pierre Soulages and Victor Vasarely.
 
