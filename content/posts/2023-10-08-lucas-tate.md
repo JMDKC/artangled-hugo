@@ -1,6 +1,6 @@
 ---
 title: "Sarah Lucas: Happy Gas | Tate Britain"
-date: 2023-10-08
+date: 2023-10-07
 slug: "/lucas-tate"
 tags:
   - Sarah Lucas 
