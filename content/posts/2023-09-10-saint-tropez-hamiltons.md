@@ -21,7 +21,7 @@ Just once, Garner turns the camera on himself, taking a photograph in a cracked 
 
 ![Philippe Garner, 'Alimentation' (c.1975)](/saint-tropez-hamiltons-2.jpeg)
 
-In another series, Garner leaves the beach and takes in the town. Here, his focus is on decrepit signage and posters. He shares this interest with Luigi Ghirri, who was taking similar, if rather less sentimental, photographs at around the same time.
+In another series, Garner leaves the beach and takes in the town. Here, his focus is on decrepit signage and posters. He shares this interest with [Luigi Ghirri](https://artangled.com/tags/luigi-ghirri/), who was taking similar, if rather less sentimental, photographs at around the same time.
 
 Anyway, the example above, *Alimentation*, is particularly pretty, and represented a welcome break from the sweaty flesh displayed elsewhere on the gallery walls. My own flesh stayed sweaty, though, and I eventually went back out into the last of the summer heat.
 
