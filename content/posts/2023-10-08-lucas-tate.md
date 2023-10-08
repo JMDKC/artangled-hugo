@@ -1,6 +1,6 @@
 ---
 title: "Sarah Lucas: Happy Gas | Tate Britain"
-date: 2023-10-07
+date: 2023-10-08
 slug: "/lucas-tate"
 tags:
   - Sarah Lucas 
@@ -22,6 +22,6 @@ Lucas owes an obvious debt to pioneering feminist artists like [Louise Bourgeois
 
 The same can’t be said for the Tate curators, who put these fragile soft sculptures behind a rope with at least six feet of leeway between them and the exhibition-going crowds. It’s a shame - all the more so given that the *Bunnies*, as objects, are so charming and interesting. We all smiled in this room, like we’d just been huffing some happy gas. We want to get closer, but can’t.
 
-Anyway, that safety-first attitude couldn’t be further away from the kind of thing Lucas is driving at with her art, of course. 
+That safety-first attitude couldn’t be further away from what Lucas is driving at with her art, of course. 
 
 *Sarah Lucas: Happy Gas is at Tate Britain (London). 28 September 2023 - 24 January 2024*
