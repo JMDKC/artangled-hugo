@@ -18,9 +18,9 @@ It’s LVMH money that brought all these stellar artworks together, on the walls
 
 A small side room’s the highlight: works including Lucian Freud’s 1946 *[Pigeon](https://www.waterman.co.uk/exhibitions/87/works/images1441/)* are surveyed by a small batallion of pigeon-shaped purses, on sale (or not, if they want to keep it scarce and boost value) at your local JW Anderson store. I’d seen these stupidly impractical objects all over social media in recent months: the pigeon purse is loved by influencers worldwide. And I have to admit, seeing them up close, with their sweet little pockets, hinged on the wing, I kind of wanted one too.
 
-The clever curator mixed in a couple of different coloured pigeons, which I later found out are from a “collab” (as the influencers would call it) between Anderson and the British artist Anthea Hamilton. These retail for north of £2,000 each. The Freud is worth quite a lot more, but I barely glanced at ****that****.
+The clever curator mixed in a couple of different coloured pigeons, which I later found out are from a “collab” (as the influencers would call it) between Anderson and the British artist Anthea Hamilton. These retail for north of £2,000 each. The Freud is worth quite a lot more, but I barely glanced at *that*.
 
-And of course, LVMH, owners of Loewe, part-owner of Anderson, and the financial force behind this covetable selection of artworks and luxury goods, is worth far more than you or I could ever imagine. 
+And of course, LVMH, owners of Loewe, part-owner of Anderson, and the financial muscle behind this covetable selection of artworks and luxury goods, is worth far more than you or I could ever imagine. 
 
 I don’t want to sound disapproving, given that I enjoyed the show so much. I take moral cover in the obvious enjoyment its curator, that whimsical trickster, himself took in putting it all together.
 
