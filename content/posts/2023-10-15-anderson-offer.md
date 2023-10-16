@@ -22,6 +22,6 @@ The clever curator mixed in a couple of different coloured pigeons, which I late
 
 And of course, LVMH, owners of Loewe, part-owner of Anderson, and the financial muscle behind this covetable selection of artworks and luxury goods, is worth far more than you or I could ever imagine. 
 
-I don’t want to sound disapproving, given that I enjoyed the show so much. I take moral cover in the obvious enjoyment its curator, that whimsical trickster, himself took in putting it all together.
+I don’t want to sound disapproving, given that I enjoyed the show so much. I take moral cover in the obvious enjoyment its curator himself took in putting it all together. Maybe that's the trick.
 
 *On Foot: An exhibition curated by Jonathan Anderson is at Offer Waterman (London). 18 September - 28 October 2023*
