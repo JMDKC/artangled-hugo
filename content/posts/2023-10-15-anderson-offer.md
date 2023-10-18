@@ -10,7 +10,7 @@ tags:
   - London 
 ---
 
-[This show](https://www.waterman.co.uk/exhibitions/87-on-foot-an-exhibition-curated-by-jonathan-anderson/) attempts a hard-to-pull-off trick: creating a sense of whimsy and joy through vast financial muscle. Luckily, it’s curated by someone who mastered the trick long ago: Jonathan Anderson, the young fashion designer who achieved early fame with his eponymous brand, and now, as creative director of luxury brand Loewe, is now backed by the full might of the [world’s richest man](https://www.forbes.com/sites/kerryadolan/2023/04/04/the-worlds-richest-person-2023/).
+[This show](https://www.waterman.co.uk/exhibitions/87-on-foot-an-exhibition-curated-by-jonathan-anderson/) attempts a hard-to-pull-off trick: creating a sense of whimsy and joy through vast financial muscle. Luckily, it’s curated by someone who mastered the trick long ago: Jonathan Anderson, the young fashion designer who achieved early fame with his eponymous brand, and now, as creative director of luxury brand Loewe, is backed by the full might of the [world’s richest man](https://www.forbes.com/sites/kerryadolan/2023/04/04/the-worlds-richest-person-2023/).
 
 It’s LVMH money that brought all these stellar artworks together, on the walls of this small Mayfair gallery: the works are all British, generally from a midcentury London-based A-lister, with Freud, Auerbach, Hepworth, Hockney and Kossoff all present and correct. But it’s Anderson’s imagination that contextualises this show-off excess, with several of his hilarious creations - dresses and accessories - also on display.
 
