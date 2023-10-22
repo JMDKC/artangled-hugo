@@ -14,7 +14,7 @@ tags:
 
 Gagosian Open is a new series of “off-site” projects from the world’s bougiest private gallery chain. So, instead of a white cube prowled by besuited security guards like usual, the exhibition takes place in a gorgeous 300-year-old Shoreditch house - a space which took up way more of my fellow gallery-goers’ attention than the art did. Mine too, to be honest.
 
-![christo-gagosian-1.jpeg](2023-10-22-christo-gagosian%20873d7a8486ad4fd5903780158717f08e/christo-gagosian-1.jpeg)
+![Christo: Early Works - Installation View](/christo-gagosian-1.jpeg)
 
 I tried my best to focus and form opinions on the small, slumpy wrapped-up works, on plinths and in vitrines, centre stage in this gorgeously dilapidated space. When they got going in the 50s, Christo and his wife Jeanne-Claude were part of a global movement towards repurposing everyday found objects into artworks: there’s a straight line of inspiration from these paper and fabric bound “sculptures” and Burri’s burnt sackcloth, or Rauschenberg’s bed. Even so, these works were upstaged by the old townhouse’s floorboards and panelled ceiling. They didn’t grab my attention, distracted as I was by both the gorgeous gallery and the constant moans of the floorboards around me as the similarly-distracted crowds circulated through.
 
