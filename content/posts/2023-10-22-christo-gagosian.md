@@ -16,12 +16,12 @@ Gagosian Open is a new series of “off-site” projects from the world’s boug
 
 ![Christo: Early Works - Installation View](/christo-gagosian-1.jpeg)
 
-I tried my best to focus and form opinions on the small, slumpy wrapped-up works, on plinths and in vitrines, centre stage in this gorgeously dilapidated space. When they got going in the 50s, Christo and his wife Jeanne-Claude were part of a global movement towards repurposing everyday found objects into artworks: there’s a straight line of inspiration from these paper and fabric bound “sculptures” and Burri’s burnt sackcloth, or Rauschenberg’s bed. Even so, these works were upstaged by the old townhouse’s floorboards and panelled ceiling. They didn’t grab my attention, distracted as I was by both the gorgeous gallery and the constant moans of the floorboards around me as the similarly-distracted crowds circulated through.
+I tried my best to focus and form opinions on the small, slumpy wrapped-up works, on plinths and in vitrines, centre stage in this gorgeously dilapidated space. When they got going in the 50s, Christo and his wife Jeanne-Claude were part of a global movement towards repurposing everyday found objects into artworks: there’s a straight line of inspiration from these paper and fabric bound “sculptures” and Burri’s burnt sackcloth, or Rauschenberg’s bed. Even so, they didn’t grab my attention, distracted as I was by both the gorgeous gallery and the constant moans of the floorboards around me, as the similarly-distracted crowds circulated through.
 
 Right at the top of the townhouse, up a whole lot of creaky stairs, in a vitrine, is *Package,* from 1963. It’s an asymmetrical little brown paper bundle, casually tied with string, with a sheen of resin on top. (The show notes’ reference to the packages’ “meticulously latticed ligatures” is flat wrong, at least in this case.) I tried to focus, knowing it’d be the last little Christo I’d get a look at for a while.
 
-Then a loud, self-confident old woman gave me a bit of historical context, underlying the intentional normalcy of these objects, in the time they were made. “I like the waxed paper aspect,” she boomed to her friend. “It takes me back to very early childhood. A package from the butchers.”
+Across the room, a loud, self-confident old woman who'd climbed the stairs right behind me offered a bit of historical context. “I like the waxed paper aspect,” she boomed to her friend, on entering the room. “It takes me back to very early childhood. A package from the butchers.”
 
-As normal and commonplace as these floorboards and paneling would have been in the 1700s, when the house was built, in other words.
+The package is as normal and commonplace an object, in 1963, as the room would have been in the 1700s, when the house was built. Through time, they became worthy of closer attention.
 
 *Christo: Early Works is at Gagosian Open (London). 06 - 22 October 2023*
