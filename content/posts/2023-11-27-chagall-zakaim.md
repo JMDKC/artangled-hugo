@@ -1,11 +1,11 @@
 ---
 title: "Marc Chagall: Love and Luminosity | Alon Zakaim Fine Art"
-date: 2023-11-19
-slug: "/friedrich-hetzler"
+date: 2023-11-27
+slug: "/chagall-zakaim"
 tags:
-  - Friedrich Kunath
-  - Caspar David Friedrich
-  - Max Hetzler
+  - Marc Chagall 
+  - Pablo Picasso
+  - Henri Matisse
   - London 
 ---
 
