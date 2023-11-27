@@ -1,6 +1,6 @@
 ---
 title: "Marc Chagall: Love and Luminosity | Alon Zakaim Fine Art"
-date: 2023-11-27
+date: 2023-11-26
 slug: "/chagall-zakaim"
 tags:
   - Marc Chagall 
