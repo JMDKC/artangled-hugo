@@ -19,7 +19,7 @@ These images are objects of pure fantasy, then. That said, the bravery and deter
 
 Chen originally called this show *Utopia*, before reconsidering. Life was no picnic for a woman going to university in the 1920s, regardless of how cool they looked. Adding a single word, *Theatre* to the title also undercuts the fantasy, lending a certain critical distance to the artist's stance.
 
-I personally think she should have stuck with *Utopia*. These fantasy gals, lit up in unreal colours, surrounded by beautiful objects and symbols of go-ahead modernity, don’t seem deserving of being encumbered by the day-to-day reality of societal oppression - even if that's what the models in those Taschen book photographs actually faced. Certainly, as I looked at them, I felt the chill of the winter day seeping away.
+I personally think she should have stuck with *Utopia*. These fantasy gals, lit up in unreal colours, surrounded by beautiful modernity, don’t deserve to be burdened by day-to-day societal oppression. Even if that's what the models in those Taschen book photographs actually faced, day-to-day. Certainly, as I looked at the gals, I felt the chill of the Parisian winter seeping away. I was somewhere else.
 
 I bet Chen felt the same when she painted them, on the other side of the world, in another century…
 
