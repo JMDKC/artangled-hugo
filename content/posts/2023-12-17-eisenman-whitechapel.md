@@ -10,7 +10,7 @@ tags:
   - London
 ---
 
-[This retrospective](https://www.whitechapelgallery.org/exhibitions/nicole-eisenman-what-happened/) - the American artist’s first in the UK, despite being active and famous since the 1990s - is a testament to a master. Eisenman’s specific mastery is in her handling of paint, and it’s pretty thrilling to witness what she does with it across several large rooms in the Whitechapel Gallery.
+[This retrospective](https://www.whitechapelgallery.org/exhibitions/nicole-eisenman-what-happened/) - the American artist’s first in the UK, despite being active and famous since the 1990s - is a testament to a master. Eisenman’s specific mastery is in the handling of paint, and it’s pretty thrilling to witness what she does with it across several large rooms in the Whitechapel Gallery.
 
 Her early canvases and murals were densely populated and smoothly-textured, fun and jokey: one particularly eyecatching work on the wall at Whitechapel shows a parade of brawny women beamingly hacking off the penises of their male victims, though they seem to be taking so much pleasure in their tasks it’s hard to be annoyed at them. 
 
@@ -19,7 +19,7 @@ As the decades pass and the mastery increases, Eisenman makes increasingly virtu
 ![Nicole Eisenman 'The Darkward Trail' (2018)](/eisenman-whitechapel-1.jpeg)
 *Image credit: Tate*
 
-Things hit a kind of peak with her latest works, which respond more directly to the political situation in the US, and more specifically the rise of right wing extremists to positions of power. One subject wears a red MAGA hat as he deliberately belches out black exhaust smoke from his pickup truck (*Dark Light*, from 2017). Pointing out that bigots are dreadful is not a subtle or novel political insight, but why should we expect that from soneone who is so extravagantly talented at doing other things? Speaking of which, let's look at Eisenman's commanding handling of the central figure in *The Darkward Trail*, a 2018 work, pictured above, that will happily stay in the UK after [being acquired by Tate](https://www.tate.org.uk/art/artworks/eisenman-the-darkward-trail-t15138).
+Things hit a kind of peak with her latest works, which respond more directly to the political situation in the US, and more specifically the rise of right wing extremists to positions of power. One subject wears a red MAGA hat as he deliberately belches out black exhaust smoke from his pickup truck (*Dark Light*, from 2017). Pointing out that bigots are dreadful is not a subtle or novel political insight, but why should we expect that from someone who is so extravagantly talented at doing other things? Speaking of which, let's look at Eisenman's commanding handling of the central figure in *The Darkward Trail*, a 2018 work, pictured above, that will happily stay in the UK after [being acquired by Tate](https://www.tate.org.uk/art/artworks/eisenman-the-darkward-trail-t15138).
 
 Looked at from below, I could see that this chubby, shorts-clad, mule-riding man had had his fat pink knees delineated by just a few arced brush strokes. A shiny mini-rainbow of flesh that probably took its creator a few seconds to carve into the canvas. But she needed a whole lifetime of learning to be *able* to carve it.
 
