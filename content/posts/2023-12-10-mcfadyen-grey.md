@@ -1,7 +1,7 @@
 ---
 title: "Jock McFadyen: Underground | Grey Gallery"
 date: 2023-12-10
-slug: "/macfadyen-grey"
+slug: "/mcfadyen-grey"
 tags:
   - Jock McFadyen
   - Jem Finer
@@ -13,7 +13,7 @@ I’ve [long been a fan](https://artangled.com/posts/steggles-beecroft/) of the 
 
 Finer, a founder member of rock group The Pogues, originally composed a soundtrack for the show that was partly recorded from the London Underground. It featured the announcements and signal sounds that form part of the ambience of any London commuter’s life. These sounds would have closely reflected what was shown in the paintings: a series painted by McFadyen in the 1990s, depicting various tube stations.
 
-![Jock McFadyen 'Aldgate East' (date not found, late 1990s)](/macfadyen-grey-1.jpeg)
+![Jock McFadyen 'Aldgate East' (date not found, late 1990s)](/mcfadyen-grey-1.jpeg)
 
 *Aldgate East*, above, is a wonderful example: the grandeur of the generous staircase offset by the pitiless artificial lighting; the elegance of the trellis gate next to the murkiness of the tunnel. Rendering a place that local residents (myself included) have passed through thousands of times. But rendering it in a way that makes it somehow separate from the day to day: familiar - and strange.
 
