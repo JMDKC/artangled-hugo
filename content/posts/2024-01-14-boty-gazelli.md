@@ -12,7 +12,7 @@ tags:
   - London
 ---
 
-The list of renowned artists who have also been raving physical beauties themselves is short. Raphael, maybe. Fantin-Latour, probably, if you take his self portraits for truth. Beautiful female artists? The list is even shorter: such women move through life with many massive advantages, but having their work taken seriously isn’t one of them.
+The list of renowned artists who have also been raving physical beauties themselves is short. Raphael, maybe. Fantin-Latour, probably, if you take his self portraits for truth. Famous and beautiful female artists? The list is even shorter: such women move through life with many massive advantages, but having their work taken seriously isn’t one of them.
 
 That’s been the fate of the original and talented British Pop artist Pauline Boty, who died in 1966, aged 28, in [almost unbelievably tragic circumstances](https://www.theguardian.com/books/2016/oct/22/ali-smith-the-prime-of-pauline-boty). Her paintings and collages quickly fell into obscurity, thanks in large part to the sexism of the Swinging Sixties milieu she worked in. Her side gig as an actress left her more lasting fame, at least to start with, and left no room for her art.
 
