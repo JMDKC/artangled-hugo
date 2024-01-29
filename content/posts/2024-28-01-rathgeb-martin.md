@@ -9,11 +9,11 @@ tags:
   - London
 ---
 
-The paintings in this week’s featured show form [a kind of sequel to last week](https://artangled.com/posts/cesarotto-artist-room/). Both times now, I’m writing about small paintings in egg tempera: a quick-drying paint technique used in the early Renaissance that produces notably luminous and brilliant colours.
+The paintings in this week’s featured show form [a kind of sequel to last week](https://artangled.com/posts/cesarotto-artist-room/). Both times now, I’m writing about small paintings in egg tempera: a quick-drying paint technique that produces notably luminous and brilliant colours.
 
 But where Michele Cesarotto looked to his native Italian landscapes for his work, Heidrun Rathgeb, [currently on show at John Martin Gallery](https://www.jmlondon.com/viewing-room/49-heidrun-rathgeb-north-of-the-sun/), looks north. Born in Germany, she had a residency in Norway recently, and took a lot of hikes in the local area.
 
-The resulting works, tiny paintings on gesso panels, have an overwhelming sense of cosiness and comfort.
+The resulting works, tiny paintings on gesso panels, share an overwhelming sense of cosiness and comfort.
 
 ![Heidrun Rathgeb 'A Quiet Night' (2023)](/rathgeb-martin-1.jpeg)
 
