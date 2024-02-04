@@ -5,7 +5,7 @@ slug: "/rathgeb-martin"
 tags:
   - Heidrun Rathgeb
   - Michele Cesarotto
-  - John Martin Galleryy
+  - John Martin Gallery
   - London
 ---
 
