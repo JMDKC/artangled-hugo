@@ -20,8 +20,8 @@ I don’t know if Pope.L knew his end was near when he installed _Eating The Wal
 
 Pope.L used to perform this piece, sat on a wooden tower, eating a copy of America’s premier financial newspaper, washed down with ketchup and milk. But now, the towers (there are three) are in various states of collapse, covered in dust. Visitors are encouraged to add more still, from dusty wall-mounted bowls.
 
-Look closely, and there are copies of the _Wall Street Journal_, scattered among the debris, among other detritus, including fishing rods and a toilet. One headline stood out: _Startups Struggle To Stay in Business As Funds Dry Up._ (Pope.L's original performance of the work, back in 2000, was inspired by an ad claiming that a person could increase their wealth just by buying a copy of the paper.) Companies, wealth, the day's paper, new once, but eventually, all buried under dust.
+Look closely, and there are copies of the _Wall Street Journal_, scattered among the debris, among other detritus, including fishing rods and a toilet. One headline stood out: _Startups Struggle To Stay in Business As Funds Dry Up._ (Pope.L's original performance of the work, back in 2000, was inspired by an ad claiming that a person could increase their wealth just by buying a copy of the paper.) Companies, wealth, the day's paper: new once, but eventually, all buried under dust.
 
-Nothing lasts forever - including this installation. Including the artist.
+Nothing lasts forever - including this installation, and its creator.
 
 _Pope.L: Hospital is at South London Gallery (London). 21 November 2023 - 11 February 2024_
