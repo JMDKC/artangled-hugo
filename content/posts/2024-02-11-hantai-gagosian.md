@@ -21,6 +21,6 @@ Folds run through the surface of these canvases like fissures. That’s due to t
 
 Just as clear skies can shift, suddenly, even in the south. When I arrived in Rome, it was warm and clear; when I left, torrential rain was lashing the runway.
 
-In 1982, soon after completing his tabulas, Hantaï suffered a mysterious crisis of confidence and stopped exhibiting. (He died in 2008.) Maybe these grids, superficially enticing as they are, hint, in their troubled surfaces, at the troubles to come.
+Or when, in 1982, soon after completing his tabulas, Hantaï suffered a mysterious crisis of confidence and stopped exhibiting. He died in 2008. Maybe these grids, superficially enticing as they are, hint, in their troubled surfaces, at the troubles to come.
 
 _Simon Hantaï: Azzurro is at Gagosian (Rome). 02 February - 30 March 2024_
