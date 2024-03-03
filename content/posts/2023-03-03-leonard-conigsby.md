@@ -1,7 +1,7 @@
 ---
 title: "Michael Leonard | Conigsby Gallery"
 date: 2024-03-03
-slug: "/stehli-marlborough"
+slug: "/leonard-conigsby"
 tags:
   - Michael Leonard
   - Henry Miller Fine Art
