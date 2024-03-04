@@ -9,9 +9,9 @@ tags:
   - London
 ---
 
-Michael Leonard was a successful portraitist, who first exhibited in the early 70s, and painted and selling up to his death last summer, around his 90th birthday. Reader’s Digest magazine nominated him to paint a portrait of Queen Elizabeth II on his 65th birthday. Less publicly, he also drew and painted hunky men getting into and out of their underwear.
+The painter Michael Leonard died last summer, around his 90th birthday. He was successful: in the 80s, Reader’s Digest magazine nominated him to paint a portrait of Queen Elizabeth II on her 65th birthday. Less publicly, he also drew and painted hunky men getting into and out of their underwear.
 
-This latter group is well represented in [this show of Leonard’s work](https://coningsbygallery.com/exhibition/michael-leonard-february-2024), put together by Henry Miller, whose eponymous gallery focuses on the “male form”. Henry was at the gallery when I visited, pointing out that it was likely to be the last time these works - large portrait paintings, pages from sketchbooks, photographs of his muscular models - would be shown together, unless a public gallery gets interested at some point in the future. “It will gradually drift away,” he added. With that in mind, the many red dots next to the works on show seemed a bit poignant.
+This latter group is well represented in [this show of Leonard’s work](https://coningsbygallery.com/exhibition/michael-leonard-february-2024), put together by Henry Miller, whose eponymous gallery focuses on the “male form”. Henry was at the gallery when I visited, pointing out that it was likely to be the last time these works - large portrait paintings, pages from sketchbooks, photographs of Leonard's muscular models - would be shown together, unless a public gallery gets interested in the artist at some point in the future. “It will gradually drift away,” he added. With that in mind, the many red dots next to the works on show seemed a bit poignant.
 
 ![Michael Leonard 'Stretch (Colour Study)' (1999)](/leonard-conigsby-1.jpeg)
 
