@@ -12,7 +12,7 @@ Emanuelle Castellan, a French painter who’s based in Berlin, showed [a collect
 
 So, a re-enactment of a re-enactment. Art that is reconstituted, doubly. With all these degrees of separation from life, what was it that grabbed me about Castellan’s paintings with such force? They pulse with watchful female energy: her figures, witch-like, crouch over bonfires, thoughtfully perch on chairs, stare out from the canvas. Dreamy but intense; gorgeously moody; avatars of yonic power.
 
-![/castellan-valentin-1.jpeg](castellan-valentin-1.jpeg)
+![/castellan-valentin-1.jpeg](/castellan-valentin-1.jpeg)
 _waiting for the embers (2020)_
 
 I have no idea what the plot of the movie (and exhibition?) is. I'm just going on vibes. The “reconstitution” means that it shouldn’t matter, that this way of seeing is appropriate. Even Castellan’s muted colour palette of yellows and greens is an invention: the film’s in black and white, just like Duras’ words on the page.
