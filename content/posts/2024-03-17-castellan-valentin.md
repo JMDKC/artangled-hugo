@@ -8,7 +8,7 @@ tags:
   - London
 ---
 
-Emanuelle Castellan, a French painter who’s based in Berlin, showed [a collection of work](https://www.galeriechezvalentin.com/expositions/reconstitution-une-exposition-d-emmanuelle-castellan) which has stayed with me since I saw it in Paris a few days ago. If life itself is the source of art, then Castellan paints at several, deliberately imposed, removes from this source. This collection was inspired by a Marguerite Duras film, _[Nathalie Granger_, from 1972](https://www.imdb.com/title/tt0068991/).
+Emanuelle Castellan, a French painter who’s based in Berlin, showed [a collection of work](https://www.galeriechezvalentin.com/expositions/reconstitution-une-exposition-d-emmanuelle-castellan) which has stayed with me since I saw it in Paris a few days ago. If life itself is the source of art, then Castellan paints at several, deliberately imposed, removes from this source. This collection was inspired by [a Marguerite Duras film](https://www.imdb.com/title/tt0068991/), _Nathalie Granger_, from 1972.
 
 So, a re-enactment of a re-enactment. Art that is reconstituted, doubly. With all these degrees of separation from life, what was it that grabbed me about Castellan’s paintings with such force? They pulse with watchful female energy: her figures, witch-like, crouch over bonfires, thoughtfully perch on chairs, stare out from the canvas. Dreamy but intense; gorgeously moody; avatars of yonic power.
 
