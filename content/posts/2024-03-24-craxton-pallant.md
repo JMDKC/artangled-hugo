@@ -21,7 +21,7 @@ Craxton only sold work when he felt like it, lived on a shoestring, embraced his
 
 _Two Figures and Setting Sun (1952-1967). Credit: Estate of John Craxton_
 
-Some of the work is quite beautiful. The example above was shown in a (pretty unsuccessful, but the artist didn’t much care) 1960s retrospective at the Whitechapel Gallery. Two beautiful men gambol in the sunlight, against a backdrop of sea, sun and mountain. The poses seem to be taken from antiquity. The octopus brandished by one of the men adds to the surreal atmosphere, though there’s nothing really unsettling about the scene. We are comforted, and warmed - a common feeling for Craxton's viewers.
+Some of the work is quite beautiful. The example above was originally shown in a (pretty unsuccessful, but the artist didn’t much care) 1960s retrospective at the Whitechapel Gallery. Two beautiful men gambol in the sunlight, against a backdrop of sea, sun and mountain. The poses seem to be taken from antiquity. The octopus brandished by one of the men adds to the surreal atmosphere, though there’s nothing really unsettling about the scene. We are comforted, and warmed - a common feeling for Craxton's viewers.
 
 Looking through the tags on this site, I realise that I featured Pallant House, which hosted the Craxton show, once before on this site. In 2011, it put together an Edward Burra retrospective, which [I featured in one of the posts I wrote in lockdown](https://artangled.com/posts/burra-pallant/), when, not being able to visit any galleries, I wrote instead about works that were on my mind, and in my imagination.
 
