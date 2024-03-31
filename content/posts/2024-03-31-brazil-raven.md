@@ -18,7 +18,7 @@ _Alicena cor de fogo (Alicena colour of fire)_, by Genaro de Carvalho, is made o
 
 The clash between the colourfully Afro-folky on one side, and Euro-inspired sleekness on the other, is repeated again and again across multiple floors of this rambling gallery. You can see as good an example as any below: a modernist sculpture surrounded by colourful scenes of gathering crops, going to church, partying.
 
-![Some May Work as Symbols: Art Made in Brazil 1950s-70s (installation view)](/brazil-raven.jpeg)
+![Some May Work as Symbols: Art Made in Brazil 1950s-70s (installation view)](/brazil-raven-1.jpeg)
 
 The show’s catalogue, while unfailingly thorough in giving the viewer the background of each artist, leaves much unsaid. The photos tell their own story: one set shows gatherings at smart São Paulo and Rio de Janeiro galleries, with white artists that are themselves represented at the show like Lygia Pape and Ivan Serpa. The folk art is from artists often living in Salvador, who, the catalogue reveals are almost all black. The former group tend to get survey shows these days in Europe and North America, of course. The new Raven Row exhibition redresses the balance, a bit.
 
