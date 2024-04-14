@@ -11,7 +11,7 @@ tags:
   - Eduardo Paolozzi
   - Pierre Soulages
   - Hans Hartung
-  - Marc Rothko
+  - Mark Rothko
   - London
 ---
 
