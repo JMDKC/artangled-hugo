@@ -18,9 +18,9 @@ A resplendently orange robe-clad woman leans back in a moment of repose - head t
 
 There are twelve paintings in the show, twelve different women, with a shared attitude. None speak or engage with their surroundings. They seem tranquil, grounded, confident in themselves. It matches the mood of the show’s title: _Quiet storm_ is a genre of silky smooth, 70s and 80s RnB music.
 
-The show notes go further and reference Francisco de Zurbarán's silent martyr portraits as matching McKinney's mood. Henri Matisse is another influence, which the artist makes clear by making one of her models match the pose from the French master's 'The Dance' - and featuring that work on one of the backgrounds of another.
+The show notes go further and reference Francisco de Zurbarán's silent martyr portraits as matching McKinney's mood. Henri Matisse is another influence, which the artist makes clear by making one of her models match the pose from the French master's 'The Dance' - and depicting the painting in the background of another work.
 
-Perhaps it’s the gallery-standard whiff of Diptyque candle, perhaps it’s the beautiful powder-purple walls, perhaps it’s some overspill from this moneyed part of town - but McKinney’s exhibition seems charged with a sense of high luxury. Maybe it’s in those deep avocado green interiors (other scenes feature gorgeously-coloured wood panelling). Maybe - most likely - it’s something to do with the attitude of these solitary women.
+Perhaps it’s the gallery-standard whiff of Diptyque candle, perhaps it’s the beautiful powder-purple walls, perhaps it’s some atmospheric overspill from this moneyed part of town - but McKinney’s exhibition seems charged with a sense of high luxury. Most likely it's in the paintings. It’s in those deep avocado green interiors, the gorgeous wood panelling, the Matisse. Maybe - most likely - it’s something to do with the attitude of these solitary women within the interiors.
 
 The protagonist of ‘Hold Your Breath’ is placed directly opposite the entrance. She’d be staring us down as we walk in, if she noticed. But she’s enjoying the moment with herself, her luxurious robe, her cigarette. We don’t register.
 
