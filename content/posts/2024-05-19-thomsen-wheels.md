@@ -9,14 +9,14 @@ tags:
   - London
 ---
 
-The grotty industrial inner suburbs of Milan have actually featured on here before, in my [frequent effusive posts](https://artangled.com/tags/mario-sironi/) about the early 20th century Italian painter Mario Sironi. He loved the glittering train tracks, the slab-like apartment blocks, the grimy pavements of those new parts of his adopted hometown. A century later, the Danish-born, UK-based artist Jesper List Thomsen offers a still more jaundiced perspective of the place. A perspective offered at [this new exhibition](https://hotwheelsgallery.eu/exhibitions/new-pictures-from-milano-centrale/).
+The grotty industrial inner suburbs of Milan have actually featured on here before, in my [frequent effusive posts](https://artangled.com/tags/mario-sironi/) about the early 20th century Italian painter Mario Sironi. He loved the glittering train tracks, the slab-like apartment blocks, the grimy pavements of those new parts of his adopted hometown. A century later, the Danish-born, UK-based artist Jesper List Thomsen has a still more jaundiced view of the place, according to [this new exhibition of his](https://hotwheelsgallery.eu/exhibitions/new-pictures-from-milano-centrale/).
 
-List Thomsen’s ways of working begin with writing, and end up with paintings that employ a broad variety of media: for the five on show at Hot Wheels, these include aluminium, enamel and water colour paints, along with aluminium, varnish and “traces of antibiotics”. The essay included in the show notes - which I assume reflects the views of the artist - is a proper rant against “abusive” “gaslighting” gentrification.
+List Thomsen’s ways of working begin with writing, and end up with paintings that employ a broad variety of media: for the five on show at Hot Wheels, these include aluminium, enamel and water colour paints, along with aluminium, varnish and “traces of antibiotics”. The essay included in the show notes - which I assume reflect the views of the artist - is a proper rant against “abusive” “gaslighting” gentrification.
 
 ![Jesper List Thomsen 'Untitled (NPFMC)' #8 and #9 (2024)](/thomsen-wheels-1.jpeg)
 _'Untitled (NPFMC)' #8 and #9 (2024)_
 
-The artist sees this gentrification around the shiny and expensive renovations of London’s Kings Cross St Pancras and Milano Centrale: inner suburban train termini. By contrast to years gone by, there are certainly a lot more shopping opportunities and everything’s cleaner. But I have to say, I’ve rarely encountered a sleazier time during daylight hours when I last walked out of Centrale a couple of years back, on my way to my Airbnb.
+The artist sees this gentrification in the shiny and expensive renovation of Milano Centrale station in recent years. But I have to say, I’ve rarely encountered a sleazier atmosphere during daylight hours when I last walked out of Centrale a couple of years back, on my way to my Airbnb. I can't imagine things are sparkling clean these days, regardless of the renovation efforts.
 
 List Thomsen’s paintings, looked at one way, reflect this kind of sleaze. His smudges of paint, across flat colour field backgrounds, seem like stains, or bruises. Splashes of food, vomit, footprints, sweat marks - the layers left behind by a huge amount of human traffic that passes through any train terminus. The artist doesn’t object to these. Instead, the source of his ire seems to be… the station shops.
 
