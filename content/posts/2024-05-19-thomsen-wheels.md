@@ -30,4 +30,4 @@ Either way, it’s artistic fuel. Both artists feed on Centrale like a hungry tr
 
 _New Pictures From Milano Centrale: Jesper List Thomsen is at Hot Wheels (London). 13 April - 03 June 2024_
 
-_Correction: Hot Wheels have been in touch, pointing out the show notes I quote from contrast the relatively ungentrified Milano Centrale with the much more tidied-up Kings Cross St Pancras, whereas I originally didn't mention the London terminus when quoting from them. This was misleading! I've edited the post, with my apologies._
+_Correction: Hot Wheels have been in touch, pointing out the show notes I quote from contrast the relatively ungentrified Milano Centrale with the much more tidied-up Kings Cross St Pancras. I originally didn't mention the London terminus when quoting from them. This was misleading! I've edited the post, with my apologies._
