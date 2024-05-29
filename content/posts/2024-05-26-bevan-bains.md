@@ -8,7 +8,7 @@ tags:
   - London
 ---
 
-As this exhibition’s title suggests, the multi-media artist Shaan Bevan is deeply interested in flowing water. In this single-room gallery, there are C prints of crashing waterfalls and waves, and intricate pencil drawings and stained glass depicting water, too, ebbing and flowing.
+As her new exhibition’s title suggests, the multi-media artist Shaan Bevan is deeply interested in flowing water. In this single-room gallery, there are C prints of crashing waterfalls and waves, and intricate pencil drawings and stained glass depicting water, too, ebbing and flowing.
 
 Bevan, who has a history of chronic illness, seems to find healing in these natural systems. But flowing water could also seem to an unhealed person like a flood of tears. Both emotions seem to intermingle in the works on show.
 
