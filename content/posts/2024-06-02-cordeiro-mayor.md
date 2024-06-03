@@ -16,7 +16,7 @@ It’s this last group, surprising and fascinating, printed out on frowsy, brown
 
 ![Waldemar Cordeiro 'The Woman who is not BB' (1971)](/corderio-mayor-1.jpeg)
 
-You could say Cordeiro was an artistic radical throughout his life. The rigorous modernism of art concret, with its loops and grids, was a total break from the past - and seems especially uncompromisingly in Brazil. Coredeiro himself called the São Paulo group of artists he was involved with _Ruptura_. A break with the past.
+You could say Cordeiro was an artistic radical throughout his life. He was helped by his milieu: the rigorous modernism of art concret, with its loops and grids, was applied especially uncompromisingly in Brazil. Coredeiro himself called the São Paulo group of artists he was involved with _Ruptura_. A break with the past.
 
 He first got involved with the radically new medium of computer art with the mainframe IBM system in the physics department of the city university: one of the first such machines in Brazil. Using code, he fed in photographs, and printed out the computer-generated output, with its binary runes, its Xes and Os, making the image harder to parse, but lending it something new and strange.
 
