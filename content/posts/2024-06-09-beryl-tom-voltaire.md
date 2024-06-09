@@ -10,7 +10,7 @@ tags:
   - London
 ---
 
-The fact that this exhibition is [made in partnership](https://studiovoltaire.org/whats-on/beryl-cook-and-tom-of-finland/) with Tom’s foundation and Beryl’s family, shows a stark distance between these two artists. Tom of Finland exiled himself to the sunny west coast of the USA, found a family of leather-clad hunks, and achieved a lasting posthumous reputation. Beryl Cook stayed at home in less-sunny Plymouth, kept herself to herself, and while finding lasting commercial success, won’t ever get anything as grand as her own foundation. The two artists never met, and there’s no indication they were even aware of the other’s work.
+The fact that this exhibition is [made in partnership](https://studiovoltaire.org/whats-on/beryl-cook-and-tom-of-finland/) with Tom’s foundation and Beryl’s family, shows a stark difference between the relative respectability these two artists. Tom of Finland exiled himself to the sunny west coast of the USA, found a family of leather-clad hunks, and achieved a lasting posthumous reputation. Beryl Cook stayed at home in less-sunny Plymouth, kept herself to herself, and while finding lasting popular success among the British public, won’t ever get anything as grand as her own foundation. The two artists never met, and there’s no indication they were even aware of the other’s work.
 
 But enough about the differences. I get that some people will see this bringing together of totally different artists as a curatorial contrivance - and have an aversion to exhibitions of this kind as a result. But I think this show convincingly shows that the two artists, separated by geography, social conditions and reputation, were kindred spirits in practically everything else.
 
@@ -27,6 +27,6 @@ The thing this exhibition brought home to me was that both artists were, ultimat
 
 This was brought home by the exhibition’s references to Edward Burra, a painter with a similar artistic viewpoint that [I’ve frequently featured on here](https://artangled.com/tags/edward-burra/) who the curators mention as a key influence on Beryl Cook. He was a still more extreme shut-in, bed bound, but still dreaming of the dockside café, the local scantily-clad prostitute, the parties happening elsewhere.
 
-All of these artist know that there are parties happening elsewhere; that they might be on the periphery; but that there’s another kind pleasure in looking.
+All of these artists knew that there are parties happening elsewhere; that they might be on the periphery; but that there’s another kind of pleasure to be found in looking.
 
 _Beryl Cook / Tom of Finland is at Studio Voltaire (London). 09 June - 25 August 2024_
