@@ -16,9 +16,9 @@ When I saw the large, chronologically-arranged [Baselitz retrospective at Centre
 ![Georg Baselitz 'Der Maler in seinem Bett usw. (The Painter in His Bed, etc.)' (2023)](/baselitz-white-cube-1.jpeg)
 *Der Maler in seinem Bett usw. (The Painter in His Bed, etc.)* (2023)
 
-Baselitz met Elke Kretschmar in 1958 and married her in 1962. The work above, then, is informed by over 60 years of history. The seated figures are picked out in purple and white splashes, their ageing faces and pendulous bodies ruthlessly picked out in oil paint.
+Baselitz met Elke Kretschmar in 1958 and married her in 1962. The work above, then, is informed by over 60 years of history. The seated figures are picked out in ruthlessly confident purple and white lines of thick oil paint. There’s a similar ruthlessness in the delineation of their ageing faces and pendulous bodies.
 
-But there’s a tremendous dignity and calm about their erect posture, their scrutiny of each other, their calm. The colours and background suggest an x-ray, or maybe that these figures are floating in space: the odd splash of white paint in the black space between them suggesting constellations of stars.
+But there’s also a tremendous dignity about their erect posture, their scrutiny of each other, their shared calmness. The colours and background suggest an x-ray, or maybe that these figures are floating in space: the odd splash of white paint in the black space between them suggesting constellations of stars.
 
 Baselitz portrays the same pair of figures in many of his absolutely distinctive spindly drawings, also on show. These are marked carefully by the date and an accompanying number: the exact tactic also employed by another old, prolific, valuable German artist - Gerhard Richter.
 
