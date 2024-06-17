@@ -9,9 +9,9 @@ tags:
   - London
 ---
 
-“I’m brutal, naive and gothic,” Georg Baselitz famously said. It's an unimprovable description of his work. Baselitz was part of a regeneration of painting in the latter half of the 20th century. And [this new London exhibition](https://www.whitecube.com/gallery-exhibitions/georg-baselitz-bermondsey-2024) demonstrates that he’s still going, in his mid-80s, with his spindly drawings and large canvases featuring his trademark upside-down figures.
+“I’m brutal, naive and gothic,” Georg Baselitz famously said. It's an unimprovable description of his work. Baselitz was part of a regeneration of figurative painting in the latter half of the 20th century. And [this new London exhibition](https://www.whitecube.com/gallery-exhibitions/georg-baselitz-bermondsey-2024) demonstrates that he’s still going, in his mid-80s, with his large canvases featuring his trademark upside-down figures.
 
-When I saw the large, chronologically-arranged [Baselitz retrospective at Centre Pompidou in 2021](https://www.centrepompidou.fr/en/program/calendar/event/RqzdcSS), I was beaten into exhausted submission by the end, my notes saying only: “The final room is quite depressing - double portraits of him and wife, inverted, blurry and skeletal.” It was good to see these paintings on fresher legs and with a more open mind, because they’re actually magnificent and moving.
+When I saw the large, chronologically-arranged [Baselitz retrospective at Centre Pompidou in 2021](https://www.centrepompidou.fr/en/program/calendar/event/RqzdcSS), I was beaten into exhausted submission by the end, my notes saying only: “The final room is quite depressing - double portraits of him and wife, inverted, blurry and skeletal.” It was good to see paintings of this kind on fresher legs and with a more open mind, because they’re actually magnificent and moving.
 
 ![Georg Baselitz 'Der Maler in seinem Bett usw. (The Painter in His Bed, etc.)' (2023)](/baselitz-white-cube-1.jpeg)
 *Der Maler in seinem Bett usw. (The Painter in His Bed, etc.)* (2023)
@@ -22,7 +22,7 @@ But there’s also a tremendous dignity about their erect posture, their scrutin
 
 Baselitz portrays the same pair of figures in many of his absolutely distinctive spindly drawings, also on show. These are marked carefully by the date and an accompanying number: the exact tactic also employed by another old, prolific, valuable German artist - Gerhard Richter.
 
-But these huge canvases of inverted people and animals are what I'll remember. I've reset them in my mind from being "quite depressing" to what they actually are: uplifting. Not only in their celestial stateliness, but also in the fact they are produced by a very old man, pushing through his own infirmity.
+But the new paintings - huge canvases of inverted people and animals, in pairs, in groups and all alone - are what I'll remember from the London show. I've reset these works in my mind from being "quite depressing" to what they actually are: uplifting. Not only in their celestial stateliness, but also in the fact they are produced by a very old man, pushing through his own infirmity.
 
 Does 'infirmity' sound too harsh? Well, one thing that’s new and distinctive about many of these works is a network of pale lines all across the canvases, seemingly overlaying the compositions beneath and disrupting them slightly. I read later that these lines come from two places: from the tracks of Baselitz's trolley of painting materials - and from the walking frame he now needs to get around. The lines look like a network, a web - or possibly wrinkles on a face. Mere marks on a face: the guiding artistic intelligence behind them is still going strong. The work still works. And that's ultimately so uplifting.
 
