@@ -1,7 +1,7 @@
 ---
 title: "Hermann Nitsch - Das Orgien Mysterien Theater | Massimo de Carlo"
 date: 2018-05-06
-slug: "/nitsch-de-carlo"
+slug: "/nitsch-massimo"
 tags:
   - Hermann Nitsch
   - Massimo de Carlo
@@ -12,7 +12,7 @@ I didn’t realise how Catholic a country Austria is until I arrived in the cent
 
 Hermann Nitsch, as is obvious from what’s on show, is a performance artist who hit it big in the post-war years. There's a whiff of 60s anarchy in these works, though many are new. He primarily uses Catholic imagery and paraphernalia, mixed in with some very deliberate provocations. For example altars, surrounded by huge canvases spattered with blood and mud, and surrounded by dead flowers in metal buckets.
 
-![Installation view](/nitsch-de-carlo.jpg)
+![Installation view](/nitsch-massimo.jpg)
 
 Luckily for the artist, the very genteel surroundings in this smart Mayfair gallery set his provocations off wonderfully.
 
@@ -22,4 +22,4 @@ If that wasn’t on-the-nose enough, the lower floor features archive footage of
 
 The show notes emphasise Nitsch’s “mysticism”, though I have to admit I caught a bit more of a Hammer Horror vibe – minus the humour of those 60s movies. The title of the show translates as ‘Theatre of Orgies and Mysteries’. There have been 100 performances over the years.
 
-*Hermann Nitsch - Das Orgien Mysterien Theater is at Massimo de Carlo (London). 11 April - 25 May 2018.*
+_Hermann Nitsch - Das Orgien Mysterien Theater is at Massimo de Carlo (London). 11 April - 25 May 2018._
