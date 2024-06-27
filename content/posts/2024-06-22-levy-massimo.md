@@ -16,6 +16,6 @@ Levy calls them “strange, furniture-like creatures”. The orange and red glas
 
 Levy added a carpet to the gallery’s floor, giving more of a plush atmosphere, but also allowing her to fix her impossibly wobbly forms to something, discreetly, so they don't fall over. In each room, her lamp-like, wall-mounted glass works strain outwards, the bulbous heads encased in metal claws, trying to get a better look at us.
 
-In a video accompanying the show, the artist adds that her inspirations ranged from the Art Noveau to photos of insects (the chair legs, looked at again, are very bug-like). It’s an arresting collection, grabbing our attention as surely as steel grips glass.
+In a video accompanying the show, the artist adds that her inspirations ranged from Art Noveau to photos of insects (the chair legs, looked at again, are very bug-like). It’s an arresting collection, grabbing our attention as surely as steel grips glass.
 
 _Hannah Levy: Bulge is at Massimo de Carlo (London). 23 May - 22 June 2024_
