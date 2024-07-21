@@ -9,7 +9,7 @@ tags:
   - London
 ---
 
-A [small but punchy show](https://www.katz.art/eventdetails/49969) brings teacher and pupil together. Frank Auerbach joined David Bomberg’s art class in the years following World War Two, and over the decades to come, came to be known for his gloomy landscape paintings of down-at-heel London scenes, thick with layer upon layer oil paint, built up on the canvas like accreted urban grime. He’s closely allied in my head with Leon Kossoff, who [I’ve featured separately on here before](https://artangled.com/posts/kossoff-annely-juda/).
+A [small but punchy show](https://www.katz.art/eventdetails/49969) brings teacher and pupil together. Frank Auerbach joined David Bomberg’s art class in the years following World War Two, and over the decades to come, came to be known for his lugubrious landscape paintings of London scenes, thick with layer upon layer of oil paint, built up on the canvas like accreted urban grime. He’s closely allied in my head with the similarly-gloomy Leon Kossoff, who [I’ve featured separately on here before](https://artangled.com/posts/kossoff-annely-juda/).
 
 There’s a couple of emblemetic Auerbach landscapes, blazing on the walls of the dimly-lit gallery. (The 20 or so works on show are drawn from private collections and, according to the gallerist, are generally not for sale.) _Mornington Crescent with the Statue of Sickert’s father in law, Cobden_, pictured below, from 1966 and pictured below, recasts a London street scene as a spindly hellscape, grids of craggy red and black paint picking out the architectral details.
 
