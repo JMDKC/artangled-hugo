@@ -19,8 +19,8 @@ There are also a couple of charcoal sketches of Primrose Hill, in which Auerbach
 
 ![Frank Auerbach 'Primrose Hill' (1972)](/auerbach-katz-2.jpeg)
 
-Pathway, hill, trees and sky are picked out in layer upon layer of impasto. The paint is so thick that individual hairs of Auerbach’s brush are visible. It’s as craggy and rough as a blustery London sky, a deeply-recognisable version of which is evocatively picked out above.
+Pathway, hill, trees and sky are picked out in layer upon layer of impasto. The paint is so thick that individual hairs of Auerbach’s brush are visible. It’s as craggy and rough as a blustery London sky, a deeply-recognisable version of which is picked out above.
 
-Providing context to all this are some evocative landscapes from teacher Bomberg, though these seem polite and sedate by comparison with his pupil. Bomberg painted more dramatic real-life landscapes - he travelled to Corsica, Ronda and Jerusalem. But Auerbach’s skill is to render familiar London places all the more exotic and strange, through his thick, craggy oil paint.
+Providing context to all this are some evocative landscapes from teacher Bomberg, though these seem polite and sedate when compared to his pupil's work. Bomberg painted more dramatic real-life landscapes - he travelled to Corsica, Ronda and Jerusalem. But Auerbach’s skill is to render familiar London places all the more exotic and strange, through his thick, craggy oil paint.
 
 _Bomberg - Auerbach is at Daniel Katz Gallery (London). 20 June - 19 July 2024_
