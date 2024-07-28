@@ -22,7 +22,7 @@ The show notes encourage us to reflect on how the “radicalised bodies” in th
 
 They didn’t encourage such reflections for me, mainly because the bodies on show were all so _hot_. The artist’s un-radical eye for beauty - once in people, now in things - drowns out any worthy political message, if any such message is even intended at this point.
 
-As I walked around the Nottingham galleries, I framed this show within [another I featured last week](https://artangled.com/posts/mckinney-boesky/), from another black artist with a taste for luxury - Danielle McKinney. Her painted women, in their gowns, smoking their cigarettes, seemed so much more slyly provocative and suggestive than Sepuya’s hot naked guys.
+As I walked around the Nottingham galleries, I framed this show within [another I featured last week](https://artangled.com/posts/mckinney-boesky/), from another artist with a taste for luxury - Danielle McKinney. Her painted women, in their gowns, smoking their cigarettes, seemed so much more slyly provocative and suggestive than Sepuya’s hot naked guys.
 
 But it's the beauty of the latter artist’s works - of all those reflections, in smudgy mirrors and camera lenses - that is going to enable him to buy a great many more beautiful things in future. Who wouldn’t want such lovely cushions, after all?
 
