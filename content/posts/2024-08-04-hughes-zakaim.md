@@ -9,9 +9,9 @@ tags:
   - London
 ---
 
-I [pointed out last week](https://artangled.com/posts/szalay-arusha/) that galleries are beginning to shut their doors for the summer, and of course the trend continues. In among the locked doors on Cork Street, Mayfair, though, is this [seasonally-themed group show](https://www.alonzakaim.com/exhibitions/the-spirit-of-summer/overview). Alon Zakaim Fine Art represents a real grab bag of artists - I [featured its excellent exhibition on Marc Chagall earlier in the year](https://artangled.com/posts/chagall-zakaim/), though it’s also shown many more contemporary pieces.
+I [pointed out last week](https://artangled.com/posts/szalay-arusha/) that galleries are beginning to shut their doors for the summer, and of course the trend is continuing as we move into August. But in among the locked doors and drawn blinds in Mayfair is this [seasonally-themed group show](https://www.alonzakaim.com/exhibitions/the-spirit-of-summer/overview). Alon Zakaim Fine Art represents a real grab bag of artists - I [featured its excellent exhibition on Marc Chagall earlier in the year](https://artangled.com/posts/chagall-zakaim/), though it’s also shown many more contemporary pieces - so is well equipped for this kind of thing.
 
-The spirit of summer could mean many things to many people, so accordingly this show is a real grab bag of styles and eras, from the cubist stylings of Ukrainian contemporary artist Ivan Turetskyy, to an almost pointillist street 1920s street scene from Achille Laugé. A couple of Chagalls appear too, of course. They’re unified, I suppose, by a sort of shared brightness and breeziness, a sense of light and heat; the show notes claim the focus is on “sun, pleasure and excursion”.
+The conceit for the exhibition is pretty loose. The spirit of summer could mean many things to many people, so accordingly this show is a real grab bag of styles and eras, from the cubist stylings of Ukrainian contemporary artist Ivan Turetskyy, to an almost pointillist street 1920s street scene from Achille Laugé. A couple of Chagalls appear too, of course. They’re unified, I suppose, by a sort of shared brightness and breeziness, a sense of light and heat; the show notes claim the focus is on “sun, pleasure and excursion”.
 
 ![Patrick Hughes 'Wet Rainbow for David' (1978)](/hughes-zakaim-1.jpeg)
 
