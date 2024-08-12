@@ -11,7 +11,7 @@ tags:
 
 That Camille Pissarro lived in Croydon is one of my favourite weird art historical facts. It’s just such an odd thought! But yes, one of the fathers of Impressionism crossed the channel at the outbreak of the Franco-Prussian war in the 1870s. He lived in what was then the village of Norwood for a couple of years, and recorded the bucolic scenes that surrounded him. Country landscapes as yet untouched by the suburban sprawl of future decades.
 
-The Pissarro family still maintains a London base: I stumbled across it on a summer Saturday in Mayfair. This gallery was opened by the artist’s great-granddaughter in 1964 and is apparently going strong. Stern Pissarro offers an “authentication service” along with putting on exhibition. The [latest of these is from Jean-Pierre Cassigneul](https://issuu.com/pissarro/docs/stern_pissarro-cassigneu-online?fr=xKAE9_zU1NQ), a portraitist with a tendency towards nostalgia, whose compositions would barely trouble the nineteenth century eye.
+The Pissarro family still maintains a London base: I stumbled across it on a summer Saturday in Mayfair. This gallery was opened by the artist’s great-granddaughter in 1964 and is apparently going strong. Stern Pissarro's [latest exhibition is from Jean-Pierre Cassigneul](https://issuu.com/pissarro/docs/stern_pissarro-cassigneu-online?fr=xKAE9_zU1NQ), a portraitist with a tendency towards nostalgia, whose compositions would barely trouble the nineteenth century eye.
 
 ![Jean-Pierre Cassigneul 'Aude' (2015)](/cassigneul-pissarro-1.jpeg)
 _Aude_ (2015)
