@@ -8,9 +8,9 @@ tags:
   - London
 ---
 
-Yiannis Maniatakos had a unique method for producing his works: symphonic landscapes of the sea beds that surrounded his home on the Greek island of Tinos. A keen diver, he _painted them underwater_. First, he prepped his canvases with a special water-repellent primer. Then, he went out to sea, weighted himself and his canvasses to the sea bed, and pressed his oil paints on to them iwith force.
+Yiannis Maniatakos had a unique method for producing his works: symphonic landscapes of the sea beds that surrounded his home on the Greek island of Tinos. A keen diver, he _painted them underwater_. First, he prepped his canvases with a special water-repellent primer. Then, he went out to sea, weighted himself and his canvasses to the sea bed, and pressed his oil paints on with force.
 
-There are four works of his [currently on show at Sylvia Kouvali](https://sylviakouvali.com/exhibitions/four-paintings/) - the pitilessly floor-lit, wall-tiled, one room gallery that was [formerly known as Rodeo](https://artangled.com/tags/rodeo/). The show notes tell us that Maniatakos dove for three to five hours at a time, when painting.
+There are four works of his [currently on show at Sylvia Kouvali](https://sylviakouvali.com/exhibitions/four-paintings/) - the pitilessly floor-lit, wall-tiled, one room gallery that was [formerly known as Rodeo](https://artangled.com/tags/rodeo/). The show notes tell us that Maniatakos dove for three to five hours at a time, when painting. So the production process was intense and impressive, regardless of the quality of the end result.
 
 ![Yiannis Maniatakos, 'Untitled' (2007)](/maniatakos-kouvali-1.jpeg)
 _Untitled_ (2007)
