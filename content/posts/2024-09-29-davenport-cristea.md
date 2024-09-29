@@ -12,7 +12,7 @@ This artist’s made a move from stripes to splotches, and I’m pleased to see 
 
 This latest collection of paintings and prints, [on show now at Cristea Roberts](https://cristearoberts.com/exhibitions/263-ian-davenport-pathway/), show a new direction.
 
-![Ian Davenport 'Set Piece' (2024)](davenport-cristea-1.jpeg)
+![Ian Davenport 'Set Piece' (2024)](/davenport-cristea-1.jpeg)
 _Set Piece (2024)_
 
 This new direction is pictured above, in a three metre wide work on paper with the tongue in cheek title, _Set Piece_. Davenport made it by filling syringes with acrylic paint and shooting them at the canvas. These cumulative splotches share their bright solid colours with the old stripe paintings, but with an additional, bracing element of chaos.
