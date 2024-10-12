@@ -20,7 +20,7 @@ _Ken’s birthday 15 years_, writes one schoolboy, in January 1942. _I had a fir
 
 Sometimes of course, for any diarist world events seem to fall away, and our own personal lives fill our minds. It was these entries where lack of mediation between thought and page became almost unbearable for me. The clear glass revealing simple joy and pain. In 1925, a boisterous Girl Guide brags about another _ripping time at school_. But then: _I did not go to guides because it was raining & I had a cold. Betty’s father died_.
 
-I said “heartbreaking” up top. In earlier times, death seemed all around; it’s around us still. I’m thinking about a small diary in the very first vitrine (which are arranged chronologically). In 1899, a woman who lived in the North of Scotland wrote, neatly, about her mother’s death. It was in the same week in early October that I was living in when I read it, just 125 years ago.
+I said “heartbreaking” up top. In earlier times, death seemed all around; it’s around us still. I’m thinking about a small diary in the very first vitrine (which are arranged chronologically). In 1899, a woman who lived in the north of Scotland wrote, neatly, about her mother’s death. It was in the same week in early October that I was living in when I read it, just 125 years ago.
 
 October 10th: _I heard of dear mother’s death this morn_.
 
