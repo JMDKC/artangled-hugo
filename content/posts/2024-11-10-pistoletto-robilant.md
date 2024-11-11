@@ -15,14 +15,14 @@ That said, the compositions are quite different. The mirrors I saw back in 2018 
 
 ![Michelangelo Pistoletto at Robilant + Voena (installation view)](/pistoletto-robilant-1.jpg)
 
-Six years later and [we are up the road in the much-grander Robilant+Voena space](https://www.robilantvoena.com/exhibitions/michelangelo-pistoletto). The mirrored works are generally new work (Pistoletto is alive and kicking at 91). They are self-consciously fancy. The series pictured above, ‘Black and Light’ (from 2024) on the left, ‘Vortex triptych’ (shown at the Louvre in 2013) on the right, employ dark and clear mirrored glass in vaguely groovy patterns. They’re surrounded by heavy, fancy gilded frames.
+Six years later and [Pistoletto is showing up the road in the much-grander Robilant+Voena space](https://www.robilantvoena.com/exhibitions/michelangelo-pistoletto). It's generally generally new works (the artist is alive and kicking at 91). The series pictured above, ‘Black and Light’ (from 2024) on the left, ‘Vortex triptych’ (shown at the Louvre in 2013) on the right, employ dark and clear mirrored glass in vaguely groovy patterns. They’re surrounded by heavy, fancy gilded frames.
 
-Below, another new series, ‘Color and Light’, where the glass comes in shards, set on brightly-uniformly coloured canvas, and again surrounded by fancy frames. It’s a gesture towards luxe, designed for the space around it. It’s fancily decorative, which surely is about as far from _arte povera_ ideals as you can get.
+Below, another new series, ‘Color and Light’, where the glass comes in shards, set on brightly-uniformly coloured canvas, and again surrounded by fancy frames. It’s a gesture towards luxe. It fits in well with the luxurious gallery space. It’s fancily decorative, which surely is about as far from _arte povera_ ideals as you can get.
 
 ![Michelangelo Pistoletto at Robilant + Voena (installation view)](/pistoletto-robilant-2.jpg)
 
 It’s not all about the composition though. Pistoletto’s original trick still works - explaining why he’s still showing in this lovely space six decades after getting started. I looked into the funkily patterned glass and saw myself, in my winter’s coat and hat, clutching a press release.
 
-Then as now, I took some interesting selfies. I noticed that my phone case matched the colour of one of the canvases. Then I dropped the camera, and looked at myself. Still me. It’s what he knew I’d do.
+Just as I did in 2018, I took some interesting selfies. This time around, I noticed that my phone case matched the colour of one of the canvases. Then I dropped the camera, and looked at myself. Still me. It’s what he knew I’d do.
 
 _Michelangelo Pistoletto is at Robilant + Voena (London). 11 October - 15 November 2024_
