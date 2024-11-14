@@ -21,7 +21,7 @@ Below, another new series, ‘Color and Light’, where the glass comes in shard
 
 ![Michelangelo Pistoletto at Robilant + Voena (installation view)](/pistoletto-robilant-2.jpg)
 
-It’s not all about the composition though. Pistoletto’s original trick still works - explaining why he’s still showing in this lovely space six decades after getting started. I looked into the funkily patterned glass and saw myself, in my winter’s coat and hat, clutching a press release.
+It’s not all about the composition though. Pistoletto’s original trick still works - explaining why he’s still showing in this lovely space six decades after getting started. When I looked into the mirrored glass, I saw myself. Six years older, in my winter’s coat and hat, clutching a press release.
 
 Just as I did in 2018, I took some interesting selfies. This time around, I noticed that my phone case matched the colour of one of the canvases. Then I dropped the camera, and looked at myself. Still me. It’s what he knew I’d do.
 
