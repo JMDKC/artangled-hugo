@@ -12,13 +12,13 @@ tags:
   - Paris
 ---
 
-The young French painter and craftsman Malo Chapuy showed off a clever conceit in this tight exhibition, which was a standout among what I saw in my trip to Paris this week. At first glance, his works (several of which are on show currently at mor charpentier) look medieval. They’re small, on panels, executed with egg tempera, with frames that look hundreds of years old and lush craquelure over their surfaces.
+The young French painter and craftsman Malo Chapuy uses a clever conceit in [this exhibition at mor charpentier](https://www.mor-charpentier.com/exhibition/memorabilia/), a standout from what I saw in my trip to Paris this week. At first glance, his works look medieval. They’re small, on panels, executed with egg tempera, with frames that look hundreds of years old and lush craquelure perforating their surfaces.
 
-In fact, they were painted this year, and contain subtle anachronisms. The _trompe l’oeil_ forms a sly visual joke. For example, in _Annonciation au couvent de la Tourette_ (2024), pictured below, a classic annunciation scene, employed by da Vinci and co, takes place next to the famous Le Corbusier building of the painting’s title. The show notes note that Chapuy makes (and ages) his frames, himself.
+In fact, they were painted this year, and contain subtle anachronisms. They're a series of sly visual jokes. For example, in _Annonciation au couvent de la Tourette_ (2024), pictured below, takes a classic annunciation composition, employed by da Vinci and co, and situates it next to the famous Le Corbusier building of the painting’s title.
 
 ![Malo Chapuy 'Annonciation au couvent de la Tourette' (2024)](/chapuy-mor-1.jpeg)
 
-Elsewhere, a van Eyck-style seated Madonna is framed by belching factory smokestacks, just the other side of the windows that surround her. A straight retread of an Ucello battle features the horsemen cutting down wind turbines. And a devotional triptych (with rusty hinges!) features a futuristic looking orb in the background.
+Elsewhere, a van Eyck-style seated Madonna is framed by belching factory smokestacks, just the other side of the windows that surround her. A straight retread of Ucello's famous battle scene features horsemen cutting down wind turbines. And a devotional triptych (with rusty hinges!) features a futuristic looking orb in the background. The show notes note that Chapuy makes (and ages) his frames, himself.
 
 To be fair to the artist, what I read as clever visual jokes, could also be gestures of concern about the state of the world - its pollution, its climate change, its wars. Either way, they’re objects of beauty.
 
