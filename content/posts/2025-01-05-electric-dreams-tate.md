@@ -11,7 +11,7 @@ tags:
   - London
 ---
 
-I was taken aback by the shared sunny optimism of the works in [this exhibition](https://www.tate.org.uk/whats-on/tate-modern/electric-dreams), which collects tech-oriented art from (roughly) the 1950s to the 1990s. The birth of the computer age led to new artistic possibilities: kinetic sculptures, algorithmicly-driven painting, computer-generated video art. The show made me realise that it also coincided with another cultural moment: flower power - peace and love - the dawning age of Aquarius. Hippies, basically.
+I was taken aback by the blissed-out optimism of [this exhibition](https://www.tate.org.uk/whats-on/tate-modern/electric-dreams), which collects tech-oriented art from (roughly) the 1950s to the 1990s. The birth of the computer age led to new artistic possibilities: kinetic sculptures, algorithmicly-driven painting, computer-generated video art. The show made me realise that it also coincided with another cultural moment: flower power - peace and love - the dawning age of Aquarius. Hippies, basically.
 
 One room around half way through summed it up: Carlos Cruz-Diez’s _Chromointerferent Environment_, originally shown in the early 1970s*.* Primitive computer graphics strobed around the walls. Joyful kids bounced balloons provided by the artist around, filmed by their phone-toting parents. Like so much else in the exhibition, the work’s vibe was one of collective fun - and possibility.
 
