@@ -18,7 +18,7 @@ One room around half way through summed it up: Carlos Cruz-Diez’s _Chromointer
 ![Carlos Cruz-Diez 'Chromointerferent ' (1974, 2024)'](/electric-dreams-tate-1.jpg)
 _Image credit: Tate_
 
-Despite its generally inclusive outlook, the _production_ of this technology-driven art wasn’t very accessible at the time. This was to the simple fact that the tech was so new and expensive that artists had to partner with research institutes and large companies to get access. Taking two artists featured in the Tate show as an example, video art pioneer Lilian F. Schwartz had a decade long residency at Bell Labs, while Waldemar Cordeiro, [whose computer-generated graphics I’ve featured on here before](https://artangled.com/posts/cordeiro-mayor/), relied on his local university for both funds and materials.
+Despite its generally inclusive outlook, the _production_ of this technology-driven art wasn’t very accessible at the time. The tech was so new and expensive that artists had to partner with research institutes and large companies to get access to it. Taking two artists featured in the Tate show as an example, video art pioneer Lilian F. Schwartz had a decade long residency at Bell Labs, while Waldemar Cordeiro, [whose computer-generated graphics I’ve featured on here before](https://artangled.com/posts/cordeiro-mayor/), relied on his local university for both funds and materials.
 
 Others turned to the private sector. The Tate show featured a (for me, at least) fascinating project from the art collective [Experiments in Art and Technology](https://www.tate.org.uk/art/art-terms/e/experiments-art-and-technology-eat) (EAT), which collaborated with PepsiCo for a sponsored pavilion at the 1970 world Expo in Japan.
 
