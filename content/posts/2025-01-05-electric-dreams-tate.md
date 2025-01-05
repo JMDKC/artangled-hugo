@@ -35,6 +35,6 @@ Just like the peace-and-love era, the pavilion didn’t last long. EAT’s very 
 
 What did visitors make of the pavilion at the time? At Tate, there’s archive footage of Expo-goers - very ordinary looking, sensibly clad Japanese families - entering the pavilion. They are given big plastic handsets. The children bounce through the fog and lasers joyfully, staring up at the huge mirrored dome with mouths wide open. They reminded me of the posh English kids punting Cruz-Diez’s balloons around a few rooms away.
 
-They’re jointly responding to a shared artistic mindset, embracing technology that would have been so new and exciting back then, but is so deeply quaint now. And embracing technological progress in a way that seems extraordinary in these cynical and suspicious times. I found it really uplifting.
+They’re jointly responding to a shared artistic mindset, embracing technology that would have been so new and exciting back then, but is so deeply quaint now. And embracing technological progress in a way that seems extraordinary in these cynical and suspicious times. I found it all very uplifting.
 
 _Electric Dreams: Art & Technology Before the Internet is at Tate Modern (London). 28 November 2024 - 01 June 2025_
