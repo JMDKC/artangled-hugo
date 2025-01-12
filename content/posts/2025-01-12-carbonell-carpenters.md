@@ -24,7 +24,7 @@ Elsewhere, Carbonell shows a few wall-mounted cabinets made of cork, metal and s
 
 ![Nacho Carbonell: Escaping Forward (installation view)](/carbonell-carpenters-2.jpg)
 
-Carbonell is clearly deeply influenced by twentieth century artists that aimed for the elemental in their work, from [Jean Dubuffet](https://artangled.com/tags/jean-dubuffet/) to [Giuseppe Penone](https://artangled.com/tags/giuseppe-penone/). To which the designer adds a light fitting, a shelf, a seat, and makes products.
+Carbonell is clearly influenced by twentieth century artists that aimed for the organically elemental in their work, from [Jean Dubuffet](https://artangled.com/tags/jean-dubuffet/) to [Giuseppe Penone](https://artangled.com/tags/giuseppe-penone/). To which the designer adds a light fitting, a shelf, a seat, and makes products.
 
 When I visited, on the show’s last afternoon, the artist was in this upstairs room, explaining his working methods patiently to some ferociously well-dressed guests. (The space itself, a repurposed Victorian public hall, in the wilds of Ladbroke Grove, is part of [a global chain](https://www.vanityfair.fr/culture/article/fulgurante-success-story-carpenters-workshop) founded by a pair of French gallerists.)
 
