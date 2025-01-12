@@ -12,9 +12,9 @@ tags:
 
 The lines between fine art and really high-end product design are thoroughly blurred. At what point does an artwork for sale become a product for sale?
 
-Let's say we can call a work a product, and its artist a _designer_, if it could be _used_ for anything other than contemplation. By that definition, Nacho Carbonell is a designer. He makes very beautiful lamps, tables and chairs that delightfully echo chrysalids and coccons.
+Let's say we can call a work a product, and its artist a _designer_, if it could be _used_ for anything other than contemplation. By that definition, Nacho Carbonell is a designer. He makes lamps, tables and chairs that delightfully echo chrysalids and coccons.
 
-They're so fine though that they get shown in galleries. There are 30 or so [on show currently, at Carpenters Workshop Gallery](https://carpentersworkshopgallery.com/exhibitions/escapingforward-carbonell-london-2024/), and they almost seem to breathe as you look at them. They’re all for sale - at [breathtaking prices](https://www.artsy.net/artist/nacho-carbonell) starting at the low five figures and stretching to the ominous “on request”.
+They're so fine though that they get exhibited in galleries. There are 30 or so [on show currently, at Carpenters Workshop Gallery](https://carpentersworkshopgallery.com/exhibitions/escapingforward-carbonell-london-2024/), and they almost seem to breathe as you look at them. They’re all for sale - at [breathtaking prices](https://www.artsy.net/artist/nacho-carbonell) starting at the low five figures and stretching to the ominous “on request”.
 
 ![Nacho Carbonell: Escaping Forward (installation view)](/carbonell-carpenters-1.jpg)
 
