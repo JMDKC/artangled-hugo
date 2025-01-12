@@ -30,7 +30,7 @@ When I visited, on the show’s last afternoon, the artist was in this upstairs 
 
 Carbonell seems like a really nice and open person. I bet he was the one behind encouraging visitors to touch the works. “If you want to be a creator, find something that really makes you happy, that gives you pleasure to do,” he said, in an interview accompanying the exhibition. “The doubts and the struggles will always come. That’s why it’s so important to be able to find something that is really fun.”
 
-His earthy and sensual designs match this friendly vibe. I’d buy one if I was rich. But of course, I’m not. And all this beauty is undergirded by global capital, the sort that allows gallery owners to find a derelict space out by the Westway and spend vast sums to repurpose it.
+His earthy and sensual designs match this friendly vibe. I’d buy one if I was rich. But of course, I’m not. All this beauty is undergirded by global capital, the sort that allows gallery owners to find a derelict space out by the Westway and spend vast sums to repurpose it.
 
 Out the back of the gallery, there’s a gorgeous garden with [a Jean Prouvé house](https://carpentersworkshopgallery.com/exhibitions/maison-demontable-prouve-london-2024/) as its centrepiece. After my visit to the exhibition, I went outside through an unlocked fire door, and walked around. Eventually I realised the door shouldn't have been unlocked, and I was locked out; the garden opens to visitors only in the spring. Luckily, I was quickly rescued after banging on a window. I thanked the gallery worker who let me in and complimented him on the garden. He told me that it was in fact a very recent invention, despite the fact that it was filled with mature trees.
 
