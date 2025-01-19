@@ -15,19 +15,19 @@ _The Fold 002_ (2024)
 
 Sang Woo Kim paints self-portraits which are, in a word, avoidant. They are always brutally cropped, by aluminium box frames. They generally show the artist’s eyes - or an eye. Never the full face, let alone any suggestion of a body.
 
-It’s tempting to say this avoidance is a response to Kim’s own backstory. He’s worked as a fashion model. “I’ve always tried to avoid myself in my work,” [he’s said](https://www.youtube.com/watch?v=pq29BBRvTaM). “I guess my job entailed… how I looked. I wanted to shy away from that.” Perhaps the withholding-ness of the portraits is a reaction to their artist’s own body having been commoditised by others for the enjoyment of others.
+It’s tempting to say this avoidance is a response to Kim’s own backstory. He’s worked as a fashion model. “I’ve always tried to avoid myself in my work,” [he’s said](https://www.youtube.com/watch?v=pq29BBRvTaM). “I guess my job entailed… how I looked. I wanted to shy away from that.” The withholding-ness of the portraits seems to be a reaction to their artist’s own body being commoditised by others - for the enjoyment of others.
 
-On the basis of the works on show, you can't even tell if the subject is good-looking, so brutal is the cropping. (Of course, in real life Kim is really, really good looking. And it's an open question whether the behind-the-scenes [pretty privilege](https://artangled.com/posts/boty-gazelli/) the show happen in the first place.)
+On the basis of the works on show, you can't even tell if the subject is good-looking, so brutal is the cropping. (Of course, in real life Kim is really, really good looking. And it's an open question whether this behind-the-scenes [pretty privilege](https://artangled.com/posts/boty-gazelli/) made the show happen in the first place.)
 
 ![Sang Woo Kim 'Closer 010' (2024)](/kim-herald-2.jpg)
 _Closer 010_ (2024)
 
-Anyway, I think these oil paintings are great. One particularly fine example is pictured above, in night shades of green. Note the single casual white trail around his eye, giving it life.
+Either way, Kim's a portraitist of considerable skill. One particularly fine example is pictured above, in night shades of green. Note the single casual white trail around his eye, giving it life.
 
-The repeated emphasis on the eye will resonate differently with different viewers. Asian and white, specifically.
+Beyond the surface-level craft are deeper resonances. Let's go back to Kim's repeated emphasis on the eye. There are a few multi-part pigment transfer works to complement the self portraits: a collection of images of eyes and glasses. In one, the subject has their eyes forcibly opened by a surgical speculum. On closer inspection, we realise these images, taken by Kim from online forums and social media, generally show white subjects.
 
-There are a few multi-part pigment transfer works to complement the self portraits: a collection of images of eyes and glasses. In one, the subject has their eyes forcibly opened by a surgical speculum. On closer inspection, we realise these images, taken by Kim from online forums and social media, generally show white subjects.
+In the self portraits, while Kim crops away most of his face, he always portrays, with exacting, relentless brush strokes, his [epicanthic folds](https://en.wikipedia.org/wiki/Epicanthic_fold). This is a natural feature for many east Asians that is sometimes surgerized away - thanks mainly to oppressive (white) beauty standards.
 
-Back to the self portraits. While Kim crops away most of his face, he always portrays, with exacting, relentless brush strokes, his [epicanthic folds](https://en.wikipedia.org/wiki/Epicanthic_fold): a natural feature for many east Asians that is sometimes surgerized away. Thanks mainly to oppressive (white) beauty standards. The titles of the works focussing on _Kim's_ eyes are all the same: _The Fold_. In such a way, the artist asserts something more complicated and resonant about society - beyond all his self-affacing avoidance.
+The titles of the works focussing on _Kim's_ eyes are all the same: _The Fold_. In such a way, the artist asserts something more complicated and resonant about society - beyond all his self-affacing avoidance.
 
 _Sang Woo Kim: The Seer, The Seen is at Herald Street (London). 14 November 2024 - 01 February 2025_
