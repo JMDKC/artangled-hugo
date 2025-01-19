@@ -28,6 +28,6 @@ Beyond the surface-level craft are deeper resonances. Let's go back to Kim's rep
 
 In the self portraits, while Kim crops away most of his face, he always portrays, with exacting, relentless brush strokes, his [epicanthic folds](https://en.wikipedia.org/wiki/Epicanthic_fold). This is a natural feature for many east Asians that is sometimes surgerized away - thanks mainly to oppressive (white) beauty standards.
 
-The titles of the works focussing on _Kim's_ eyes are all the same: _The Fold_. In such a way, the artist asserts something more complicated and resonant about society - beyond all his self-affacing avoidance.
+The titles of the works focussing on _Kim's_ eyes are all the same: _The Fold_. In such a way, the artist asserts something more complicated and resonant about society - beyond all his self-effacing avoidance.
 
 _Sang Woo Kim: The Seer, The Seen is at Herald Street (London). 14 November 2024 - 01 February 2025_
