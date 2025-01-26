@@ -8,7 +8,7 @@ tags:
   - London
 ---
 
-Maria Szakats uses a format that is traditionally domestic, modest and feminine: [small embroidery panels]((https://www.brookebenington.com/exhibitions/50-romance-apocalypse-maria-szakats/overview/). The artist laboriously stitches a cotton toile backing together, then tops it off with long, fluffy strands of mohair. Sometimes, she then worries the surface of the finished work with a metal brush.
+Maria Szakats uses a format that is traditionally domestic, modest and feminine: [small embroidery panels](https://www.brookebenington.com/exhibitions/50-romance-apocalypse-maria-szakats/overview/). The artist laboriously stitches a cotton toile backing together, then tops it off with long, fluffy strands of mohair. Sometimes, she then worries the surface of the finished work with a metal brush.
 
 The format matches the subject matter: portraits of women, trees and flowers, such as _Pivoine_, pictured below. So far, so traditional. But the contrast between the materials pulls focus in interesting ways. In this example, the flower of the rose is picked out sharply; its leaves, its background is woozily ambiguous, swirling.
 
