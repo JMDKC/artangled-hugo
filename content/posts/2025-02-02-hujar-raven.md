@@ -20,7 +20,7 @@ _'Christopher Street Pier #4' (1976) © The Peter Hujar Archive_
 
 Even if they were achieved through such vigour and skill, Hujar’s pictures can seem distancing. Almost too icily perfect in their composition and exposure. Personally, having just seen so many of them all together, I think this formal rigour is necessary given Hujar’s strong taste for the emotive in his subjects. They'd be too much otherwise.
 
-I don't just mean his famously blunt treatment of sex and sexuality, though there’s plenty of that on show: a pair of works, in different galleries, show Hujar enthusiastically riding an enormous dildo in one, and bending over to display the blown-out aftermath in another. In both photos, the slicked-down hairs of his ass, the fronds of the piece of towel he stands on, the veins on his biceps and feet, are picked out with precision and care.
+I don't just mean his famously blunt treatment of sex and sexuality, though there’s plenty of that on show: a pair of works, in different galleries, show Hujar enthusiastically riding an enormous dildo in one, and bending over to display the blown-out aftermath in the other. In both photos, the slicked-down hairs of his ass, the fronds of the piece of towel he stands on, the veins on his biceps and feet, are picked out with precision and care.
 
 Hujar loved taking photos of heart-meltingly cute animals too, and just as his icy formality cools the hot shock of his sex photos, it also dilutes the sweetness of this set. One beautiful shot of a black mutt called Kirsten, from 1984, for example: the reflection of the gridded window reflected in her upturned right eye is picked out with the meticulousness of a [Van Eyck](https://artangled.com/tags/jan-van-eyck/).
 
