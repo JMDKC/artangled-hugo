@@ -15,7 +15,7 @@ tags:
 
 Hujar worked fast and precisely, within tight parameters; he used a handheld camera, and developed everything in a jerry-rigged darkroom in his apartment. He shot what he saw around him, mainly in the New York City he made his home. One dizzying room at Raven Row features a chilling shot of borg-like Sixth Avenue office blocks, a gorgeously composed crowd scene on the steps of church, cruising shirtless gay men at the piers (example below) and a dizzying cityscape, taken from the viewing gallery at the World Trade Centre. In the next room you find out all these photographs were taken on a single day - Easter Sunday 1976 - and there are contact sheets to prove it.
 
-![Peter Hujar 'Christopher Street Pier #4' (1976)](attachment:0d39b0ff-8a97-4c87-8777-1e5e9dbd4e12:hujar-raven-1.jpg)
+![Peter Hujar 'Christopher Street Pier #4' (1976)](/hujar-raven-1.jpg)
 _'Christopher Street Pier #4' (1976) © The Peter Hujar Archive_
 
 Even if achieved through such skill, and on such a tight budget, Hujar’s pictures can seem distancing. Icily perfect in their composition and exposure. Personally, having just seen so many of them all together, I think this formal rigour is necessary given Hujar’s taste for the emotive in his subjects. It’s not just his famously blunt treatment of sex and sexuality, though there’s plenty of that on show: one pair of works, in different galleries, show Hujar enthusiastically riding an enormous dildo in one, and displaying the blown-out aftermath in another. In both photos, the slicked-down hairs of his ass, the fronds of the piece of towel he stands on, the veins on his biceps and feet, are picked out with precision and care.
