@@ -1,5 +1,5 @@
 ---
-title: "AUTODIDACT | Almine Rech"
+title: "AUTODIDACT: Amadeo Luciano Lorenzato, Heitor dos Prazeres, Chico da Silva & Rubem Valentim | Almine Rech"
 date: 2025-02-09
 slug: "/lorenzato-rech"
 tags:
@@ -16,7 +16,7 @@ Lucky us, given the artists' quality and distinctiveness. To me, the biggest RA 
 ![lorenzato-rech-1.jpeg](/lorenzato-rech-1.jpeg)
 _‘Untitled’ (1990)_
 
-All his works - there must be hundreds out there - were untitled, and neatly signed and dated. He worked with thick oil paint on hard board. He exclusively painted the landscapes around him, reduced and simplified to their geometric shapes. Houses became simple cubes of colour. Trees fluffy blobs. The sky, a depthless, flat block.
+As the title of the Almine Rech show suggests, Lorenzato was self-taught. All his works - there must be hundreds out there - were untitled, and neatly signed and dated. He worked with thick oil paint on hard board. He exclusively painted the landscapes around him, reduced and simplified to their geometric shapes. Houses became simple cubes of colour. Trees fluffy blobs. The sky, a depthless, flat block.
 
 Lorenzato distinguished the surface of his paint by literally combing it: with a fork or a brush. It dried into spaghetti-like strands of raised and flattened paint. It sealed in the dreamy unreality of scenes which might otherwise come across as sentimental and twee. Through their texture, the bright little houses and trees and sky become attractively strange and new.
 
