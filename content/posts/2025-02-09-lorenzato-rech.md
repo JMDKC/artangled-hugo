@@ -11,7 +11,7 @@ tags:
 
 This [small group show](https://www.alminerech.com/exhibitions/10536-autodidact) features four mid-20th century Brazilian artists, three of whom aren’t included in the [massive Royal Academy exhibition](https://www.royalacademy.org.uk/exhibition/brasil-brasil) on the same theme over the road. I assume this was a deliberate curatorial choice on the commercial gallery's part, to fill in some gaps in the institutional record.
 
-Lucky us, given the artists' quality and distinctiveness. To me, the biggest RA omission is [Amadeo Luciano Lorenzato](https://artangled.com/tags/amadeo-luciano-lorenzato/), who has three of his little oil-on-board landscapes in the Almine Rech show. This artist had the narrow subject matter, monomaniacal focus and Stakhavonite work ethic of a [Georgio Morandi](https://artangled.com/tags/giorgio-morandi/). Like Morandi, he avoided the bright lights of the bigger cities, living and working in Belo Horizonte throughout his long and artistically productive life: old as the century, he died in 1995, and worked to the end.
+Lucky us, given the artists' quality and distinctiveness. To me, the biggest RA omission is [Amadeo Luciano Lorenzato](https://artangled.com/tags/amadeo-luciano-lorenzato/), who has three of his little oil-on-board landscapes in the Almine Rech show. This artist had the monomaniacal focus and work ethic of a [Georgio Morandi](https://artangled.com/tags/giorgio-morandi/). Like Morandi, he avoided the bright lights of the bigger cities, living and working in Belo Horizonte throughout his long and artistically productive life: old as the century, he died in 1995, and worked to the end.
 
 ![lorenzato-rech-1.jpeg](/lorenzato-rech-1.jpeg)
 _‘Untitled’ (1990)_
