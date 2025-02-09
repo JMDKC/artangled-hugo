@@ -16,9 +16,9 @@ Lucky us, given the artists' quality and distinctiveness. To me, the biggest RA 
 ![lorenzato-rech-1.jpeg](/lorenzato-rech-1.jpeg)
 _‘Untitled’ (1990)_
 
-As the title of the Almine Rech show suggests, Lorenzato was self-taught. All his works - there must be hundreds out there - were untitled, and neatly signed and dated. He exclusively painted the landscapes around him, reducing and simplifying everyday scenes and objects to their essential shapes. (Again, very Morandi) Houses became simple cubes of colour. Trees fluffy blobs. The sky, a depthless block. The hard board backing makes everything brighter and flatter than it would be on canvas.
+As the title of the Almine Rech show suggests, Lorenzato was self-taught. His works - there must be hundreds out there - were untitled, and neatly signed and dated. He exclusively painted the landscapes that surrounded him, reducing and simplifying everyday scenes and objects to their essential shapes. (Again, very Morandi) Houses became simple cubes of colour. Trees fluffy blobs. The sky, a depthless block. The hard board backing makes everything brighter and flatter than it would be on canvas.
 
-Lorenzato's surfaces are strange. He literally combed his paint after application, with a fork or a brush. It dried into spaghetti-like wavy strands. This seals in the dreamy airtight unreality of his scenes. Scenes of bright little houses and trees and sky which might otherwise come across as sentimental and twee, were it not for their odd, unreal textures.
+Lorenzato's strangeness is in his surfaces. He literally combed his paint after application, with a fork or a brush. It dried into spaghetti-like wavy strands. This seals in the dreamy airtight unreality of his scenes. Scenes of bright little houses and trees and sky which might otherwise come across as sentimental and twee, were it not for their odd, unreal textures.
 
 Always a big name in Brazil, Lorenzato is gaining ground internationally these days, having been represented by commercial gallery juggernaut David Zwirner for the past few years. I knew about him thanks to catching Zwirner shows in [London in 2019](https://www.davidzwirner.com/exhibitions/2019/amadeo-luciano-lorenzato) and [New York in 2024](<https://ocula.com/art-galleries/david-zwirner/exhibitions/amadeo-luciano-lorenzato-(1)/>).
 
