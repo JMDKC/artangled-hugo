@@ -9,18 +9,18 @@ tags:
   - London
 ---
 
-This [small group show](https://www.alminerech.com/exhibitions/10536-autodidact) features four mid-20th century Brazilian artists, three of whom aren’t included in the [massive Royal Academy exhibition](https://www.royalacademy.org.uk/exhibition/brasil-brasil) on the same theme over the road. I assume it was a deliberate curatorial choice to fill in some gaps in the record.
+This [small group show](https://www.alminerech.com/exhibitions/10536-autodidact) features four mid-20th century Brazilian artists, three of whom aren’t included in the [massive Royal Academy exhibition](https://www.royalacademy.org.uk/exhibition/brasil-brasil) on the same theme over the road. I assume this was a deliberate curatorial choice on the commercial gallery's part, to fill in some gaps in the institutional record.
 
-Lucky us, given the artists' quality and distinctiveness. To me, the biggest RA omission is [Amadeo Luciano Lorenzato](https://artangled.com/tags/amadeo-luciano-lorenzato/), who has three characteristically cute little landscapes in the Almine Rech show. The artist, who was self-taught, had the narrow subject matter, monomaniacal focus and Stakhavonite work ethic of a [Georgio Morandi](https://artangled.com/tags/giorgio-morandi/). Like Morandi, he avoided the bright lights of the bigger cities, living and working in Belo Horizonte throughout his long and artistically productive life: old as the century, he died in 1995, and worked to the end.
+Lucky us, given the artists' quality and distinctiveness. To me, the biggest RA omission is [Amadeo Luciano Lorenzato](https://artangled.com/tags/amadeo-luciano-lorenzato/), who has three of his little oil-on-board landscapes in the Almine Rech show. This artist had the narrow subject matter, monomaniacal focus and Stakhavonite work ethic of a [Georgio Morandi](https://artangled.com/tags/giorgio-morandi/). Like Morandi, he avoided the bright lights of the bigger cities, living and working in Belo Horizonte throughout his long and artistically productive life: old as the century, he died in 1995, and worked to the end.
 
 ![lorenzato-rech-1.jpeg](/lorenzato-rech-1.jpeg)
 _‘Untitled’ (1990)_
 
-As the title of the Almine Rech show suggests, Lorenzato was self-taught. All his works - there must be hundreds out there - were untitled, and neatly signed and dated. He worked with thick oil paint on hard board. He exclusively painted the landscapes around him, reduced and simplified to their geometric shapes. Houses became simple cubes of colour. Trees fluffy blobs. The sky, a depthless, flat block.
+As the title of the Almine Rech show suggests, Lorenzato was self-taught. All his works - there must be hundreds out there - were untitled, and neatly signed and dated. He exclusively painted the landscapes around him, reducing and simplifying everyday scenes and objects to their essential shapes. (Again, very Morandi) Houses became simple cubes of colour. Trees fluffy blobs. The sky, a depthless block. The hard board backing makes everything brighter and flatter than it would be on canvas.
 
-Lorenzato distinguished the surface of his paint by literally combing it: with a fork or a brush. It dried into spaghetti-like strands of raised and flattened paint. It sealed in the dreamy unreality of scenes which might otherwise come across as sentimental and twee. Through their texture, the bright little houses and trees and sky become attractively strange and new.
+Lorenzato's surfaces are strange. He literally combed his paint after application, with a fork or a brush. It dried into spaghetti-like wavy strands. This seals in the dreamy airtight unreality of his scenes. Scenes of bright little houses and trees and sky which might otherwise come across as sentimental and twee, were it not for their odd, unreal textures.
 
-Always a big name in Brazil, he’s gaining ground internationally these days, having been represented by commercial gallery juggernaut David Zwirner. I knew about him thanks to catching Zwirner shows in [London in 2019](https://www.davidzwirner.com/exhibitions/2019/amadeo-luciano-lorenzato) and [New York in 2024](<https://ocula.com/art-galleries/david-zwirner/exhibitions/amadeo-luciano-lorenzato-(1)/>).
+Always a big name in Brazil, Lorenzato is gaining ground internationally these days, having been represented by commercial gallery juggernaut David Zwirner for the past few years. I knew about him thanks to catching Zwirner shows in [London in 2019](https://www.davidzwirner.com/exhibitions/2019/amadeo-luciano-lorenzato) and [New York in 2024](<https://ocula.com/art-galleries/david-zwirner/exhibitions/amadeo-luciano-lorenzato-(1)/>).
 
 So I missed him at the RA. And it felt good to be in his dreamy presence again, here.
 
