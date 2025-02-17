@@ -9,7 +9,7 @@ tags:
   - London
 ---
 
-Joseph Kosuth is one of the most severe and strict of conceptual artists, saying over and over again in his public statements that he’s all about the _idea._ To him, a viewer getting aesthetic pleasure from his works would be besides the point. I hope he doesn’t mind then that that’s exactly what I got from his [latest London exhibition](https://spruethmagers.com/exhibitions/joseph-kosuth-the-question-london/), a small but career-spanning collection of prints and neons at Sprüth Magers.
+Joseph Kosuth is one of the most severe and strict of conceptual artists. He's all about the _idea._ To him, a viewer getting aesthetic pleasure from his works would be besides the point. I hope he doesn’t mind, then, that that’s exactly what I got from his [latest London exhibition](https://spruethmagers.com/exhibitions/joseph-kosuth-the-question-london/), a small but career-spanning collection of prints and neons at Sprüth Magers.
 
 The neons especially. I visited on a dark winter evening, just before closing, promising the gallery assistant on the front desk that I wouldn’t be too long. The curators have made the smart choice to use punishingly bright overhead lights, and to remove the blinds from the gallery’s large windows. As a result, the neon glowed brightly through the glass, casting reflections on the Mayfair streets and roofs beyond.
 
