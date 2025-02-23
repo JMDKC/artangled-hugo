@@ -20,7 +20,7 @@ Such domestic surroundings are also a world away from the spick-and-span interna
 
 They flop and crease and spool across the floor, like too-big curtains. Where they overlap, they cast a maroon shade into the room. The overall effect is a bit scruffy - by design, I'm sure. Looking out, we see a very normal London street, a bit down-at-heel considering how central it is, with its daily market, its shoals of litter, its cracked kerbs.
 
-Ponsard’s art, [which has recently included some site-specific works at the Paris Olympic village](https://nathalie-junodponsard.art/en/), is all about rendering familiar scenes as something new and strange, using coloured light. I mentioned Kosuth because I’ve just seen him, but she also reminded me of [Ann Veronica Janssens](https://artangled.com/tags/ann-veronica-janssens/) in her play with colours and light effects.
+Ponsard’s art, [which has recently included some site-specific works at the Paris Olympic village](https://nathalie-junodponsard.art/en/), is all about rendering familiar scenes as something new and strange. I mentioned Kosuth because I’ve just seen him, but she also reminded me of [Ann Veronica Janssens](https://artangled.com/tags/ann-veronica-janssens/) in her play with colours and light effects.
 
 On a quiet Tuesday afternoon in late February, looking out of a window through gelatine strips, here purple, there yellow, there maroon, I felt some of that strangeness. Maybe not quite the “hypnotic, dreamlike environment” the show notes promised, but there was a sense of something ineffable among the wonky bookshelves and the empty coffee cups. She did her job.
 

@@ -3,10 +3,9 @@ title: "Beryl Cook / Tom of Finland | Studio Voltaire"
 date: 2024-06-09
 slug: "/beryl-tom-voltaire"
 tags:
-  - Waldemar Cordeiro
-  - Gerhard Richter
-  - Wade Guyton
-  - Mayor Gallery
+  - Beryl Cook
+  - Tom of Finland
+  - Studio Voltaire
   - London
 ---
 
