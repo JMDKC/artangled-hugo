@@ -16,7 +16,7 @@ They reminded me both of mandalas and cocktail umbrellas. Spirituality and sunsh
 ![June Edmonds 'Brother’s Bouquet' (2024)](/california-taylor-1.jpeg)
 June Edmonds _Brother’s Bouquet_ (2024)
 
-Hilary Pecis, whose paintings were the show’s other standout, is another artist marked out by her treatment of colour and light. Both she and Edmonds use acrylic paint. But Pecis’ acrylics murky and ambiguous, compared to Edmonds’ boldness.
+Hilary Pecis, whose paintings were the show’s other standout, is another artist marked out by her treatment of colour and light. Both she and Edmonds use acrylic paint. But Pecis’ acrylics are murky and ambiguous, compared to Edmonds’ bold flatness.
 
 _Car Service_ (below) shows a nondescript street corner in Los Angeles. The perspective is a bit wonky. The buildings, road and kerbs all look a bit beaten up. The craning palm trees that frame the pavement - sidewalk? - are unhealthily skinny, sporting underbrushes of brown dead leaves.
 
