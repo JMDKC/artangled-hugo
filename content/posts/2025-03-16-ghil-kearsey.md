@@ -16,7 +16,7 @@ Probably their obsessive vibe comes from how they’re made. Ghil builds them th
 
 “I constantly layer because I love the transparency. It has to look right for me... You just know what you want. I’m very sensitive to colour, and my mood affects the work.”
 
-The mood cast by these works, at least for me, matches the title of the show. They seem made to be looked at in silence - and looked at closely. They’re not exactly beautiful; the effortful process that was necessary to make them is too evident for that. It’s not a serene silence, it’s one accompanied by a furrowed brow, a tense hand, an endless need for it to “look right”.
+The mood cast by these works, at least for me, matches the title of the show. They seem made to be looked at in silence - and looked at closely. They’re not exactly beautiful. It's obvious they took a lot of effort to make. All those layers! They're silent, but it's not a serene silence: it’s one accompanied by a furrowed brow, a tense hand, a need for it to “look right”.
 
 And this looking-right is only relevant to what the _artist_ thinks, according to Ghil at least. “I don’t really care for what people see in my painting, I’m just grateful they are even looking at it,” she says. While looking, I felt quite grateful too.
 
