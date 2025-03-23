@@ -1,5 +1,5 @@
 ---
-title: "Joanna van Son: Intermission General Assembly"
+title: "Joanna van Son: Intermission | General Assembly"
 date: 2025-03-23
 slug: "/van-son-general"
 tags:
