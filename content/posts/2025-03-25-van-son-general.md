@@ -10,7 +10,7 @@ tags:
   - London
 ---
 
-Joanna van Son’s paintings, [eight of which are collected in this show](https://www.generalassemblylondon.com/exhibitions/23-intermission-joanna-van-son/), draw from a wide range of inspirations, but are distinctively her own. She leaves big stretches of her unprimed linen canvases unpainted-on, save for scattered written notes that brought [Cy Twombly’s](https://artangled.com/tags/cy-twombly/) word paintings from my mind.
+Joanna van Son’s paintings, [eight of which are collected in this show](https://www.generalassemblylondon.com/exhibitions/23-intermission-joanna-van-son/), draw from a wide range of inspirations, but are distinctively her own. She leaves big stretches of her unprimed linen canvases unpainted-on, save for scattered written notes that brought to mind [Cy Twombly’s](https://artangled.com/tags/cy-twombly/) word paintings.
 
 She uses thick impasto for the remainder, building up craggy mountains of oil paint, sometimes creamy-pink, sometimes with a livid orangey-red undertone that’s pure [Frank Auerbach](https://artangled.com/tags/frank-auerbach/). The figures in this paint are reclining, voluptuous naked women. Odalisques.
 
