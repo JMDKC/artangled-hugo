@@ -14,7 +14,7 @@ Joanna van Son’s paintings, [eight of which are collected in this show](https:
 
 She uses thick impasto for the remainder, building up craggy mountains of oil paint, sometimes creamy-pink, sometimes with a livid orangey-red undertone that’s pure [Frank Auerbach](https://artangled.com/tags/frank-auerbach/). The figures in this paint are reclining, voluptuous naked women. Odalisques.
 
-Multiple canvases make up many of the works, and given their partially raw state, the stitched joins between them are clearly visible. Frankenstein’s monster style. An _intermission_ means a break between parts. I took the exhibition's title to be a reference to these adjoining canvases, and the contrast between the paint and the linen.
+Multiple canvases make up many of the works, and given their partially raw state, the stitched joins between them are clearly visible. Frankenstein’s monster style. An _intermission_ means a break between parts. I took the exhibition's title to be a reference to these adjoining canvases, and to the abrupt contrasts between the paint and the linen.
 
 ![Joanna van Son 'Portrait' (2024)](/van-son-general-1.jpeg)
 _Portrait_ (2024)
