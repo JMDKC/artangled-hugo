@@ -11,7 +11,7 @@ tags:
 
 By coincidence, the artist Francine Tint was in the gallery when I visited [her exhibition](https://www.upsilongallery.com/exhibitions/54-francine-tint-radical-acts-of-beholding/). Supported by a walking stick and accompanied by two men called David, she was on her way to lunch. On her way out, she said that she hadn’t been to London for 52 years.
 
-Tint owes an obvious debt to Abstract Expressionism, citing Helen Frankenthaler as a major influence. Back in the day, she was also friends and associates with AbEx uber-dealer Clement Greenberg. Like Frankenthaler, she’s an evocative colourist. She asserts her femininity in this most macho of movements, through the dreamy blurs of her strokes, and in the occasional glitter and sparkle of gold and silver within her primary colour fields.
+Tint owes an obvious debt to Abstract Expressionism, citing Helen Frankenthaler as a major influence. Back in the day, she was also friends and associates with Clement Greenberg, the critic who helped define the movement. Like Frankenthaler, she’s an evocative, airy colourist. AbEx is stereotypically macho. But both artists assert their femininity through the dreamy blurs of their strokes. And, in Tint's case, in the occasional glitter and sparkle of gold and silver within her primary colour fields.
 
 ![Francine Tint 'The Springeth Green' (2024)](/tint-upsilon-1.jpg)
 _The Springeth Green_ (2024)
