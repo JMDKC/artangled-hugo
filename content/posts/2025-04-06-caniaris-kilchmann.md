@@ -16,7 +16,7 @@ The artist, active from the 1960s, was a trenchant critic of capitalism, and a r
 
 ![Vlassis Caniaris 'Urinal of History' (1980)](/caniaris-kilchmann-1.jpeg)
 
-The key work in the Paris show is _ of History_, made in the 1980s after the artist had moved back to his native Greece. The three figures in a pissing posture are headless, made of wire mesh. The graffiti’d wall they face is laden with political slogans. Caniaris said that the figures stood for the “politically indifferent”. The atmosphere the work casts is profoundly antagonistic and grim.
+The key work in the Paris show is 'Urinal of History', made in the 1980s after the artist had moved back to his native Greece. The three figures in a pissing posture are headless, made of wire mesh. The graffiti’d wall they face is laden with political slogans. Caniaris said that the figures stood for the “politically indifferent”. The atmosphere the work casts is profoundly antagonistic and grim.
 
 They’re life size, and visitors to the gallery like me can walk among them, feeling vaguely implicated. Caniaris cared, and despised those who didn’t. But both he and they (we?) were still buffeted along by political and market forces bigger than them, forces that don’t care for acts of resistance, artistic or otherwise.
 
