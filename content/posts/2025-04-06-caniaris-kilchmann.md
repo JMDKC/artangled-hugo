@@ -10,7 +10,7 @@ tags:
   - Paris
 ---
 
-Vlassis Caniaris was an old-fashioned, bleeding heart, artist-activist. His work is both out of step with our more cynical times and completely relevant to them. He doesn't seem to be exhibited much. [This retrospective](https://www.peterkilchmann.com/exhibitions/533-vlassis-caniaris-works-from-1962-to-198011-13-rue-des-arquebusiers/) is the first in France since the artist’s death in 2011; he was also [shown at London’s Hellenic Centre in 2023](https://helleniccentre.org/event/vlassis-caniaris-selected-works-1960s-1980s/).
+Vlassis Caniaris was an old-fashioned, bleeding heart, artist-activist. His work is both out of step with our more cynical times and completely relevant to them. He doesn't seem to be exhibited much. [This retrospective](https://www.peterkilchmann.com/exhibitions/533-vlassis-caniaris-works-from-1962-to-198011-13-rue-des-arquebusiers/) is the first in France since the artist’s death in 2011, though he was also [shown at London’s Hellenic Centre in 2023](https://helleniccentre.org/event/vlassis-caniaris-selected-works-1960s-1980s/).
 
 The new Paris exhibition focuses on Caniaris’ sculptures to startling effect. Active from the 1960s, the artist was a relentless critic of capitalism, his constant focus was on those it damaged. He worked in France, Germany and his native Greece. In the 1960s in Paris, he made moving little works of consumer goods buried in concrete - paralysed by it. He wrapped other objects in dirty clothes. The work is obviously indebted to cutesy “new realists” like Niki de Sainte-Phalle and Christo and Jeanne-Claude, who used similar techniques. But Caniaris was far bleaker and angrier.
 
