@@ -32,6 +32,6 @@ Paul’s decision to exhibit her new version, from 2022, is a retaliation to thi
 
 Rachel Cusk is quite a cruel writer too, withholding the detail about Paul's lease right to the end of her long article. “It is a moment in which I believe I hear the sound of the last laugh being had,” she concludes.
 
-I’m thinking back to that room at Victoria Miro, the girl with the egg facing me, the colony of ghosts to my right, the vengeful Paul, on her chaise long, to my left. And I’m thinking - not so fast, Rachel!
+I’m thinking back to that room at Victoria Miro, the girl with the egg facing me, the colony of ghosts to my right, the vengeful Paul, on her chaise longue, to my left. And I’m thinking - not so fast, Rachel!
 
 _Celia Paul Diaries is at Hazlitt Holland-Hibbert (London). 21 March - 02 May 2025. Celia Paul: Colony of Ghosts is at Victoria Miro (London). 14 March - 17 April 2025_
