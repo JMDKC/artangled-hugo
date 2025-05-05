@@ -14,7 +14,7 @@ It would have seemed so to me even if Friedrich wasn’t the subject of an [outs
 
 Anyway, I’m sure Friedrich, as a deeply religious man, would be horrified to be associated with something as seedy and morally depraved as a vampire movie, once brought up to speed on what a movie is. But it’s a testament to the strength of his vibe, that what he originated in the crucible of Romanticism was powerful and redolent enough to curdle into cliché and kitsch - and to do this over centuries rather than decades. All the more surprising considering Friedrich, after some early success, fell out of favour in his own lifetime and died poor and obscure.
 
-![Caspar David Friedrich 'The Chasseur in the Forest' (1813-14)](/friedrich-met-1.jpeg)
+![Caspar David Friedrich 'The Chasseur in the Forest' (1813-14)](/friedrich-met-1.jpg)
 
 The Met’s galactic pulling power is evident in the fact that pretty much all of the artist’s most famous paintings are in the show. His proto-abstract _Monk by the Sea_, shockingly large and blank where so many of the other paintings are postage-stamp small. The iconic _Wanderer above the Sea of Fog_, where I noticed for the first time that the titular hero, dead centre of the canvas, is wearing a dandyish green velvet suit. It was dizzying to be with them all.
 
