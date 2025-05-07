@@ -20,7 +20,7 @@ The drawings are simple. One’s just a heart shape. Another’s a simple I LOVE
 
 I thought, as I walked around - what a lot of effort has been made in order for me to see these drawings! Not just the production infrastructure, but the _money_: Catala’s show stretches across several rooms of doubtless extremely expensive Tribeca gallery space. And what's the reward for all that effort. How on earth can he _sell_ this?
 
-“Love, I would add, in all of its candor and manipulative undertones, started to feel like an act of resistance,” Catala explains. Accordingly, my practical concerns and overly-earthly consideratons drifted away.
+“Love, I would add, in all of its candor and manipulative undertones, started to feel like an act of resistance,” Catala explains. Accordingly, my practical concerns drifted away.
 
 I realised: all this is as nonsensically complicated, as on-the-face-of-it absurd, as cussedly pointless, as being in love. These fragile, simple drawings made it here, somehow. Objectively, it wasn't worth it, but for some reason, it's enough.
 
