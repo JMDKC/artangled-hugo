@@ -18,7 +18,7 @@ What's the point of the show? The artist answers with a question. “What are tr
 
 The drawings are simple. One’s just a heart shape. Another’s a simple I LOVE YOU message. Another’s a dick, ejaculating still more love hearts.
 
-I thought, as I walked around - what a lot of effort has been made in order for me to see these drawings! Not just the production infrastructure, but the _money_: Catala’s show stretches across several rooms of doubtless extremely expensive Tribeca gallery space. And what's the reward for all that effort. How on earth can he _sell_ this?
+I thought, as I walked around - what a lot of effort has been made in order for me to see these drawings! Not just the production infrastructure, but the _money_: Catala’s show stretches across several rooms of doubtless extremely expensive Tribeca gallery space. And what's the reward for all that effort: how on earth can he _sell_ this work?
 
 “Love, I would add, in all of its candor and manipulative undertones, started to feel like an act of resistance,” Catala explains. Accordingly, my practical concerns drifted away.
 
