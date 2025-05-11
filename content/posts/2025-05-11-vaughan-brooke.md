@@ -19,14 +19,14 @@ Parker also describes the diaries as “largely dispiriting”, which is an unde
 
 “It amused me to send to H.M Inspector of Taxes yesterday a list, in duplicate, of the names & addresses of my sexual partners, past & present, with appropriate sums given to each, totalling £92 (model fees of course),” he wrote in 1965.
 
-“There are not many people I suppose the cost of whose sexual gratification can be charged to expenses. And yet it is from the contact I make with such people, physical & visual, that the brain cells which produce the erotic images are recharged. The pity is that i cannot find more bodies to hire.”
+“There are not many people I suppose the cost of whose sexual gratification can be charged to expenses. And yet it is from the contact I make with such people, physical & visual, that the brain cells which produce the erotic images are recharged. The pity is that I cannot find more bodies to hire.”
 
-It’s a tribute to Vaughan’s artistic skill that this chilling attitude can’t really be traced in his paintings and drawings, or at least can’t be traced in those [on show currently at the Brooke-Walder gallery in London](https://www.brookewalder.com/events/11/). There’s something sweetly reticent and fragile about the men on these walls.
+Bodies to hire. It’s a tribute to Vaughan’s artistic skill that this chilling attitude can’t really be traced in his paintings and drawings, or at least can’t be traced in those [on show currently at the Brooke-Walder gallery in London](https://www.brookewalder.com/events/11/). There’s something sweetly reticent and fragile about the men on these walls.
 
-_Nude Standing,_ from 1953 and pictured above, is the standout work on show, and sums a lot of the others up. The male figure is in the centre of a dingy room - or a wood: Vaughan liked to depict claustrophobic interiors, and also the Hampstead ponds and heath.
+_Nude Standing,_ from 1953 and pictured above, is the standout work on show, and sums a lot of the others up. This hired body is in the centre of a dingy room - or a wood: Vaughan liked to depict claustrophobic interiors, and also the Hampstead ponds and heath.
 
 His head is downcast, as if too shy to look at us. He is lit as beatifically as a Saint Sebastian. His sex hangs in semi-shadow, but is insistently delineated by the artist from the dark background and his muscular thighs.
 
-In real life, perhaps the young model is contemplating his fee - and what he’ll have to do to earn it. As he painted, perhaps the artist was pondering his next predation, and hating himself for it. Either way, this beautiful and enigmatic figure made it to a gallery wall in Mayfair, seven decades later. That's the opposite of dispiriting.
+In real life, perhaps the young model is contemplating his fee - and what he’ll have to do to earn it. As he painted, perhaps the artist was pondering his next predation, and hating himself for it. Either way, this beautiful and enigmatic figure made it to a gallery wall in Mayfair, seven decades later. I find that to be the opposite of dispiriting.
 
 _Keith Vaughan: Figures and Landscapes is at Brooke-Walder Gallery (London). 07 - 30 May 2025_
