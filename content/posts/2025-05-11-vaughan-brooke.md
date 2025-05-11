@@ -11,7 +11,7 @@ tags:
 
 Keith Vaughan worked at an ad agency and produced lyrical paintings of brawny but vulnerable-looking men on the side. He was well connected and successful in the post war years - with E.M. Forster and Christopher Isherwood among his collectors, and [Prunella Clough](https://artangled.com/tags/prunella-clough/) was a close friend.
 
-He kept extensive diaries throughout the decades, extracts from which provide some of the darkest moments in the recently-published [_Some Men in London_ anthologies](https://www.penguin.co.uk/books/311741/some-men-in-london-queer-life-1945-1959-by-parker-peter/9780241370605), which cover the capital’s queer lives between the years 1945 and 1967. Their editor, Peter Parker, notes that Vaughan was such a committed diarist that he made his last entry when, “suffering from cancer, he waited to lapse into unconsciousness after taking a deliberate overdose of barbiturates”.
+Extracts from Vaughan's extensive diaries provide some of the darkest moments in the recently-published [_Some Men in London_ anthologies](https://www.penguin.co.uk/books/311741/some-men-in-london-queer-life-1945-1959-by-parker-peter/9780241370605), which cover the capital’s queer lives between the years 1945 and 1967. Their editor, Peter Parker, notes that Vaughan was such a committed diarist that he made his last entry when, “suffering from cancer, he waited to lapse into unconsciousness after taking a deliberate overdose of barbiturates”.
 
 ![Keith Vaughan 'Nude Standing' (1953)](/vaughan-brooke-1.jpg)
 
