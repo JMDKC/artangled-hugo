@@ -25,8 +25,8 @@ Bodies to hire. It’s a tribute to Vaughan’s artistic skill that this chillin
 
 _Nude Standing,_ from 1953 and pictured above, is the standout work on show, and sums a lot of the others up. This hired body is in the centre of a dingy room - or a wood: Vaughan liked to depict claustrophobic interiors, and also the Hampstead ponds and heath.
 
-His head is downcast, as if too shy to look at us. He is lit as beatifically as a Saint Sebastian. His sex hangs in semi-shadow, but is insistently delineated by the artist from the dark background and his muscular thighs.
+His head is downcast, as if too shy to look at us. He is lit as adoringly as a Saint Sebastian. His sex hangs in semi-shadow, but is insistently delineated by the artist from the dark background, the muscular thighs.
 
-In real life, perhaps the young model is contemplating his fee - and what he’ll have to do to earn it. As he painted, perhaps the artist was pondering his next predation, and hating himself for it. Either way, this beautiful and enigmatic figure made it to a gallery wall in Mayfair, seven decades later. I find that to be the opposite of dispiriting.
+In real life, perhaps the young model is contemplating his fee - and what he’ll have to do to earn it. As he painted, perhaps the artist was pondering his next predation, and hating himself for it. Either way, this body made it to a gallery wall in Mayfair, seven decades later. I find that to be the opposite of dispiriting.
 
 _Keith Vaughan: Figures and Landscapes is at Brooke-Walder Gallery (London). 07 - 30 May 2025_
