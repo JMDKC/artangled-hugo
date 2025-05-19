@@ -11,9 +11,9 @@ tags:
   - London
 ---
 
-“My culture has always been rooted in a certain Mediterranean spirit, but also in darkness, in folk legends,” says Mimmo Paladino. The Italian artist has [imaginatively responded](https://massimodecarlo.com/exhibitions/mimmo-paladino-3) to the rather chintzy upstairs space of Massimo de Carlo in London, with some rather sinister installations using bronze, wood and gold.
+“My culture has always been rooted in a certain Mediterranean spirit, but also in darkness, in folk legends,” says Mimmo Paladino. Accordingly, the Italian artist has [imaginatively responded](https://massimodecarlo.com/exhibitions/mimmo-paladino-3) to the rather chintzy upstairs space of Massimo de Carlo in London, with some sinister installations using bronze, wood and gold.
 
-The standout is the untitled work pictured below: a mysterious figer, head turned away from us, has a gold-leafed branch stuck violently out of the board it’s painted on. The backing is gold leaf too: international gothic style, but portraying something more primitive and primal. The painting is surrounded by 90 gold leaf squares in perfect grid formation: Massimo de Carlo’s notes reveal this is a tribute to the Renaissance geometry of figures like Piero della Francesca. But the effect is truly pagan: it’s like an altarpiece, a backing for god knows what kind of sacrificial rituals.
+The standout is the untitled work pictured below: a mysterious figure, head turned away from us, has a gold-leafed branch stuck violently out of the board it’s painted on. The backing is gold leaf too, like an international gothic saint portrait. Except it portrays something more primitive and primal. The painting is surrounded by 90 gold leaf squares in perfect grid formation: Massimo de Carlo’s notes reveal this is a tribute to the Renaissance geometry of figures like Piero della Francesca. But the effect is truly pagan: it’s like an altarpiece, a backing for god knows what kind of sacrificial rituals.
 
 ![Mimmo Paladino 'Senza Titolo' (2025)](/paladino-massimo-1.jpg)
 
