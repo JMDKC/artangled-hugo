@@ -13,9 +13,11 @@ tags:
 
 “My culture has always been rooted in a certain Mediterranean spirit, but also in darkness, in folk legends,” says Mimmo Paladino. The Italian artist has [brought some of this spirit](https://massimodecarlo.com/exhibitions/mimmo-paladino-3) to the chintzy upstairs space of Massimo de Carlo in London, with some sinister installations using bronze, wood and gold.
 
-The standout is the untitled work pictured below: a mysterious figure, head turned away from us, has a gold-leafed branch stuck violently out of the board it’s painted on. The backing is gold leaf too, like an International Gothic saint's portrait. Except more primitive and primal. The painting is surrounded by 90 gold leaf squares in perfect grid formation: Massimo de Carlo’s notes reveal this is a tribute to the Renaissance geometry of artists like Piero della Francesca. But the effect is truly pagan: it’s like an altarpiece, a backing for god knows what kind of sacrificial rituals.
+The standout is the untitled work pictured below. It centres on a painting on board, backed by gold leaf, like an International Gothic saint's portrait. The painting's subject is a turned-away head, impaled by a gold-leafed tree branch, stuck violently out into the gallery.
 
 ![Mimmo Paladino 'Senza Titolo' (2025)](/paladino-massimo-1.jpg)
+
+The painting is surrounded by 90 gold leaf squares in perfect grid formation: Massimo de Carlo’s notes reveal this is a tribute to the Renaissance geometry of artists like Piero della Francesca. But the overall effect is truly pagan: it’s like an altarpiece, a backing for god knows what kind of sacrificial rituals.
 
 This work reminded me of another altarpiece-like installation, executed by another Italian veteran, also [on show across town](https://www.serpentinegalleries.org/whats-on/giuseppe-penone-thoughts-in-the-roots/). I'd seen it earlier in the week.
 
