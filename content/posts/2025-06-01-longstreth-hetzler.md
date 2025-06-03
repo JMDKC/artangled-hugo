@@ -34,6 +34,6 @@ _‘Chavez Ravine’ (2024)_
 
 There's no narrative here, no symbolism to unpack. The word the artist uses to describe tennis courts — a repeated motif — is “benign”. It describes his landscapes in general, too.
 
-When faced with such benignity, forming a critical opinion of the work - good, bad, or anything other than _something_ - seems to be besides the point.
+When faced with such benignity, forming a critical opinion of the work - good, bad, or anything other than _something_ - seems besides the point. Instead, we can simply enjoy the view.
 
 _Jake Longstreth: California Landscapes is at Max Hetzler (London). 24 April – 08 June 2025_
