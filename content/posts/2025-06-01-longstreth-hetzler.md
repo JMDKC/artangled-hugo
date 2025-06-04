@@ -18,14 +18,14 @@ In Longstreth's compositions, the foliage surrounds pristine-looking man-made st
 ![Agoura (2024)](/longstreth-hetzler-1.jpg)
 _‘Agoura’ (2024)_
 
-Longstreth’s oil-painted colour fields are crisp and bright. Light shapes everything. The hard, flat sunlight mutes colour and erases extraneous detail. Against this, shadows fall deep and sharp. The effect is more formal than atmospheric. There doesn’t seem to be a wisp of breeze, ever.
+Longstreth’s use of oil paint reflects this unopinionated, even passive approach. The surfaces are smooth, with little texture or gesture.
 
-These paintings are as entirely unopinionated as the show’s title. The elements — natural and man-made — don't feel portentous or moody: they're simply part of the landscape. The scenes are still and depopulated, but this stillness doesn’t seem eerie. They’re just… there.
+The artist’s colour fields are crisp and bright. Light - hard, flat sunlight - shapes everything. Against this, shadows fall deep and sharp. The effect is more formal than atmospheric. There doesn’t seem to be a wisp of breeze, ever.
 
 ![Vermont Canyon (2024)](/longstreth-hetzler-2.jpg)
 _‘Vermont Canyon’ (2024)_
 
-The artist’s use of oil paint reflects this unopinionated, even passive approach. The surfaces are smooth, with little texture or gesture. Colours appear dry and slightly faded, as if bleached by years in the sun.
+These paintings are as entirely unopinionated as the show’s title. The elements — natural and man-made — don't feel portentous or moody: they're simply part of the landscape. The scenes are still and depopulated, but this stillness doesn’t seem eerie. They’re just… there.
 
 Longstreth's work recalls David Hockney's early California period in its directness and clarity. It also brings to mind his contemporaries Hilary Pecis (another Californian, though one more interested in the scuzzy and down-at-heel) and Brian Alfred.
 
