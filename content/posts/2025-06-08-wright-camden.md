@@ -18,10 +18,10 @@ That’s part of the point. Wright has worked this way for years. His site-speci
 
 The gallery’s architecture shapes the show. Camden Art Centre was once a Victorian library, which you could guess from some of the flourishes and adornments in its decorative cornicing and vents. Later extensions added flat concrete planes. Wright responds to this mix. Across the walls of the gallery, his patterns wrap around its corners and echo the shape of its architectural features.
 
-The visual language is familiar. Wright uses repeated patterns and muted colours. The wall drawings suggest Bridget Riley but without the optical dazzle. Some compositions recall Mondrian in their balance of control and mysteriously satisfying asymmetry.
+The visual language is familiar. Wright uses repeated patterns and muted colours. The wall drawings suggest Bridget Riley but without the optical dazzle. Or maybe Mondrian in their mysteriously satisfying asymmetry.
 
-On a weekday visit, the space was almost empty, which seemed appropriate to the mood the works cast. Lucky me, it was sunny and still.
+On a weekday visit, the space was almost empty, which seemed appropriate to the mood the works cast. Lucky me, it was sunny and still: bright light filtered through the fancy library windows, picking out the patterns.
 
-The stillness of Wright’s work isn’t spiritual or emotional — it’s formal. The atmosphere was hushed and reflective. The paintings don’t dominate the space; they invite you in. I stayed longer than I meant to and left thinking, not long left.
+The stillness of Wright’s work isn’t spiritual or emotional — it’s formal. The paintings don’t dominate the space; they invite you in. I stayed longer than I meant to and left thinking, not long left.
 
 _Richard Wright is at Camden Art Centre, London, from 26 April to 23 June 2025._
