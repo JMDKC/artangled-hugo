@@ -21,6 +21,6 @@ I think I'm hooked by the work's psychological charge. Zuccheri's warped, crowde
 
 The repetition of a narrow range of motifs — Zuccheri paints angry skies, flat buildings, grass, and mud, over and over — certainly feels obsessive. He resembles [Giorgio Morandi](https://artangled.com/tags/giorgio-morandi/), a close contemporary, in this monomaniacal focus.
 
-This time around, maybe it’s also the staging. Sylvia Kouvali’s gallery is, as usual, lit harshly. Strong floor lights cast hard shadows on the walls. The effect suits work that’s so aggressively, memorably unpretty.
+This time around, maybe it’s also the staging. Sylvia Kouvali’s gallery is, as usual, lit harshly. Strong floor lights cast hard shadows on the walls. The effect enhances the work. The memorably unpretty work.
 
 _Luigi Zuccheri is at Sylvia Kouvali (London). 05 June – 09 August 2025_
