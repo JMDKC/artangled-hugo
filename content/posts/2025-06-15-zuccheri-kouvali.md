@@ -10,7 +10,7 @@ tags:
 
 Luigi Zuccheri liked animals and disliked people. He made this preference clear in his work. From the postwar years until his death in 1974, the Venetian painter produced small landscapes in muddy egg tempera. Each composition maroons tiny, barely delineated figures among oversized animals, trees and plants.
 
-Over time, this inverted perspective grew more extreme. His blameless beasts grew bigger. The humans shrank. The Sylvia Kouvali gallery, [which hosts a small Zuccheri exhibition in London this summer](https://sylviakouvali.com/exhibitions/luigi-zuccheri-london/), calls all this a “delicate exercise of misanthropy.”
+Over time, this inverted perspective grew more extreme. His blameless beasts grew bigger. The humans shrank. The Sylvia Kouvali gallery, [which hosts a small Zuccheri exhibition in London this summer](https://sylviakouvali.com/exhibitions/luigi-zuccheri-london/), calls all this a “delicate exercise of misanthropy”.
 
 ![Luigi Zuccheri 'Paesaggio con ghiandaia e figure umane' (1955/65)](/zuccheri-kouvali-1.jpeg)
 _Paesaggio con ghiandaia e figure umane_ (1955/65)
