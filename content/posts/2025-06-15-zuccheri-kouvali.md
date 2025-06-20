@@ -1,6 +1,6 @@
 ---
 title: "Luigi Zuccheri | Sylvia Kouvali"
-date: 2025-06-08
+date: 2025-06-15
 slug: "/zuccheri-kouvali"
 tags:
   - Luigi Zuccheri
