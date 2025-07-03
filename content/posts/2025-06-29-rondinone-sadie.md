@@ -12,7 +12,7 @@ I visited [_the rainbow body_](https://www.sadiecoles.com/exhibitions/1217-ugo-r
 
 Rondinone has argued that the rainbow is a “bridge between everything and everyone” - a statement of the universal that devolves into meaninglessness. It reflects the brain-emptying immersive experience of visiting this room.
 
-The new London installation is a reprise of Rondinone’s [\*nudes\* series](https://ugorondinone.com/exhibition/nude-2/) from 2010. Life-sized wax casts of hard-bodied dancers in meditative poses are arranged around the gallery. The earlier waxworks were in muted colours. Now they’re polychromatic, each rendered in a vivid shade: red, orange, yellow, green, blue, indigo, violet.
+The new London installation is a reprise of Rondinone’s [_nudes_ series](https://ugorondinone.com/exhibition/nude-2/) from 2010. Life-sized wax casts of hard-bodied dancers in meditative poses are arranged around the gallery. The earlier waxworks were in muted colours. Now they’re polychromatic, each rendered in a vivid shade: red, orange, yellow, green, blue, indigo, violet.
 
 ![Ugo Rondinone 'the rainbow body' (installation view)](/rondinone-sadie-1.jpeg)
 
