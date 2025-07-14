@@ -24,6 +24,6 @@ _Esse in Anima (1987)_
 
 The jagged edges are the whole point. On my second quick tour around the works, I noticed the occasional livid red undertow in the black waves of paint. Like blood.
 
-The monotony (literally so) of these paintings meant I didn’t stay much longer than that. Walking back down the stairs and into the sunshine, my sympathies were with the posh bored kid.
+The monotone misery of the work on show meant I didn’t stay much longer than that. Although, when walking back down the stairs and into the sunshine, and the spell broke, it seemed like I had been up there for 10 hours.
 
 _Derek Jarman: The Black Paintings: A Chronology. Part I 1984 - 1987 is at Amanda Wilkinson (London). 06 June - 11 July 2025_
