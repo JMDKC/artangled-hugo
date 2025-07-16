@@ -19,6 +19,6 @@ So, the list includes Lucian Freud (three copper etchings - I had never seen one
 
 A few contemporary artists are dotted around, like trailing space dust around the stars. One that caught my eye is Joanna van Son, whose [beautiful show at General Assembly](https://artangled.com/posts/van-son-general/) I’d enjoyed earlier in the year. Her dreamy, thickly-impasto’d group portrait faces a small yellow-hued work by [Frank Auerbach](https://artangled.com/tags/frank-auerbach/): her big inspiration.
 
-The show as a whole testifies to the bumptious ambition of the gallery that houses it. The press release reveals that Saatchi Yates has launched a membership scheme (just like the RA!) and [launched a tea towel](https://saatchiyates.com/shop/other) from a celebrity interior designer to commemorate the exhibition. It’s called _Arts Things Nicky Haslam Finds Common._
+The show as a whole is bumptiously ambitious. Like the gallery that houses it. The press release reveals that Saatchi Yates has launched a membership scheme (just like the RA!) and [is also selling a commemorative tea towel](https://saatchiyates.com/shop/other) from a celebrity interior designer. It’s called _Arts Things Nicky Haslam Finds Common._
 
 _Once Upon a Time in London is at Saatchi Yates (London). 12 June - 17 August 2025_
