@@ -5,6 +5,7 @@ slug: "/beryl-tom-voltaire"
 tags:
   - Beryl Cook
   - Tom of Finland
+  - Edward Burra
   - Studio Voltaire
   - London
 ---
