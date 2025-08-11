@@ -12,7 +12,7 @@ tags:
 
 This week, I’m writing about a bum on a bed. This particular bed is in the basement of Alice Amati, a small gallery in Fitzrovia that is [hosting a group show this summer](https://www.aliceamati.com/summer-group-show-curated-by-samuele-visentin).
 
-The bum’s been painted by Inès Michelotto, an Italy-born, London-based artist who cites portraitists like [Alice Neel](https://artangled.com/tags/alice-neel/) and [Paula Rego](https://artangled.com/tags/paula-rego/) as influences. Accordingly, there’s quite some psychological intensity to these oil-painted glutes. The work is called 'I love this side of you'.
+The bed (and the bum) was painted in oils by Inès Michelotto, an Italy-born, London-based artist who cites portraitists like [Alice Neel](https://artangled.com/tags/alice-neel/) and [Paula Rego](https://artangled.com/tags/paula-rego/) as influences. Accordingly, there’s quite some psychological intensity to these oil-painted glutes. The work is called 'I love this side of you'.
 
 The painting’s subject is face-down on some dark sheets. They’re prone, and somehow tense, despite lying in bed. The wall above, on which some grim-looking pillows are propped, seems to be sweaty, looming.
 
