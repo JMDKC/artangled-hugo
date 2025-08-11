@@ -24,6 +24,6 @@ The show notes contain a short story by Samuele Visentin, telling of a holiday r
 
 _“Why make it about you even, when it’s about independent will and right to self-affirmation? Why the fury against m-to-f individuals specifically? Here is the outline of inverted misogyny for the financially capable,”_ he writes.
 
-As a viewer, it’s tempting to read Michelotto’s own identity as a trans woman into what I at least see as an atmosphere of dread and tension in this image. Or maybe I’m misreading the psychological charge. But it’s there, vibrating in that basement in Fitzrovia.
+As a viewer, it’s tempting to read Michelotto’s own identity as a trans woman into what I at least see as an atmosphere of dread and tension in this image. Or maybe I’m misreading the frequency of this particular art-induced psychological charge. But there's a charge there either way, vibrating in that basement in Fitzrovia.
 
 _Eyes open, I breathe again is at Alice Amati (London). 10 July - 09 August 2025_
