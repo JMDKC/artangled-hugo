@@ -17,7 +17,7 @@ _Untitled_ (2025)
 
 Dmytrenko is influenced by Slavic mythology and childhood folk tales. She [often portrays Bolotnik](https://www.friendoftheartist.com/blogs/daria-dmytrenko), spirit of the swamps and rivers, who’s covered in algae and scales. The figures are blurrily biomorphic, scaly, with eyes that also suggest cloacal holes.
 
-What’s different about this work in particular is that it takes on the medium of the Christian icons, which I’m sure she saw a lot of back in Ukraine. There’s a few in Venice too.
+What’s different about this work in particular is that it takes on the medium of orthodox icons - paint on gold-leafed board - which I’m sure she saw a lot of back in Ukraine. There’s a few in Venice too.
 
 Dmytrenko works via her meditative practice, the forms coming from her subconscious rather than from any earthly model. An organised religion, for example.
 
