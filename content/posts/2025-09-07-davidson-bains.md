@@ -14,12 +14,12 @@ This time around (on the final afternoon of [this exhibition](https://desbains.c
 
 ![Lewis Davidson 'Electric Fall' (installation view)](/davidson-bains-1.jpg)
 
-As the press release makes clear, festival tents absolutely isn’t the artist Lewis Davidson’s inspiration for these works. They’re made from plastic carrier bags he picked up from the streets of London. On many of these streets, you see tents, and even encampments of tents, put up by homeless people, driven to the margins in a tough economy.
+As the press release makes clear, festivals absolutely didn't inspire the artist Lewis Davidson when he made these mini-tents. They’re made from plastic carrier bags he picked up from the streets of London. They're a comment on marginalisation and despair. Because, on many of these streets, you see tents, and even encampments of tents, put up by homeless people.
 
-They’re urban leftovers, these tents. Made of fragile material, not thick enough to protect the tent-dweller from the harsh elements, outside. Davidson nails his mini tents to uncompromising steel shelves. They’re lit from within. They’re “speculative architectures of refusal and retreat”, as the press release puts it.
+They’re urban leftovers, these tents. Made of fragile material, not thick enough to protect the tent-dweller from the harsh elements, outside. Back in the gallery, Davidson has nailed his mini tents to uncompromising steel shelves. They’re lit from within. They’re “speculative architectures of refusal and retreat”, as the press release puts it.
 
-But, in a darkened gallery room in Fitzrovia, they glow like luxurious Christmas lights. They’re vulnerable, sure, but they’re also pretty. Almost festive. It wasn’t what the artist was going for. But it’s what I took from him. Oh well.
+In this dark room, they glow like luxurious Christmas lights. As objects, they’re vulnerable, sure, but they’re also pretty. Almost festive. It wasn’t what the artist was going for. But it’s what I took from him. Oh well.
 
-Anyway, after I gave my view, the gallerist raised his eyebrows and said, haven’t heard that one before. I was mildly embarrassed and left. Probably I’ll stick to the press release next time.
+Anyway, after I gave him my dumb opinion, the gallerist raised his eyebrows and said, haven’t heard that one before. I was mildly embarrassed and left. Then I got home, recalled the festive glow, and wrote this.
 
 _Lewis Davidson: Electric Fall is at DES BAINS (London). 27 June - 06 September 2025_
