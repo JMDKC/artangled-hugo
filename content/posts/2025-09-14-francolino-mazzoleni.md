@@ -14,7 +14,7 @@ tags:
 
 A weighty word, then. It matches Francolino’s quite portentious art, which to me seemed inspired less by the ancients than by the 20th century. I’ll bet he clearly contemplated the work of [Lucio Fontana](https://artangled.com/tags/lucio-fontana/) and [Yves Klein](https://artangled.com/tags/yves-klein/) in order to find inspiration.
 
-![Andrea Francolino 'M²' (2024)](francolino-mazzoleni-1.jpg)
+![Andrea Francolino 'M²' (2024)](/francolino-mazzoleni-1.jpg)
 
 _M²_ (2024) is the show’s centrepiece. A triptych of cracked concrete squares, with the cracks filled in variously with soil, gold leaf and Klein-coloured lapis lazuli. A larger work on board on the wall opposite opposite features a savage, Fontana-like diagonal slash, again leafed in gold.
 
