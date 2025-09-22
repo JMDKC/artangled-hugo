@@ -10,7 +10,7 @@ tags:
   - London
 ---
 
-The most interesting thing about Mika Tajima’s art is the materials she uses. Though it has considerable aesthetic appeal too. In a [new collection of works at PACE](https://www.pacegallery.com/exhibitions/mika-tajima-anthesis/), these materials include marble, rose quartz and Art d’Ameublement”, whatever that is.
+The most interesting thing about Mika Tajima’s art is the materials she uses. Though it has considerable aesthetic appeal too. In a [new collection of works at PACE](https://www.pacegallery.com/exhibitions/mika-tajima-anthesis/), these materials include marble, rose quartz and "thermoformed PETG", whatever that is.
 
 Whatever it is, it _looks_ great. These works are collectively named _Art d’Ameublement_ (the art of furnishing), which seems to be a nod to their decorative prettiness. They’re dreamy horizontal bands of acrylic paint, recalling Rothko or Sean Scully, on a hard flat shiny surface: sheets of plastic that have been heat treated and shaped to have curvey edges.
 
