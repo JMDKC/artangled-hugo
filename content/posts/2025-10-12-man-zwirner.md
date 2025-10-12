@@ -17,7 +17,7 @@ Man’s portraits share impassive facial expressions, bright green skin and scar
 ![Victor Man 'Maternity (Curve Delle Anime)' (2025)](/man-zwirner-1.jpg)
 _Maternity (Curve Delle Anime)_ (2025)
 
-To hammer home the spooky, backward-looking nature of the art, the show’s press release quotes from a crepuscular text by Georg Trakl, an Austrian expressionist poet who died in 1914. ”…the flickering candlestick dies in slender hands. Hour of lonely sinisterness, mute awakening in the hallway in the sallow web of the moon…” And so on.
+To hammer home the spooky, backward-looking nature of the art, the show’s press release quotes from a crepuscular text by Georg Trakl, an Austrian expressionist poet who died in 1914. "The flickering candlestick dies in slender hands. Hour of lonely sinisterness, mute awakening in the hallway in the sallow web of the moon…” And so on.
 
 Overwrought words that would link as well to Trakl’s contemporaries Kandinsky or Franz Marc as they do to Victor Man. Though the paintings at David Zwirner are more morbid than either of _them_. But anyway, as I said before, addictively so.
 
