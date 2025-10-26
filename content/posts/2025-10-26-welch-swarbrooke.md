@@ -27,6 +27,6 @@ Then again, Denton also painted a lot of densely worked chocolate-box landscapes
 
 Things get frothier still above a fireplace on the gallery’s ground floor, where hangs a dreamy oil by Luke Edward Hall - one of today’s most successful purveyors of feyness. (The self-portrait mentioned above is up the stairs.) It’s a painting commissioned by the gallery for the show, called _Denton with Angel_. The author is posed, glasses- and pain-free, against vines, gazed at by a golden cherub. Welch’s long, drawn face, his waxy pallor, is smoothed out and prettified.
 
-In this way, we are given permission to leave the show, precious yellow book in hand, and put to the back of our minds the lonely pain of what’s upstairs. We give in to placid loveliness instead. A pity that Denton himself couldn’t do the same.
+In this way, we are given permission to put to the back of our minds the lonely pain of what’s upstairs. We give in to placid loveliness instead. A pity that Denton himself couldn’t do the same.
 
 _Strange Discoveries: The Art of Denton Welch is at John Swarbrooke Fine Art (London). 10-30 October 2025_
