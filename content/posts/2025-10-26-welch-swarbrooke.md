@@ -1,5 +1,5 @@
 ---
-title: "Strange Discoveries: The Art of Denton Welch I John Swarbrooke Fine Art"
+title: "Strange Discoveries: The Art of Denton Welch | John Swarbrooke Fine Art"
 date: 2025-10-26
 slug: "/welch-swarbrooke"
 tags:
