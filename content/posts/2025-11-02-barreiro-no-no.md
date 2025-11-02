@@ -11,7 +11,7 @@ tags:
 
 I saw a lot of really good art in Lisbon, including this exhibition, from the Spanish sculptor Pablo Barreiro. The scene seemed defiantly, even self-defeatingly local: Barreiro is from unusually far afield, next door in Spain. Most of the artists on show were Portuguese, and unfamiliar to me.
 
-I mentioned this to the (Italian) gallerist at the Barreiro show. She said, with what seemed to be a mix of affection and frustration, that insularity and aloofness is a national characteristic. She said that Carlos Bunga - who has [an upcoming show at a city museum](https://gulbenkian.pt/cam/en/agenda/carlos-bunga-inhabit-the-contradiction/) and [whose recent London exhibition I featured on here](https://artangled.com/posts/bunga-whitechapel/) - was really a rare example of a contemporary artist from Portugal who’s well-known abroad.
+I mentioned this to the (Italian) gallerist at the Barreiro show. She said, with what seemed to be both affection and frustration, that insularity and aloofness is a national characteristic. She said that Carlos Bunga - who has [an upcoming show at a city museum](https://gulbenkian.pt/cam/en/agenda/carlos-bunga-inhabit-the-contradiction/) and [whose recent London exhibition I featured on here](https://artangled.com/posts/bunga-whitechapel/) - was really a rare example of a contemporary artist from Portugal who’s well-known abroad.
 
 She also said that a huge proportion of privately-owned Ming dynasty porcelain, which Barreiro’s art riffs off, is in private hands in Portugal. Quite suitable, really, considering this mass European taste was imported by Portuguese navigators and explorers. At one point, this small nation was rapaciously (and cruelly) outward-facing, and it's still keeping some colonial booty to itself.
 
