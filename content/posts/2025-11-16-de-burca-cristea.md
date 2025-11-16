@@ -20,6 +20,4 @@ gilding of gold leaf onto glass. A technique once popular among the feudal upper
 
 From which so much exploitation, ecological and human, resulted. And is replicated in similarly environmentally destructive extractive systems for other materials, in other times. A big backstory to these tiny, shiny artworks.
 
-This exhibition forms part of London Art + Climate Week, and runs parallel to the UN Climate Change Conference, [**COP30.**](https://unfccc.int/cop30)
-
 _A Threatened Landscape is at Cristea Roberts Gallery (London). 23 October - 15 November 2025_
