@@ -8,7 +8,7 @@ tags:
   - London
 ---
 
-I came across Miriam de Búrca’s small gold-leaf-on-glass works, of dead trees in [a group show at Cristea Roberts](https://cristearoberts.com/exhibitions/277-a-threatened-landscape/). The conceit of the exhibition is ecological disaster. Accordingly, de Búrca sees this series, which portray skeletal trees, as reflecting the “existential reckoning” of “our current state of systemic and ecological turmoil”. Each of the works on show is titled after the reason the tree died: war, drought, forest fire.
+I came across Miriam de Búrca’s small gold-leaf-on-glass works in [a group show at Cristea Roberts](https://cristearoberts.com/exhibitions/277-a-threatened-landscape/). The conceit of the exhibition is ecological disaster. Accordingly, de Búrca sees this series, which portray skeletal dead trees, as reflecting the “existential reckoning” of “our current state of systemic and ecological turmoil”. Each of the works on show is titled after the reason the tree died: war, drought, forest fire.
 
 The artist adds: “I am joining in the call to confront this legacy, and ultimately to prompt discussion about where we want to take things from here.”
 
