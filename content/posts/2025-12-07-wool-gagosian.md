@@ -10,7 +10,7 @@ tags:
 
 You can test whether great art is actually great art - it'll be great regardless of where and how it’s displayed. This is a test Christopher Wool fails, based on a tiny sample size: a pair of exhibitions and a single viewer - me.
 
-Wool shows rarely. A retrospective at the Guggenheim in 2014, and nothing following that until three recent shows: first in New York City, now in London and Marfa, Texas. The viewer is therefore encouraged to feel the specialness of each glimpse we get of him.
+Wool shows rarely. A retrospective at the Guggenheim in 2014, and nothing following that until three new exhibitions over the past 18 months: first in New York City, now in London and Marfa, Texas. The viewer is therefore encouraged to feel the specialness of each glimpse we get of him.
 
 It was certainly a special occasion when he took over a disused upper floor of a skyscraper in New York City’s financial district last spring, lacing the space with his trademark wiggly wire sculptures, glitchy prints and photos. I saw it, and was [thrilled](https://artangled.com/posts/wool-greenwich/). Certainly by the combination of the art, the derelict looking space with its raw drywall, the spectacular city views through the window. Now I’ve seen a lot of the same work in London, I’m not so sure that the art was pulling its weight.
 
