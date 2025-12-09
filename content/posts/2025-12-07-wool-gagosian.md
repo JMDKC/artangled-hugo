@@ -1,5 +1,5 @@
 ---
-title: "Christopher Wool | Gagosian
+title: "Christopher Wool | Gagosian"
 date: 2025-12-07
 slug: "/wool-gagosian"
 tags:
