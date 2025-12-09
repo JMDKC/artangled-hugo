@@ -12,11 +12,11 @@ You can test whether great art is actually great art - it'll be great regardless
 
 Wool shows rarely. A retrospective at the Guggenheim in 2014, and nothing following that until three new exhibitions over the past 18 months: first in New York City, now in London and Marfa, Texas. The viewer is therefore encouraged to feel the specialness of each glimpse we get of him.
 
-It was certainly a special occasion when he took over a disused upper floor of a skyscraper in New York City’s financial district last spring, lacing the space with his trademark wiggly wire sculptures, glitchy prints and photos. I saw it, and was [thrilled](https://artangled.com/posts/wool-greenwich/). Certainly by the combination of the art, the derelict looking space with its raw drywall, the spectacular city views through the window. Now I’ve seen a lot of the same work in London, I’m not so sure that the art was pulling its weight.
+It was certainly a special occasion when he took over a disused upper floor of a skyscraper in New York City’s financial district last spring, lacing the space with his trademark wiggly wire sculptures, glitchy prints and photos. I saw it, and was [thrilled](https://artangled.com/posts/wool-greenwich/). Certainly by the combination of the art, the derelict looking space with its raw drywall, the spectacular city views through the window.
 
 ![Christopher Wool at Gagosian (installation view). All works untitled.](/gagosian-wool-1.jpg)
 
-On to the latest show, then. Compared to the humble surroundings in New York, Gagosian is such a fancy gallery that I was told off by security for leaning on a bare, white, pristine wall. Perhaps I was being insufficiently reverent, given it’s [the first Wool solo show in London in 21 years](https://gagosian.com/exhibitions/2025/christopher-wool/).
+Now I’ve seen a lot of the same work in London, I’m not so sure that the art was pulling its weight. Compared to the humble surroundings in New York, Gagosian is such a fancy gallery that I was told off by security for leaning on a bare, white, pristine wall. Perhaps I was being insufficiently reverent, given it’s [the first Wool solo show in London in 21 years](https://gagosian.com/exhibitions/2025/christopher-wool/).
 
 I viewed the curly wire sculptures and blotchy grey prints in a familiar space, in my home city. In New York last year, I still had my backpack from the plane when I stepped out of the lift, at leisure, excited to see something new. The glitchiness of the works - Wool leaves the screws and sutres of his metal sculptures visible; his wall works are based entirely around imperfect repetition - was left stranded on those white walls. And, somehow, their impact was lost. Is that all, I thought?
 
