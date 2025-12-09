@@ -8,7 +8,7 @@ tags:
   - London
 ---
 
-Let’s set a test: great art is great regardless of where it’s displayed. This is a test Christopher Wool fails, based on a tiny sample size: a pair of exhibitions and a single viewer - me.
+You can test whether great art is actually great art - it'll be great regardless of where and how it’s displayed. This is a test Christopher Wool fails, based on a tiny sample size: a pair of exhibitions and a single viewer - me.
 
 Wool shows rarely. A retrospective at the Guggenheim in 2014, and nothing following that until last spring. The viewer is therefore encouraged to feel the specialness of each glimpse we get of him.
 
