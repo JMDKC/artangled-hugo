@@ -13,7 +13,7 @@ tags:
 
 The jokey title sets the tone for this exhibition, [organised by Frankie Rossi Art Projects](https://frankierossiart.com/exhibitions/17-ooo-la-la-maggi-hambling-sarah-lucas/) and co-hosted on opposite sides of Bury Street, at Hazlitt Holland-Hiibbert and Sadie Coles HQ.
 
-These once-Young British Artists, who made their names in the Sensation-era 1990s, are now well into _grande dame status_, which explains the self-referential nature of the art on show at both venues.
+These once-Young British Artists, who made their names in the 80s and 90s, are now well into _grande dame status_, which explains the self-referential nature of the art on show at both venues.
 
 ![OOO LA LA: Maggi Hambling & Sarah Lucas - installation view (1)](/hambling-lucas-rossi-1.jpeg)
 
