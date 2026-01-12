@@ -13,13 +13,13 @@ tags:
 
 The jokey title sets the tone for this exhibition, [organised by Frankie Rossi Art Projects](https://frankierossiart.com/exhibitions/17-ooo-la-la-maggi-hambling-sarah-lucas/) and co-hosted on opposite sides of Bury Street, at Hazlitt Holland-Hiibbert and Sadie Coles HQ.
 
-These once-Young British Artists, who made their names in the 80s and 90s, are now well into _grande dame status_, which explains the self-referential nature of the art on show at both venues.
+These artists, who made their names in the 80s and 90s, are now well into _grande dame status_, though Hambling is a generation older. They're collectively successful, which explains the self-referential nature of the art on show at both venues.
 
 ![OOO LA LA: Maggi Hambling & Sarah Lucas - installation view (1)](/hambling-lucas-rossi-1.jpeg)
 
 Both artists have a set style and run profitable variations on that style: Lucas with her semi-sexy, semi-sad _bunny_ sculptures, Hambling with her wavy oil paintings. “On the one hand, it’s about looking at the old things, and on the other, it’s wanting to bring them right back to a state of freshness that has to have something to do with right now,” Lucas concedes, in the show notes.
 
-It’s impossible not to compare the two styles when they’re right next to each other in the galleries, but any rivalry between the two is strictly playful. Lucas has produced several “portraits” of Hambling for the show, including a pensive “bunny” in trainers, with a single, piercing blue eye - cyclops style. This is cleverly offset by a dense Hambling landscape, using a similar blow (all pictured below).
+It’s impossible not to compare the two styles when they’re right next to each other in the galleries, but any rivalry between the two is strictly playful. Lucas has produced several “portraits” of Hambling for the show, including a pensive “bunny” in trainers, with a single, piercing blue eye - cyclops style. This is cleverly offset by a dense Hambling landscape, using a similar blue (all pictured below).
 
 ![OOO LA LA: Maggi Hambling & Sarah Lucas - installation view (2)](/hanbling-lucas-rossi-2.jpeg)
 
