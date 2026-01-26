@@ -21,6 +21,6 @@ All a world away from Kentish Town. A part of Rego’s studio, along with some a
 
 The props on show were all used in the exhibition’s drawings. The pig and the scarecrow figure reappear again and again, in various distressed contortions. Rego staged the scenes in the studio so she could draw “from life”.
 
-Rego’s pastels, on a flimsy trolley next to her chair, are thoroughly used. Most movingly, an apron and a jumper, surely the artist’s, are draped over the chair. Surely the artist’s. For some reason - even though Rego died wealthy, famous and beloved - I found the ramshackle assemblage sad. Sad because of what had been lost: the unique, animating imagination that transformed these grubby props and stubby pastels into something great, something from life.
+Rego’s pastels, on a flimsy trolley next to her chair, are thoroughly used. Most movingly, an apron and a jumper, surely the artist’s, are draped over the chair. For some reason - even though Rego died wealthy, famous and beloved - I found the ramshackle assemblage sad. Sad because of what had been lost: the unique, animating imagination that transformed these grubby props and stubby pastels into something great, something from life.
 
 _Paula Rego: Drawing from Life is at Cristea Roberts Gallery (London). 27 November 2025 - 17 January 2026_
