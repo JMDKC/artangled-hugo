@@ -9,13 +9,11 @@ tags:
   - London
 ---
 
-January means it’s time for [Condo](https://www.condocomplex.org/london/): an annual event in which many of London’s commercial galleries partner up with a space from another country, and show… something new. My coverage (and attendance) of these events has been [pretty](https://artangled.com/posts/kim-herald/) [sporadic](https://artangled.com/posts/leonard-hauser-wirth/) over the years, but sometimes I’ve got lucky and come across something worth writing about.
+January means it’s time for [Condo](https://www.condocomplex.org/london/): an annual event in which many of London’s commercial galleries partner up with a space from another country, and show… something new. My coverage of these events has been [pretty](https://artangled.com/posts/kim-herald/) [sporadic](https://artangled.com/posts/leonard-hauser-wirth/) over the years. But this time, I found it behind a thick, offwhite curtain in the upper floor of Sadie Coles’ gallery on Kingly Street. A giant inflatable PVC ecstasy pill, conceived by Berlin-based artist Zuzanna Czebatul.
 
-This year, I found it behind a thick, offwhite curtain in the upper floor of Sadie Coles’ gallery on Kingly Street. A giant inflatable PVC ecstasy pill, conceived by Berlin-based artist Zuzanna Czebatul.
+It’s on show in London [thanks to Paris based sans titre](https://www.sadiecoles.com/exhibitions/hosting-sans-titre-paris). I guess the joke behind the artwork had to be pretty broad to make sense to all three galleries, in all three countries. But it’s a good one: the room buzzes thanks to an air-pressured tube being pumped into the pill, which is stamped with the word REVOLUTION on one side, RUSH on the other.
 
 ![CONDO London: hosting sans titre, Paris | Sadie Coles HQ (installation view)](/condo-coles-1.jpeg)
-
-It’s on show in London [thanks to Paris based sans titre](https://www.notion.so/Massaman-Beef-Curry-e338c1f9a0724845a16f8a2ef1f02605?pvs=21). I guess the joke behind the artwork had to be pretty broad to make sense to all three galleries, in all three countries. But it’s a good one: the room buzzes thanks to an air-pressured tube being pumped into the pill, which is stamped with the word REVOLUTION on one side, RUSH on the other.
 
 Inflatable art is pretty rare - I can only think of [one occasion](https://artangled.com/posts/von-calhau-kunstraum/) I’ve seen some in my years of writing this blog. But I like its potential for monumental scale, without the eyeroll-inducing capital-s Seriousness of most monumental art. Maybe Richard Serra should have got his pump out and tried it.
 
