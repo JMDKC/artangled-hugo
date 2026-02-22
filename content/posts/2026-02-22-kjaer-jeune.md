@@ -1,6 +1,6 @@
 ---
 title: "Esben Weile Kjær: FOOL | Albion Jeune"
-date: 2026-02-26
+date: 2026-02-22
 slug: "/kjaer-jeune"
 tags:
   - Esben Weile Kjær
