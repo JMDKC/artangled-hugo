@@ -5,7 +5,7 @@ slug: "/turner-constable-tate"
 tags:
   - JMW Turner
   - John Constable
-  - Tate Britai
+  - Tate Britain
   - London
 ---
 
