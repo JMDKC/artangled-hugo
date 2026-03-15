@@ -9,9 +9,9 @@ tags:
   - London
 ---
 
-[Sean Scully](https://www.notion.so/Oliver-324a2e997bd280469f57f0b508d6d14e?pvs=21) uses shiny strokes of glossy oil paint on a tough, shiny aluminium backing to create works of considerable heft. Abstract Expressionism, and its presiding deity Mark Rothko, is an obvious influence. But Irish-born Scully is more down-to-earth and less mournfully spiritual than his American predecessor.
+[Sean Scully](https://artangled.com/tags/sean-scully/) uses shiny strokes of glossy oil paint on a tough, shiny aluminium backing to create works of considerable heft. Abstract Expressionism, and its presiding deity [Mark Rothko](https://artangled.com/tags/mark-rothko/), is an obvious influence. But Irish-born Scully is more down-to-earth and less mournfully spiritual than his American predecessor.
 
-I saw, and was moved by, a collection of his blue-hued works at [Thaddeus Ropac in Paris last year](https://www.notion.so/Oliver-324a2e997bd280469f57f0b508d6d14e?pvs=21). Then, he advised visitors to listen to _Unchained Melody_ while they looked (lonely rivers running to the sea, to the sea). This time, at [Lisson Gallery in London](https://www.notion.so/Oliver-324a2e997bd280469f57f0b508d6d14e?pvs=21), he tells us of “the endless redrawn shoreline”. It makes sense: Rothko’s horizontal bands suggested something celestial, galactic; Scully is constantly aware of the natural world around him.
+I saw, and was moved by, a collection of his blue-hued works at [Thaddeus Ropac in Paris last year](https://ropac.net/online-exhibitions/224-sean-scully-blue/1). Then, he advised visitors to listen to _Unchained Melody_ while they looked (lonely rivers running to the sea, to the sea). This time, at [Lisson Gallery in London](https://www.lissongallery.com/exhibitions/lisson-street-sean-scully-the-nature-of-art), he tells us of “the endless redrawn shoreline”. It makes sense: Rothko’s horizontal bands suggested something celestial, galactic; Scully is constantly aware of the natural world around him.
 
 ![Sean Scully – The Nature of Art (installation view)](/scully-lisson-1.jpeg)
 
