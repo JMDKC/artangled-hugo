@@ -17,16 +17,16 @@ I was conscious of his presence as I looked at the works on show: sculptures of 
 
 ![Nigel Hall: My Choice (installation view)](/hall-annely-juda-1.jpeg)
 
-I was conscious of his presence as I looked at these works and took notes. He approached me as I went to leave and said: “Thank you for looking at them properly.”
+He approached me as I went to leave and said: “Thank you for looking at them properly.”
 
-I was very flattered by this comment, more than he could know. I hope he was satisfied by my answer, which I can’t remember but I’m sure was awkward. I’m always conscious as a visitor that I’m not looking at the works hard enough, not having the right thoughts, not making the right connections. I never feel like I’m looking properly.
+I was very flattered by that. I hope he was satisfied by my answer, which I can’t remember but I’m sure was awkward. I’m not sure I agreed with him. I always feel I’m not looking at the works hard enough, not having the right thoughts from the act of looking, not making the right connections from what I interpreted. Not looking properly.
 
-This time around, I was on my lunch hour from the office up the road, and had errands to run. I can’t have been there for more than 10 minutes, which surely isn’t proper. But he thought I was behaving properly, or at least he told me so.
+This time around, I was on my lunch hour from the office up the road, and had errands to run. I can’t have been there for more than 10 minutes, which surely isn’t proper. But the artist thought I was behaving properly, or at least he told me so.
 
 What did I see? Whorls of polished wood which made me think of [David Nash](https://artangled.com/tags/david-nash/). Rusty iron which made me think of [Richard Serra](https://artangled.com/tags/richard-serra/). A memory of the [Barbara Hepworth](https://artangled.com/tags/barbara-hepworth/) sculpture, just over the road from the gallery on the side of the John Lewis building on Oxford Street. Man-made forms suggesting natural forms.
 
 I didn’t tell him any of this because I wasn’t confident enough he rated these other artists highly enough not to be flattered himself.
 
-Am I looking properly? I should look more and hope to find an answer.
+Am I looking properly after all? I should look more and hope to find an answer.
 
 _Nigel Hall: My Choice is at Annely Juda Fine Art (London). 12 March - 25 April 2026_
