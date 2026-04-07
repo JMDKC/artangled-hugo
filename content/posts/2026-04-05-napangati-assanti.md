@@ -20,6 +20,6 @@ The artists remain silent, the show notes were written by a curator. What is cle
 
 Purely aesthetically, of the three, the work of Yukultji Napangati stood out most to me. Her works are composed of closely linked dots and lines in polymer paint - close enough that it sort of blends into one when viewed from afar, but different enough that the lines distort, become hard even to look at. On a sunny day, it was almost unbearable to view face on, and I had to retire to the side to make it out.
 
-I was maybe too harsh on the notes, which contain the useful pointer that Marrapinti’s work “suggest the optical effect of shimmering heat and light on sand”, which seems just right. Beyond that, I have no idea, and the circumstances in which the art was produced and promoted remain obscure. Looking’s enough. then.
+I was maybe too harsh on the notes, which contain the useful pointer that Marrapinti’s work “suggest the optical effect of shimmering heat and light on sand”, which seems just right. Beyond that, I have no idea, and the circumstances in which the art was produced and promoted remain obscure. Looking’s enough, then.
 
 _Portals to Place: Three Papunya Tula Artists is at Edel Assanti (London). 20 March - 16 May 2026_
