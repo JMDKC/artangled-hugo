@@ -8,7 +8,7 @@ tags:
   - London
 ---
 
-I had always mentally bucketed Alex Katz as a borderline-misogynist Pop Artist. Given he came to fame in the 1960s with weirdly static portraits of pneumatic women. But most recently, exhibitions of his work at the Timothy Taylor gallery in London has revealed him to be a landscape artist of great sensitivity and freedom. So when I saw the title of [this latest exhibition](https://www.timothytaylor.com/exhibitions/260-alex-katz-various-trees/) - _Various Trees_ -\_ I had to visit.
+I had always mentally bucketed Alex Katz as a borderline-misogynist Pop Artist. He rose to fame in the 1960s and is still best known for his offputtingly static portraits of pneumatically-endowed women. But most recently, several exhibitions of his work at the Timothy Taylor gallery in London changed my mind. Lately, he's become a landscape artist of great sensitivity and freedom. So when I saw the title of [this latest exhibition](https://www.timothytaylor.com/exhibitions/260-alex-katz-various-trees/) - _Various Trees_ - I had to visit.
 
 Katz paints what’s around him: trees near his home studio in Maine, mainly. Some from Rome too. He paints what he calls “quick things passing”. There’s such freedom and fluidity in his brush strokes. In the small studies and full scale works on show, there are trees in summer, trees in winter: some clearly identifiable, some simplified into near abstraction.
 
