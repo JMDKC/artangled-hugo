@@ -19,7 +19,7 @@ As an artistic stance, this is quite radical, especially when compared with his 
 ![Wayne Thiebaud 'Cakes' (1963)](/thiebaud-courtauld-1.jpeg)
 _Cakes_ (1963)
 
-I was pretty enraptured by the two previous Thiebaud shows I’d seen, [one in London in 2017](https://www.notion.so/2025-11-23-thiebaud-courtauld-2b3a2e997bd2806a9fc6f36f6de91656?pvs=21), [one in New York last year](https://www.acquavellagalleries.com/exhibitions/wayne-thiebaud5). And [now he’s at the Courtauld](https://www.notion.so/2025-11-23-thiebaud-courtauld-2b3a2e997bd2806a9fc6f36f6de91656?pvs=21), his first UK museum exhibition.
+I was pretty enraptured by the two previous Thiebaud shows I’d seen, [one in London in 2017](https://www.whitecube.com/gallery-exhibitions/1962-to-2017), [one in New York last year](https://www.acquavellagalleries.com/exhibitions/wayne-thiebaud5). And [now he’s at the Courtauld](https://courtauld.ac.uk/whats-on/exh-wayne-thiebaud-american-still-life/), his first UK museum exhibition.
 
 Both of the commercial galleries showed a broader range of Thiebaud’s work, including some unsurprisingly sunny landscapes from the artist’s native California, and some surprisingly inscrutable portraits. But the Courtauld goes hard on what makes him famous: cakes, pies, the occasional hot dog or cup of coffee, all picked out in luscious, abundant… I almost said edible oil paints.
 
