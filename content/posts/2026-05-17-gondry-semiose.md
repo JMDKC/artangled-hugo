@@ -8,7 +8,7 @@ tags:
   - Paris
 ---
 
-I love an intimidating gallery entrance (I wrote a whole blog about my favourites during lockdown) and can’t think of a better one than [15 Orient in New York City](https://15orient.com/). Up several floors in a dilapidated building in a particularly dodgy part of Chinatown, the gallery door is unlabeled, or it was when I was there anyway. Once you’re inside - possibly after a couple of false starts, and you’ve opened the door for one of the textile businesses elsewhere in the building - the gallery is low lit and damp.
+I love an intimidating gallery entrance ([I wrote a whole blog about my favourites during lockdown](https://josephclift.com/writing/gallery-entrances/)) and can’t think of a better one than [15 Orient in New York City](https://15orient.com/). Up several floors in a dilapidated building in a particularly dodgy part of Chinatown, the gallery door is unlabeled, or it was when I was there anyway. Once you’re inside - possibly after a couple of false starts, and you’ve opened the door to one of the textile businesses elsewhere in the building by mistake - the gallery is low lit and damp.
 
 When I last visited, there was a collection of chic-looking Home Depot orange plastic buckets strewn across the floor, collecting droplets from the ceiling. The windows were open, because the unfriendly gallerist smoked -cigarettes! I think he vibe checked me when I went in and turned away in disgust. I think he might have been French?
 
