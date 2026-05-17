@@ -1,6 +1,6 @@
 ---
 title: "Seurat and the Sea | The Courtauld Gallery"
-date: 2026-05-03
+date: 2026-05-10
 slug: "/franzen-uffner"
 tags:
   - Georges Seurat
