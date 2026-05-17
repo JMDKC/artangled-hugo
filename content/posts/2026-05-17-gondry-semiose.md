@@ -19,7 +19,7 @@ If he was, he might have been Paul Gondry, who co-founded 15 Orient. He’s a mu
 
 Perhaps in deference to the artist’s main gig, the show notes reach for cinematic references: FW Murnau and David Lynch.
 
-This was the penultimate show I saw on my trip, which was as packed and exhausting as ever. Maybe I was primed to love it, as by that point I resembled Gondry’s wraith-like, spectral figures, picked out in such thin oil paint the canvas’ texture shows through. In two hours’ time, I’d be asleep on the Eurostar.
+This was the penultimate show I saw on my Paris trip, which was as packed and exhausting as ever. Maybe I was primed to love it, as by that point I resembled Gondry’s wraith-like, spectral figures, picked out in such thin oil paint the canvas’ texture shows through. In two hours’ time, I’d be asleep on the Eurostar.
 
 Back in London, his was the show that came back to my mind, now the time has come to write my weekly post on here. The paintings passed _my_ vibe check, clearly.
 
