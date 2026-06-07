@@ -18,14 +18,14 @@ Thomas Ruff rose to international prominence in the late 1980s as a member of th
 
 This week, a pair of Ruffs in [this group show](https://workplace.art/exhibitions/from-the-other-end-of-the-hallway) at Workplace in London caught my eye. They're from his first series, Interieurs, executed in the late 70s and early 80s when he was still a student of the Bechers. Ruff photographs interiors of middle-class German homes from his hometown of Zell am Harmersbach, in the Black Forest region.
 
-![Thomas Ruff, 'Interieur 10B' (1980)](/ruff-workplace-1.jpg)
+![Thomas Ruff, 'Interieur 10B' (1980)](/ruff-workplace-1.jpeg)
 _Interieur 10B_ (1980)
 
 The rooms are neat and well appointed. But they're also really tacky. The frosted glass. The chintzy ornaments. The hideous patterned wallpaper. Wooden bedsteads and wardrobes that seem both overbearing and flimsy. The two bedspreads across the two photos - one pink, one a bilious yellow-green - seem to compete with each other: which can look more synthetic, more uncomfortable?
 
 And beneath Ruff's mercilessly clat, flear lens, flaws emerge. The baseboards are a bit gappy. Is that a film of dust on the counter? Are the framed photos nailed to the wall off centre?
 
-![Thomas Ruff, 'Interieur 7C' (1981)](/ruff-workplace-2.jpg)
+![Thomas Ruff, 'Interieur 7C' (1981)](/ruff-workplace-2.jpeg)
 _Interieur 7C_ (1981)
 
 The two rooms could almost be the same one. We're only clued in that they're different because the two clocks - visible in each - tell different times: 2.15 and 6.15. Morning or evening: the light in both photographs is electric. Unnatural.
