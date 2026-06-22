@@ -8,7 +8,7 @@ tags:
   - London
 ---
 
-Carolina Aguirre, born in Chile and working in London, is said, by the notes accompanying her new exhibition, to create “mythopoetic landscapes”. And, this time around at Palmer Gallery, a new space just north of the Westway, we are to experience a “mineralised environment”.
+Carolina Aguirre, born in Chile and working in London, is said, by the notes accompanying [her new exhibition](https://palmergallery.co.uk/exhibitions/36-it-murmurs-carolina-aguirre/overview/), to create “mythopoetic landscapes”. And, this time around at Palmer Gallery, a new space just north of the Westway, we are to experience a “mineralised environment”.
 
 In practice this means some tree trunk-like forms in mixed media. These are inspired by “nursing logs”: dead collapsed tree trunks that, prone, support new growth and life. I wasn’t overwhelmed by this - I could detect minerals, but not much myth or poetry - but then my eye was drawn to an partially open side door…
 
