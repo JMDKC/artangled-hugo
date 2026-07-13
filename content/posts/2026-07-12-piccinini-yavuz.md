@@ -14,6 +14,8 @@ The artist builds sculptures of uncanny, chimerical beings that sit at the edges
 
 ![Patricia Piccinini, Holding Tight and Letting Go (installation view)](/piccinini-yavuz-1.jpg)
 
-Her figures trigger something almost parental in me, with their soft skin, realistic eyes, rounded noses. Big hairy feet with talons. Body horror isn't quite right. More body disconcertion. Which, coupled with their care and protection of each other, made them very touching.
+Her figures triggered something in me, but I'm not sure what it was. On the edge of one emotion and another, both unnamable. They have soft skin, realistic eyes, rounded noses, lush manes of hair. And big hairy feet with talons. Freakily elongated faces. Blank expressions.
+
+What's the overall effect? Body horror isn't quite right. More body disconcertion. At least the figures care and protect each other, cuddling in bed, regardless of how the viewer feels.
 
 _Patricia Piccinini: Holding Tight and Letting Go is at Ames Yavuz (London). 04 June - 11 July 2026_
