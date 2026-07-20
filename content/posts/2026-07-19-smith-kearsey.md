@@ -19,7 +19,7 @@ One door, a few floors below the gallery, has a grumpy printed sign: THIS IS NOT
 
 It turns out Lucien Smith is a Wizard of Oz fan. For this [new show](https://freight.cargo.site/m/M3038869781257578086436388135047/Burn-Down-the-House-Press-Release-1.pdf), he has painted small, silver works, studding a blue-painted wall. Look at them, and we're looking up into a stormy sky, wide-eyed as the virginal Dorothy, as our house falls towards us.
 
-![Lucien Smith, Burn Down the House, installation view](/smith-kearsey-1.jpg)
+![Lucien Smith, Burn Down the House, installation view](/smith-kearsey-1.jpeg)
 
 In the show's press release, Smith references a specific strand of American art. Martha Rosler, Cady Noland, Barbara Kruger. Jenny Holzer's "Protect me from what I want". 1980s desire and consumption, an ironic counterpart to Dorothy's pre-war purity.
 
