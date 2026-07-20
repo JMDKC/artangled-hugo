@@ -1,6 +1,6 @@
 ---
 title: "Oscar Santillán: SOLARIS | Copperfield"
-date: 2026-06-07
+date: 2026-07-05
 slug: "/santillan-copperfield"
 tags:
   - Oscar Santillán

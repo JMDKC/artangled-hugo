@@ -1,6 +1,6 @@
 ---
 title: "Patricia Piccinini: Holding Tight and Letting Go | Ames Yavuz"
-date: 2026-06-14
+date: 2026-07-05
 slug: "/piccinini-yavuz"
 tags:
   - Patricia Piccinini
