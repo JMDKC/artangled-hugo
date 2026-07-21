@@ -25,6 +25,6 @@ In the show's press release, Smith references a specific strand of American art.
 
 "Is the storm the metaphor, or was it the house," the artist adds. "I don't think the show is prescribing anything. It's more a question about what we're actually building when we build a life, and what it might mean to let it go."
 
-This is not a brothel. We're in Kansas anymore either.
+This is not a brothel. We're not in Kansas anymore either.
 
 _Lucien Smith: Burn Down the House is at Kearsey & Gold (London). 4 June - 17 July 2026_
