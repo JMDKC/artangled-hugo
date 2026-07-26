@@ -1,7 +1,7 @@
 ---
 title: "Emily Kraus: In Relation | Luhring Augustine"
 date: 2026-04-26
-slug: "/connor-paley"
+slug: "/kraus-luhring"
 tags:
   - Emily Kraus
   - Luhring Augustine
