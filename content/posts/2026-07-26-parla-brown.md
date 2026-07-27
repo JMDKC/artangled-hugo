@@ -20,7 +20,7 @@ As I’ve written before, though, I’ve never been a huge fan of artists who ne
 
 Well, from one work in particular: _Infinite Mnemonic Horizon_, pictured above. It's one of those Havana sunsets. Its paint is crusty, built up in ridges that lap right to the edges of the frameless canvas.
 
-Parlá writes: "With every stroke I record a life lived in transit: gestures become maps, and maps become the language of remembrance." Fair enough. Last time I was at Ben Brown Fine Arts it was for Gavin Turk's paintings of half-open doors, paintings about escape and elsewhere.
+Parlá writes: "With every stroke I record a life lived in transit: gestures become maps, and maps become the language of remembrance." Fair enough. Last time I was at Ben Brown Fine Arts it was for [Gavin Turk's paintings of half-open doors](https://artangled.com/posts/connor-paley/). These were also paintings about escape, the elsewhere.
 
 Parlá's paintings are about elsewhere too, just filtered through the lag of memory rather than the moment of looking. Sometimes, luckily, that’s a memory of a pretty sunset.
 
