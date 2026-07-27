@@ -9,18 +9,16 @@ tags:
   - London
 ---
 
-An engram is the physical trace a memory leaves in the brain. US-born painter José Parlá based his new show at Ben Brown Fine Arts around that concept. Each work slyly inverts the _en plein air_ tradition of the Impressionists, who stood around for hours in nature and tried to capture what they saw.
+An engram is the physical trace a memory leaves in the brain. US-born painter José Parlá based his [new show at Ben Brown Fine Arts](https://www.benbrownfinearts.com/exhibitions/232-jose-parla-engrams/) around that concept. Each work slyly inverts the _en plein air_ tradition of the Impressionists, who stood around for hours in nature and tried to capture what they saw.
 
-Instead, Parlá goes somewhere and sees something once, goes home and tries to recreate it. The final works contain loops, circuits and swirls of acrylic paint overlays - meant to suggest neural or other corporeal networks. Places visited include a wall in New York. A forest in Japan. A Havana sunset.
-
-The result is tight, bound spirals of acrylic paint. Crusts and whirls of colour, dense as neural pathways. Up close they read like circuitry. Step back and they resolve into place: a horizon, a wall, a treeline.
+Instead, Parlá goes somewhere and sees something once, goes home and tries to recreate it. The final works are overlaid with loops, circuits and swirls of acrylic paint - meant to suggest neural or other corporeal networks. The places he visited include a wall in New York. A forest in Japan. A Havana sunset.
 
 ![José Parlá 'Infinite Mnemonic Horizon' (2026)](/parla-brown-1.jpeg)
 _Infinite Mnemonic Horizon (2026)_
 
-As I’ve written before, though, I’ve never been a huge fan of artists who need to explain the concept behind their works in order for them to be enjoyed. The pleasure I caught from this show comes from aesthetic appeal rather than the artist’s conceit.
+As I’ve written before, though, I’ve never been a huge fan of artists who need to explain the concept behind their works in order for them to be enjoyed. The pleasure I took from this show came from the aesthetic appeal of many of the works, rather than the artist’s conceit.
 
-It was _Infinite Mnemonic Horizon_, pictured above, that caught me. The paint is crusty, built up in ridges that lap right to the edges of the frameless canvas. Colour instead of drawing does the describing.
+Well, from one work in particular: _Infinite Mnemonic Horizon_, pictured above. It's one of those Havana sunsets. Its paint is crusty, built up in ridges that lap right to the edges of the frameless canvas.
 
 Parlá writes: "With every stroke I record a life lived in transit: gestures become maps, and maps become the language of remembrance." Fair enough. Last time I was at Ben Brown Fine Arts it was for Gavin Turk's paintings of half-open doors, paintings about escape and elsewhere.
 
