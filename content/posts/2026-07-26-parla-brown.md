@@ -16,7 +16,7 @@ Instead, Parlá goes somewhere and sees something once, goes home and tries to r
 ![José Parlá 'Infinite Mnemonic Horizon' (2026)](/parla-brown-1.jpeg)
 _Infinite Mnemonic Horizon (2026)_
 
-As I’ve written before, though, I’ve never been a huge fan of artists who need to explain the concept behind their works in order for them to be enjoyed. The pleasure I took from this show came from the aesthetic appeal of many of the works, rather than the artist’s conceit.
+[As I’ve written before](https://artangled.com/posts/santillan-copperfield/), though, I’ve never been a huge fan of artists who need to explain the concept behind their works in order for them to be enjoyed. The pleasure I took from this show came from the aesthetic appeal of many of the works, rather than the artist’s conceit.
 
 Well, from one work in particular: _Infinite Mnemonic Horizon_, pictured above. It's one of those Havana sunsets. Its paint is crusty, built up in ridges that lap right to the edges of the frameless canvas.
 
