@@ -13,7 +13,7 @@ The Norwegian artist Ida Ekblad's friend has a young child who mispronounces her
 
 It's her first show in the gallery's London space, though her sixth with Max Hetzler overall. Two rooms, and each one bleeds differently.
 
-[!Ida Ekblad: EAT AN EGGPLANT (installation view)](/ekblad-hetzler.jpeg)
+[!Ida Ekblad: EAT AN EGGPLANT (installation view)](/ekblad-hetzler-1.jpeg)
 
 The dark second gallery holds a large glass lantern, spinning slowly, pendant-hung, an LED glowing inside it. Ekblad has cross-hatched the glass with thick, shiny paint on top, so the light comes through broken up, in fragments.
 

@@ -15,7 +15,7 @@ This show, juxtaposes three 20th century artists with four pieces of stained gla
 
 Time to concentrate on the actual artworks. From Piet Mondrian, a luminous early-career landscape. Paul Klee, a couple of pulsating watercolours. And my favourite, the minimalist Brice Marden with some designs for the Basel cathedral windows, from the 1970s.
 
-![Brice Marden at Luxembourg + Co (installation view)](/marden-luxembourg.jpeg)
+![Brice Marden at Luxembourg + Co (installation view)](/marden-luxembourg-1.jpeg)
 
 Marden was commissioned by the city of Basel in 1977 to design the stained glass, and spent nearly a decade on the compositions, even after Basel dropped the project.
 
