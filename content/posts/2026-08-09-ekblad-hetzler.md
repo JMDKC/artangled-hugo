@@ -9,7 +9,7 @@ tags:
   - London
 ---
 
-The Norwegian artist Ida Ekblad's friend has a young child who mispronounces her name as "Eatan Eggplant". _EAT AN EGGPLANT_ it is, then. A suitable title, then, for this show, and an artist whose work is full of things bleeding into other things.
+The Norwegian artist Ida Ekblad's friend has a young child who mispronounces her name as "Eatan Eggplant". So, _EAT AN EGGPLANT_ seems a suitable title [for her new London show](https://www.maxhetzler.com/exhibitions/ida-ekblad-eat-eggplant-2026), and an artist whose work is full of things bleeding into other things.
 
 It's her first show in the gallery's London space, though her sixth with Max Hetzler overall. Two rooms, and each one bleeds differently.
 
