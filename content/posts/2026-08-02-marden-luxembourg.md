@@ -11,7 +11,7 @@ tags:
   - London
 ---
 
-This show, juxtaposes three 20th century artists with four pieces of stained glass: two medieval, two Victorian. These 19th century stained glass windows are pretty but stolid: it’s a shame that they dominate the gallery room, for being so big - and hung directly against the gallery’s high, west-facing windows.
+This show juxtaposes three 20th century artists with four pieces of stained glass: two medieval, two Victorian. These 19th century stained glass windows are pretty but stolid: it’s a shame that they dominate the gallery room, for being so big - and hung directly against the gallery’s high, west-facing windows.
 
 Time to concentrate on the actual artworks. From Piet Mondrian, a luminous early-career landscape. Paul Klee, a couple of pulsating watercolours. And my favourite, the minimalist Brice Marden with some designs for the Basel cathedral windows, from the 1970s.
 
