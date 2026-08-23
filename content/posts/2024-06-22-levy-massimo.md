@@ -1,7 +1,7 @@
 ---
 title: "Hannah Levy: Bulge | Massimo de Carlo"
 date: 2024-06-23
-slug: "/levy-massimo-1"
+slug: "/levy-massimo"
 tags:
   - Hannah Levy
   - Massimo de Carlo
