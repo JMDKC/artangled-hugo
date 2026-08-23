@@ -15,7 +15,7 @@ Up the road, fifty-four flags line Bond Street, each one a different sunrise or 
 
 ![Ugo Rondinone: More Light (installation view)](/rondinone-sadie-coles-1.jpeg)
 
-More Light is the indoor leg, at Sadie Coles HQ. Six paintings on unprimed cotton, each a loose representation of a sunrise or sunset, using three bright colours. He traced the simple shapes in pencil, then adding light and loose washes of colour over the top. The edges of the washes stay open, so the edges look lightly, casually, unfinished.
+[More Light](https://www.sadiecoles.com/exhibitions/more-light) is the indoor leg, at Sadie Coles HQ. Six paintings on unprimed cotton, each a loose representation of a sunrise or sunset, using three bright colours. He traced the simple shapes in pencil, then adding light and loose washes of colour over the top. The edges of the washes stay open, so the edges look lightly, casually, unfinished.
 
 The gallery’s show notes claim that the works are meditative. I found them loudly cute, almost as bold as the courtyard rainbow. There's something generous about Rondinone’s work, anyway: nothing to decode, just lovely washes of colour. We get it, and we’re glad of their collective warmth.
 

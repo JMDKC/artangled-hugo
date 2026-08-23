@@ -8,7 +8,7 @@ tags:
   - London
 ---
 
-This exhibition makes monstrous use of a folkloric idea: that the land talks back, if you're paying attention. (It’s the second exhibition I’ve featured this summer that centres on a sentient landscape.) Daisy Dodd-Noble’s trees, plants and hills are all painted from life, but are all surreally unwholesome. Her branches bobble threateningly under syntheticcoloured skies. Caricatures, not landscapes.
+[This exhibition](https://massimodecarlo.com/exhibitions/the-land-is-speaking) makes monstrous use of a folkloric idea: that the land talks back, if you're paying attention. (It’s the [second exhibition I’ve featured this summer](https://artangled.com/posts/santillan-copperfield/) that centres on a sentient landscape.) Daisy Dodd-Noble’s trees, plants and hills are all painted from life, but are all surreally unwholesome. Her branches bobble threateningly under syntheticcoloured skies. Caricatures, not landscapes.
 
 Two works anchor the show: _Watermeadow Winter_ and _Watermeadow Summer_. The same watermeadow, pictured, months apart. Dodd-Noble clearly went back to these places again and again, across a full turn of the seasons. Maybe she watched how the light and growth changed the same patch of ground, but she didn’t try to portray these changes straight.
 
