@@ -1,6 +1,6 @@
 ---
 title: "Vestiges | Annely Juda Fine Art"
-date: 2026-07-30
+date: 2026-08-30
 slug: "/vestiges-annely-juda"
 tags:
   - Laura Footes
@@ -14,7 +14,7 @@ Her scenes are all London, blurred with overlays. Two pairs of paintings. The fi
 
 I take the 25 and the 205 down Whitechapel Road most weeks. City skyscrapers behind me, markets and mosques on either side. Footes' version of that same route is slightly hallucinatory. Familiar and disorienting at once.
 
-![Laura Footes, 'Night Gardens II' (2026)](/vestiges-annely-juda-1.jpg)
+![Laura Footes, 'Night Gardens II' (2026)](/vestiges-annely-juda-1.jpeg)
 _Night Gardens II_ (2026)
 
 The second pair is aerial views of residential gardens at night. Creeping overgrowth around flimsy wooden fences. Illuminated extensions. Harsh streetlight on the roads. A bruise-coloured sky above it all.
