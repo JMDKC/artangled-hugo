@@ -1,7 +1,7 @@
 ---
 title: "Jasper Marsalis: Still Life | Chisenhale Gallery"
 date: 2026-09-06
-slug: "/marsalis-chisenhale
+slug: "/marsalis-chisenhale"
 tags:
   - Jasper Marsalis
   - Chisenhale Gallery
