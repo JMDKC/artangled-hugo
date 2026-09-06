@@ -16,7 +16,7 @@ It’s a droning, sinister, large-scale audiovisual installation. The video is d
 
 The real kicker is, what we're seeing is all close to live: which we’re sometimes reminded of by the date and time stamp in the corner of a feed. We’re seeing what’s happening _now_(ish), somewhere in the world. Nothing happens of course - cars pass by, clouds eddy along, the static bubbles blankly - _but something might_.
 
-I felt something close to dread during the 30 minutes or so I stayed, feeling as if I was watching a series of establishing scenes in horror movies; that brief few moments of stillness before a burst of shock and gore. I couldn’t help but read narratives into the slmost perfectly uneventful scenes. Imposing movement onto still lives.
+I felt something close to dread during the 30 minutes or so I stayed, feeling as if I was watching a series of establishing scenes in horror movies; those brief few moments of stillness before a burst of shock and gore. I couldn’t help but read narratives into the slmost perfectly uneventful scenes. Imposing movement onto still lives.
 
 Marsalis probably wants me to feel this way, because, in the gallery, there's nowhere comfortable to watch. There’s a smooth, flimsy-seeming wooden slope that you can perch on: no back support. I kept sliding forward, worried that the whole thing was going to give way. It didn’t.
 
