@@ -8,8 +8,6 @@ tags:
   - London
 ---
 
----
-
 [Still Life](https://chisenhale.org.uk/project/jasper-marsalis/) is the first UK institutional show from Jasper Marsalis: who’s US-born, London based and the son of jazz musician Wynton Marsalis. The work belies any comfortable nepo baby origins though: it’s a droning, sinister, large-scale audiovisual installation, built from public broadcast signals.
 
 The video is driven by an algorithm which loops through unsecured IP cameras from around the world, seemingly at random. For example, an aerial view of mountains, a rainy road, and most unsettlingly of all - blank static. The sound is separate but related: local FM radio signals, pulled in and layered into something closer to atmosphere than music.
