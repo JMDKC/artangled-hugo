@@ -10,7 +10,7 @@ tags:
   - London
 ---
 
-Rebecca Ward makes all her works by herself, in her garage in Brooklyn. Now, some of the new ones are brought together in a [new](https://www.ronchinigallery.com/current/) [London exhibition](https://www.ronchinigallery.com/wp-content/uploads/2026/05/ArtPlugged.pdf), which opened before midsummer, hence the title. I know this, because, clocking the obviously labour intensive process that goes in to making her works, I asked the gallerist if she had any assistants? The answer - no, but I wish she wood.
+Rebecca Ward makes all her works by herself, in her garage in Brooklyn. Now, some of the new ones are brought together in a [new](https://www.ronchinigallery.com/current/) [London exhibition](https://www.ronchinigallery.com/wp-content/uploads/2026/05/ArtPlugged.pdf), which opened before midsummer, hence the title. I know this, because, clocking the obviously labour intensive process that goes in to making her works, I asked the gallerist if she had any assistants? The answer - no, but I wish she would.
 
 The paintings - or maybe sculptures? - are made up of meticulously cut and sewed together pieces of canvas, each coloured slightly differently, which are then stretched over the wooden canvas stretchers. This latest set, at Ronchini, often feature a feathery-looking bottom or side edge, like the fringe of a scarf. Looking closer I could see that these edges too are made up of minutely, precisely cut up and stuck together shards of canvas. All this is made by one person?
 
