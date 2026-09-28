@@ -13,7 +13,7 @@ Some fields of colour in Agata Bogacka's serene, calming paintings don't touch a
 
 This show is Bogacka's second exhibition with the Edel Assanti gallery, and the show notes claim the works are about “systems of domination”, about “power and resistance”. That seems too bombastic to me. What I saw is the aftermath of an argument, an afterglow.
 
-![Agata Bogacka 'Declarations 16' (2026)](/bogacka-assanti-1.jpg)
+![Agata Bogacka 'Declarations 16' (2026)](/bogacka-assanti-1.jpeg)
 _Declarations 16 (2026)_
 
 Gerhard Richter feels like an important reference point: the squeegee-pulled abstracts where the mechanics of applying paint become the whole subject.
