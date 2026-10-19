@@ -14,9 +14,9 @@ tags:
   - London
 ---
 
-Pablo [Picasso](https://artangled.com/tags/pablo-picasso/)'s _L'atelier_ (_The Studio_) was painted in 1956 at La Californie, an opulent villa above Cannes where he had recently moved - and, obviously, had a studio. The fancy furniture and lush sunny view through the high windows both feature in the work. But your eye is drawn irresistibly to the canvas at the centre. It is blank - pure white.
+Pablo [Picasso](https://artangled.com/tags/pablo-picasso/)'s _L'atelier_ (_The Studio_) was painted in 1956 at La Californie, an opulent villa above Cannes where he had recently moved - and, obviously, had a studio. The studio's fancy furniture and the lush views through the high windows both feature in the work. But your eye is drawn irresistibly to the canvas at the centre. It is blank - pure white.
 
-At least, that’s where my eye was drawn. I saw it at [a new exhibition at Nahmad Projects](https://nahmadprojects.com/exhibition/the-studio-anna-freeman-bentley-in-dialogue-with-20th-century-masters/) devoted to depictions of artists’ studios. Around it hang interiors and still lifes by Braque, de Chirico, Raoul Dufy and Matisse. Artists paint what’s around them, so it’s no surprise the studio is a frequent feature. In fact, the empty canvas at the centre of Picasso’s is a direct quote from Courbet's _The Artist's Studio_ (1855).
+At least, that’s where my eye was drawn. I saw it at [a new exhibition at Nahmad Projects](https://nahmadprojects.com/exhibition/the-studio-anna-freeman-bentley-in-dialogue-with-20th-century-masters/) devoted to depictions of artists’ studios. Around the Picasso hang interiors and still lifes by Braque, de Chirico, Raoul Dufy and Matisse. Artists paint what’s around them, so it’s no surprise the studio is frequently featured in their works. The compositions repeat. In fact, the empty canvas at the centre of Picasso’s is a direct quote from Courbet's _The Artist's Studio_ (1855).
 
 ![Pablo Picasso, 'L'atelier (The Studio)' (1956)](/bentley-nahmad-1.jpg)
 _L'atelier (The Studio)_ (1956)
